@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    database: revops-analytics-hub
+    schema: raw
+    tables:
+      - name: accounts
+      - name: products
+      - name: sales_teams
+      - name: sales_pipeline
+      - name: quotas
+      - name: activities
+      - name: costs
+      - name: nps_surveys
+      - name: support_tickets
