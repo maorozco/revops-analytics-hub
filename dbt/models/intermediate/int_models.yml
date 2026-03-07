@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: int_deal_economics
+    description: >
+      Enriches each sales opportunity with product cost data to calculate
+      unit economics: net profit, margin, and pipeline velocity.
+    columns:
+      - name: opportunity_id
+        description: "Unique deal identifier"
+        tests:
+          - unique
+          - not_null
+      - name: net_profit_usd
+        description: "Revenue minus all costs (COGS, shipping, support, commission)"
+      - name: days_in_pipeline
+        description: "Number of days from engage to close"
+      - name: is_won
+        description: "True if deal was won"
+      - name: is_lost
+        description: "True if deal was lost"
+
+  - name: int_sales_performance
+    description: >
+      Monthly agent performance combining revenue from won deals,
+      quota targets, and activity effort metrics.
+    columns:
+      - name: agent_name
+        description: "Sales agent"
+      - name: period_month
+        description: "Month in YYYY-MM format"
+      - name: quota_attainment_pct
+        description: "Revenue / Quota * 100"
+      - name: total_revenue_usd
+        description: "Total revenue from won deals in the month"
+      - name: total_activities
+        description: "Number of sales activities in the month"
+
+  - name: int_customer_health
+    description: >
+      360-degree customer health score combining NPS survey data,
+      support ticket metrics, and revenue history per account.
+      Health score (0-100) is calculated as a weighted composite.
+    columns:
+      - name: account_name
+        description: "Customer account"
+        tests:
+          - unique
+          - not_null
+      - name: health_score
+        description: "Composite score (0-100): 40% NPS + 30% CSAT - ticket penalties + buyer bonus"
+      - name: churn_risk
+        description: "Risk level: High, Medium, Low based on health signals"
+      - name: latest_nps_score
+        description: "Most recent NPS score"
+      - name: avg_satisfaction_rating
+        description: "Average support ticket satisfaction (1-5)"
