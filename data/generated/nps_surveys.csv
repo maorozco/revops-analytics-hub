@@ -1,0 +1,263 @@
+survey_id,account,survey_sent_date,response_date,quarter,nps_score,nps_category,comment,survey_channel
+NPS-00001,Acme Corporation,2017-05-15,2017-05-18,2017-Q2,9,promoter,Helped us scale our operations,email
+NPS-00002,Acme Corporation,2017-08-15,2017-08-21,2017-Q3,10,promoter,The product exceeded our expectations,in_app
+NPS-00003,Acme Corporation,2017-11-15,2017-11-28,2017-Q4,10,promoter,,in_app
+NPS-00004,Betasoloin,2017-02-15,2017-02-20,2017-Q1,9,promoter,Support team is very responsive,in_app
+NPS-00005,Betasoloin,2017-05-15,2017-05-17,2017-Q2,9,promoter,,sms
+NPS-00006,Betasoloin,2017-08-15,2017-08-15,2017-Q3,8,passive,,in_app
+NPS-00007,Betasoloin,2017-11-15,2017-11-24,2017-Q4,10,promoter,Smooth onboarding experience,in_app
+NPS-00008,Betatech,2017-02-15,2017-02-22,2017-Q1,9,promoter,,email
+NPS-00009,Betatech,2017-05-15,2017-05-20,2017-Q2,10,promoter,,in_app
+NPS-00010,Betatech,2017-08-15,2017-08-16,2017-Q3,8,passive,,in_app
+NPS-00011,Bioholding,2017-02-15,2017-02-26,2017-Q1,10,promoter,Very satisfied with the service,in_app
+NPS-00012,Bioholding,2017-05-15,2017-05-29,2017-Q2,9,promoter,Good value for the price,email
+NPS-00013,Bioholding,2017-08-15,2017-08-25,2017-Q3,9,promoter,,email
+NPS-00014,Bioholding,2017-11-15,2017-11-21,2017-Q4,9,promoter,Smooth onboarding experience,email
+NPS-00015,Bioplex,2017-05-15,2017-05-27,2017-Q2,9,promoter,Good value for the price,email
+NPS-00016,Bioplex,2017-08-15,2017-08-15,2017-Q3,8,passive,,email
+NPS-00017,Bioplex,2017-11-15,2017-11-20,2017-Q4,9,promoter,"Great product, easy to use",sms
+NPS-00018,Blackzim,2017-02-15,2017-02-20,2017-Q1,9,promoter,Helped us scale our operations,email
+NPS-00019,Blackzim,2017-08-15,2017-08-16,2017-Q3,8,passive,,sms
+NPS-00020,Blackzim,2017-11-15,2017-11-28,2017-Q4,9,promoter,Would definitely recommend to others,in_app
+NPS-00021,Bluth Company,2017-05-15,2017-05-28,2017-Q2,6,detractor,,email
+NPS-00022,Bluth Company,2017-11-15,2017-11-24,2017-Q4,6,detractor,It works fine for our needs,email
+NPS-00023,Bubba Gump,2017-02-15,2017-02-26,2017-Q1,8,passive,Smooth onboarding experience,in_app
+NPS-00024,Bubba Gump,2017-05-15,2017-05-26,2017-Q2,9,promoter,,email
+NPS-00025,Bubba Gump,2017-11-15,2017-11-25,2017-Q4,10,promoter,The product exceeded our expectations,in_app
+NPS-00026,Cancity,2017-05-15,2017-05-19,2017-Q2,8,passive,,in_app
+NPS-00027,Cancity,2017-08-15,2017-08-15,2017-Q3,9,promoter,Good value for the price,email
+NPS-00028,Cancity,2017-11-15,2017-11-18,2017-Q4,10,promoter,The product exceeded our expectations,email
+NPS-00029,Cheers,2017-02-15,2017-02-21,2017-Q1,8,passive,Good value for the price,email
+NPS-00030,Cheers,2017-05-15,2017-05-15,2017-Q2,9,promoter,,in_app
+NPS-00031,Cheers,2017-11-15,2017-11-29,2017-Q4,9,promoter,,email
+NPS-00032,Codehow,2017-02-15,2017-02-15,2017-Q1,9,promoter,Good value for the price,email
+NPS-00033,Codehow,2017-05-15,2017-05-16,2017-Q2,9,promoter,Helped us scale our operations,in_app
+NPS-00034,Codehow,2017-08-15,2017-08-20,2017-Q3,8,passive,,in_app
+NPS-00035,Condax,2017-02-15,2017-02-24,2017-Q1,9,promoter,Very satisfied with the service,email
+NPS-00036,Condax,2017-08-15,2017-08-21,2017-Q3,9,promoter,Very satisfied with the service,email
+NPS-00037,Condax,2017-11-15,2017-11-17,2017-Q4,10,promoter,The product exceeded our expectations,email
+NPS-00038,Conecom,2017-05-15,2017-05-21,2017-Q2,9,promoter,Would definitely recommend to others,sms
+NPS-00039,Conecom,2017-08-15,2017-08-20,2017-Q3,10,promoter,The product exceeded our expectations,in_app
+NPS-00040,Dalttechnology,2017-02-15,2017-02-28,2017-Q1,10,promoter,,email
+NPS-00041,Dalttechnology,2017-05-15,2017-05-24,2017-Q2,10,promoter,Would definitely recommend to others,email
+NPS-00042,Dalttechnology,2017-08-15,2017-08-25,2017-Q3,9,promoter,The product exceeded our expectations,in_app
+NPS-00043,Dalttechnology,2017-11-15,2017-11-26,2017-Q4,10,promoter,Smooth onboarding experience,in_app
+NPS-00044,dambase,2017-02-15,2017-02-23,2017-Q1,8,passive,Helped us scale our operations,in_app
+NPS-00045,dambase,2017-08-15,2017-08-18,2017-Q3,10,promoter,"Great product, easy to use",email
+NPS-00046,dambase,2017-11-15,2017-11-17,2017-Q4,9,promoter,,email
+NPS-00047,Domzoom,2017-02-15,2017-02-23,2017-Q1,9,promoter,Smooth onboarding experience,sms
+NPS-00048,Domzoom,2017-05-15,2017-05-22,2017-Q2,9,promoter,,sms
+NPS-00049,Domzoom,2017-11-15,2017-11-18,2017-Q4,8,passive,Helped us scale our operations,email
+NPS-00050,Doncon,2017-02-15,2017-03-01,2017-Q1,8,passive,Good value for the price,email
+NPS-00051,Doncon,2017-11-15,2017-11-20,2017-Q4,9,promoter,,email
+NPS-00052,Donquadtech,2017-02-15,2017-02-28,2017-Q1,9,promoter,Helped us scale our operations,email
+NPS-00053,Donquadtech,2017-08-15,2017-08-25,2017-Q3,8,passive,,email
+NPS-00054,Donquadtech,2017-11-15,2017-11-22,2017-Q4,8,passive,Helped us scale our operations,in_app
+NPS-00055,Dontechi,2017-05-15,2017-05-22,2017-Q2,9,promoter,Helped us scale our operations,email
+NPS-00056,Donware,2017-05-15,2017-05-22,2017-Q2,8,passive,Very satisfied with the service,email
+NPS-00057,Donware,2017-08-15,2017-08-23,2017-Q3,8,passive,,in_app
+NPS-00058,Donware,2017-11-15,2017-11-25,2017-Q4,7,passive,,in_app
+NPS-00059,Fasehatice,2017-08-15,2017-08-19,2017-Q3,9,promoter,Support team is very responsive,in_app
+NPS-00060,Fasehatice,2017-11-15,2017-11-21,2017-Q4,8,passive,Smooth onboarding experience,sms
+NPS-00061,Faxquote,2017-05-15,2017-05-29,2017-Q2,10,promoter,"Great product, easy to use",email
+NPS-00062,Faxquote,2017-08-15,2017-08-21,2017-Q3,10,promoter,,email
+NPS-00063,Faxquote,2017-11-15,2017-11-17,2017-Q4,9,promoter,,email
+NPS-00064,Finhigh,2017-02-15,2017-02-25,2017-Q1,9,promoter,Very satisfied with the service,in_app
+NPS-00065,Finhigh,2017-05-15,2017-05-27,2017-Q2,8,passive,,in_app
+NPS-00066,Finhigh,2017-08-15,2017-08-22,2017-Q3,9,promoter,Very satisfied with the service,email
+NPS-00067,Finhigh,2017-11-15,2017-11-23,2017-Q4,10,promoter,,sms
+NPS-00068,Finjob,2017-02-15,2017-02-20,2017-Q1,9,promoter,,email
+NPS-00069,Finjob,2017-05-15,2017-05-27,2017-Q2,9,promoter,Would definitely recommend to others,email
+NPS-00070,Finjob,2017-08-15,2017-08-15,2017-Q3,8,passive,Very satisfied with the service,email
+NPS-00071,Finjob,2017-11-15,2017-11-24,2017-Q4,9,promoter,Support team is very responsive,email
+NPS-00072,Funholding,2017-02-15,2017-03-01,2017-Q1,10,promoter,,email
+NPS-00073,Funholding,2017-05-15,2017-05-29,2017-Q2,9,promoter,Support team is very responsive,email
+NPS-00074,Funholding,2017-08-15,2017-08-16,2017-Q3,8,passive,Very satisfied with the service,email
+NPS-00075,Ganjaflex,2017-02-15,2017-02-28,2017-Q1,9,promoter,,in_app
+NPS-00076,Ganjaflex,2017-05-15,2017-05-23,2017-Q2,9,promoter,Good value for the price,sms
+NPS-00077,Ganjaflex,2017-08-15,2017-08-21,2017-Q3,9,promoter,Support team is very responsive,in_app
+NPS-00078,Ganjaflex,2017-11-15,2017-11-24,2017-Q4,9,promoter,Helped us scale our operations,sms
+NPS-00079,Gekko & Co,2017-02-15,2017-02-21,2017-Q1,8,passive,,email
+NPS-00080,Gekko & Co,2017-05-15,2017-05-20,2017-Q2,10,promoter,Very satisfied with the service,email
+NPS-00081,Gekko & Co,2017-08-15,2017-08-17,2017-Q3,9,promoter,Helped us scale our operations,in_app
+NPS-00082,Gekko & Co,2017-11-15,2017-11-24,2017-Q4,9,promoter,Good value for the price,email
+NPS-00083,Genco Pura Olive Oil Company,2017-02-15,2017-02-27,2017-Q1,10,promoter,,in_app
+NPS-00084,Genco Pura Olive Oil Company,2017-05-15,2017-05-29,2017-Q2,9,promoter,,email
+NPS-00085,Genco Pura Olive Oil Company,2017-08-15,2017-08-29,2017-Q3,8,passive,Smooth onboarding experience,email
+NPS-00086,Genco Pura Olive Oil Company,2017-11-15,2017-11-20,2017-Q4,9,promoter,Support team is very responsive,email
+NPS-00087,Globex Corporation,2017-02-15,2017-02-16,2017-Q1,8,passive,The product exceeded our expectations,email
+NPS-00088,Globex Corporation,2017-08-15,2017-08-20,2017-Q3,10,promoter,Support team is very responsive,email
+NPS-00089,Globex Corporation,2017-11-15,2017-11-24,2017-Q4,8,passive,Good value for the price,email
+NPS-00090,Gogozoom,2017-02-15,2017-02-26,2017-Q1,9,promoter,,in_app
+NPS-00091,Gogozoom,2017-05-15,2017-05-21,2017-Q2,10,promoter,,in_app
+NPS-00092,Gogozoom,2017-08-15,2017-08-26,2017-Q3,9,promoter,,email
+NPS-00093,Gogozoom,2017-11-15,2017-11-17,2017-Q4,10,promoter,"Great product, easy to use",in_app
+NPS-00094,Golddex,2017-02-15,2017-02-16,2017-Q1,8,passive,"Great product, easy to use",in_app
+NPS-00095,Golddex,2017-11-15,2017-11-23,2017-Q4,8,passive,Support team is very responsive,in_app
+NPS-00096,Goodsilron,2017-02-15,2017-02-16,2017-Q1,8,passive,"Great product, easy to use",email
+NPS-00097,Goodsilron,2017-08-15,2017-08-29,2017-Q3,8,passive,,email
+NPS-00098,Goodsilron,2017-11-15,2017-11-28,2017-Q4,9,promoter,Very satisfied with the service,in_app
+NPS-00099,Green-Plus,2017-02-15,2017-02-16,2017-Q1,10,promoter,The product exceeded our expectations,in_app
+NPS-00100,Green-Plus,2017-08-15,2017-08-20,2017-Q3,10,promoter,"Great product, easy to use",email
+NPS-00101,Green-Plus,2017-11-15,2017-11-21,2017-Q4,9,promoter,"Great product, easy to use",email
+NPS-00102,Groovestreet,2017-05-15,2017-05-24,2017-Q2,9,promoter,"Great product, easy to use",in_app
+NPS-00103,Groovestreet,2017-08-15,2017-08-29,2017-Q3,9,promoter,,email
+NPS-00104,Groovestreet,2017-11-15,2017-11-25,2017-Q4,9,promoter,Helped us scale our operations,in_app
+NPS-00105,Hatfan,2017-02-15,2017-02-16,2017-Q1,10,promoter,Would definitely recommend to others,in_app
+NPS-00106,Hatfan,2017-08-15,2017-08-20,2017-Q3,8,passive,Smooth onboarding experience,sms
+NPS-00107,Hatfan,2017-11-15,2017-11-26,2017-Q4,10,promoter,Smooth onboarding experience,email
+NPS-00108,Hottechi,2017-02-15,2017-02-27,2017-Q1,9,promoter,,email
+NPS-00109,Hottechi,2017-05-15,2017-05-23,2017-Q2,9,promoter,Good value for the price,email
+NPS-00110,Hottechi,2017-08-15,2017-08-22,2017-Q3,10,promoter,,email
+NPS-00111,Hottechi,2017-11-15,2017-11-22,2017-Q4,8,passive,Helped us scale our operations,email
+NPS-00112,Initech,2017-02-15,2017-02-19,2017-Q1,9,promoter,Very satisfied with the service,email
+NPS-00113,Initech,2017-08-15,2017-08-24,2017-Q3,10,promoter,,sms
+NPS-00114,Initech,2017-11-15,2017-11-20,2017-Q4,10,promoter,Good value for the price,in_app
+NPS-00115,Inity,2017-02-15,2017-02-22,2017-Q1,9,promoter,,in_app
+NPS-00116,Inity,2017-05-15,2017-05-28,2017-Q2,9,promoter,Good value for the price,email
+NPS-00117,Isdom,2017-02-15,2017-03-01,2017-Q1,9,promoter,Support team is very responsive,email
+NPS-00118,Isdom,2017-05-15,2017-05-23,2017-Q2,8,passive,Helped us scale our operations,in_app
+NPS-00119,Isdom,2017-08-15,2017-08-23,2017-Q3,8,passive,Support team is very responsive,in_app
+NPS-00120,Isdom,2017-11-15,2017-11-16,2017-Q4,8,passive,Would definitely recommend to others,email
+NPS-00121,Iselectrics,2017-05-15,2017-05-22,2017-Q2,9,promoter,Smooth onboarding experience,email
+NPS-00122,Iselectrics,2017-11-15,2017-11-17,2017-Q4,7,passive,Some features could be improved,email
+NPS-00123,J-Texon,2017-02-15,2017-02-22,2017-Q1,10,promoter,Helped us scale our operations,in_app
+NPS-00124,J-Texon,2017-05-15,2017-05-19,2017-Q2,9,promoter,,email
+NPS-00125,Kan-code,2017-02-15,2017-02-28,2017-Q1,9,promoter,,email
+NPS-00126,Kan-code,2017-05-15,2017-05-28,2017-Q2,10,promoter,Support team is very responsive,in_app
+NPS-00127,Kan-code,2017-08-15,2017-08-19,2017-Q3,9,promoter,,in_app
+NPS-00128,Kan-code,2017-11-15,2017-11-29,2017-Q4,8,passive,The product exceeded our expectations,in_app
+NPS-00129,Kinnamplus,2017-02-15,2017-02-21,2017-Q1,8,passive,Support team is very responsive,in_app
+NPS-00130,Kinnamplus,2017-08-15,2017-08-26,2017-Q3,10,promoter,Would definitely recommend to others,in_app
+NPS-00131,Kinnamplus,2017-11-15,2017-11-24,2017-Q4,10,promoter,Smooth onboarding experience,email
+NPS-00132,Konex,2017-02-15,2017-02-15,2017-Q1,9,promoter,"Great product, easy to use",email
+NPS-00133,Konex,2017-05-15,2017-05-28,2017-Q2,8,passive,Very satisfied with the service,in_app
+NPS-00134,Konex,2017-08-15,2017-08-24,2017-Q3,8,passive,"Great product, easy to use",email
+NPS-00135,Konex,2017-11-15,2017-11-26,2017-Q4,10,promoter,,in_app
+NPS-00136,Konmatfix,2017-02-15,2017-02-25,2017-Q1,10,promoter,Helped us scale our operations,in_app
+NPS-00137,Konmatfix,2017-05-15,2017-05-22,2017-Q2,10,promoter,,in_app
+NPS-00138,Konmatfix,2017-08-15,2017-08-27,2017-Q3,8,passive,"Great product, easy to use",in_app
+NPS-00139,Konmatfix,2017-11-15,2017-11-19,2017-Q4,8,passive,The product exceeded our expectations,email
+NPS-00140,Labdrill,2017-02-15,2017-03-01,2017-Q1,10,promoter,Would definitely recommend to others,email
+NPS-00141,Labdrill,2017-05-15,2017-05-26,2017-Q2,8,passive,The product exceeded our expectations,email
+NPS-00142,Labdrill,2017-08-15,2017-08-22,2017-Q3,10,promoter,Support team is very responsive,email
+NPS-00143,Labdrill,2017-11-15,2017-11-17,2017-Q4,8,passive,Support team is very responsive,email
+NPS-00144,Lexiqvolax,2017-02-15,2017-03-01,2017-Q1,9,promoter,,sms
+NPS-00145,Lexiqvolax,2017-05-15,2017-05-20,2017-Q2,9,promoter,Smooth onboarding experience,in_app
+NPS-00146,Lexiqvolax,2017-08-15,2017-08-28,2017-Q3,10,promoter,,email
+NPS-00147,Massive Dynamic,2017-02-15,2017-02-21,2017-Q1,8,passive,,in_app
+NPS-00148,Massive Dynamic,2017-05-15,2017-05-23,2017-Q2,9,promoter,"Great product, easy to use",email
+NPS-00149,Massive Dynamic,2017-08-15,2017-08-27,2017-Q3,9,promoter,Would definitely recommend to others,in_app
+NPS-00150,Massive Dynamic,2017-11-15,2017-11-21,2017-Q4,9,promoter,"Great product, easy to use",email
+NPS-00151,Mathtouch,2017-02-15,2017-02-22,2017-Q1,8,passive,Smooth onboarding experience,in_app
+NPS-00152,Mathtouch,2017-05-15,2017-05-23,2017-Q2,8,passive,"Great product, easy to use",in_app
+NPS-00153,Mathtouch,2017-08-15,2017-08-23,2017-Q3,9,promoter,,email
+NPS-00154,Mathtouch,2017-11-15,2017-11-26,2017-Q4,8,passive,,in_app
+NPS-00155,Nam-zim,2017-02-15,2017-02-24,2017-Q1,9,promoter,Would definitely recommend to others,email
+NPS-00156,Nam-zim,2017-05-15,2017-05-23,2017-Q2,10,promoter,,email
+NPS-00157,Newex,2017-02-15,2017-02-26,2017-Q1,10,promoter,,email
+NPS-00158,Newex,2017-05-15,2017-05-26,2017-Q2,9,promoter,"Great product, easy to use",in_app
+NPS-00159,Newex,2017-08-15,2017-08-26,2017-Q3,9,promoter,Helped us scale our operations,email
+NPS-00160,Newex,2017-11-15,2017-11-27,2017-Q4,10,promoter,Very satisfied with the service,email
+NPS-00161,Ontomedia,2017-05-15,2017-05-27,2017-Q2,10,promoter,,sms
+NPS-00162,Ontomedia,2017-08-15,2017-08-29,2017-Q3,10,promoter,,email
+NPS-00163,Ontomedia,2017-11-15,2017-11-17,2017-Q4,9,promoter,Helped us scale our operations,in_app
+NPS-00164,Opentech,2017-05-15,2017-05-23,2017-Q2,7,passive,Meets basic requirements,sms
+NPS-00165,Opentech,2017-08-15,2017-08-16,2017-Q3,8,passive,Would definitely recommend to others,email
+NPS-00166,Plexzap,2017-02-15,2017-02-17,2017-Q1,8,passive,Very satisfied with the service,email
+NPS-00167,Plexzap,2017-11-15,2017-11-15,2017-Q4,10,promoter,"Great product, easy to use",email
+NPS-00168,Plusstrip,2017-05-15,2017-05-23,2017-Q2,9,promoter,"Great product, easy to use",email
+NPS-00169,Plusstrip,2017-08-15,2017-08-15,2017-Q3,8,passive,Smooth onboarding experience,email
+NPS-00170,Plusstrip,2017-11-15,2017-11-17,2017-Q4,8,passive,The product exceeded our expectations,email
+NPS-00171,Plussunin,2017-08-15,2017-08-24,2017-Q3,10,promoter,,email
+NPS-00172,Plussunin,2017-11-15,2017-11-22,2017-Q4,8,passive,Smooth onboarding experience,email
+NPS-00173,Rangreen,2017-05-15,2017-05-19,2017-Q2,8,passive,"Great product, easy to use",email
+NPS-00174,Rangreen,2017-11-15,2017-11-22,2017-Q4,8,passive,,email
+NPS-00175,Rantouch,2017-02-15,2017-03-01,2017-Q1,10,promoter,"Great product, easy to use",in_app
+NPS-00176,Rantouch,2017-05-15,2017-05-24,2017-Q2,8,passive,,in_app
+NPS-00177,Rantouch,2017-08-15,2017-08-19,2017-Q3,10,promoter,Smooth onboarding experience,in_app
+NPS-00178,Rantouch,2017-11-15,2017-11-17,2017-Q4,8,passive,,email
+NPS-00179,Ron-tech,2017-02-15,2017-02-23,2017-Q1,9,promoter,Helped us scale our operations,in_app
+NPS-00180,Ron-tech,2017-05-15,2017-05-26,2017-Q2,10,promoter,"Great product, easy to use",in_app
+NPS-00181,Ron-tech,2017-08-15,2017-08-26,2017-Q3,10,promoter,"Great product, easy to use",in_app
+NPS-00182,Ron-tech,2017-11-15,2017-11-20,2017-Q4,10,promoter,,email
+NPS-00183,Rundofase,2017-02-15,2017-02-17,2017-Q1,8,passive,,email
+NPS-00184,Rundofase,2017-05-15,2017-05-20,2017-Q2,8,passive,Very satisfied with the service,in_app
+NPS-00185,Rundofase,2017-08-15,2017-08-26,2017-Q3,8,passive,,email
+NPS-00186,Rundofase,2017-11-15,2017-11-24,2017-Q4,8,passive,The product exceeded our expectations,email
+NPS-00187,Scotfind,2017-02-15,2017-02-27,2017-Q1,8,passive,The product exceeded our expectations,in_app
+NPS-00188,Scotfind,2017-05-15,2017-05-22,2017-Q2,10,promoter,Support team is very responsive,in_app
+NPS-00189,Scotfind,2017-08-15,2017-08-18,2017-Q3,10,promoter,Good value for the price,in_app
+NPS-00190,Scotfind,2017-11-15,2017-11-17,2017-Q4,10,promoter,,email
+NPS-00191,Scottech,2017-02-15,2017-02-19,2017-Q1,9,promoter,"Great product, easy to use",email
+NPS-00192,Scottech,2017-05-15,2017-05-21,2017-Q2,10,promoter,Support team is very responsive,email
+NPS-00193,Scottech,2017-08-15,2017-08-15,2017-Q3,10,promoter,Smooth onboarding experience,email
+NPS-00194,Scottech,2017-11-15,2017-11-17,2017-Q4,8,passive,Very satisfied with the service,sms
+NPS-00195,Silis,2017-02-15,2017-02-21,2017-Q1,10,promoter,,email
+NPS-00196,Silis,2017-05-15,2017-05-26,2017-Q2,8,passive,Smooth onboarding experience,sms
+NPS-00197,Silis,2017-08-15,2017-08-24,2017-Q3,8,passive,"Great product, easy to use",sms
+NPS-00198,Silis,2017-11-15,2017-11-20,2017-Q4,8,passive,Smooth onboarding experience,email
+NPS-00199,Singletechno,2017-02-15,2017-02-15,2017-Q1,8,passive,Good value for the price,email
+NPS-00200,Singletechno,2017-08-15,2017-08-15,2017-Q3,10,promoter,,in_app
+NPS-00201,Singletechno,2017-11-15,2017-11-22,2017-Q4,8,passive,Smooth onboarding experience,email
+NPS-00202,Sonron,2017-02-15,2017-02-15,2017-Q1,9,promoter,,sms
+NPS-00203,Sonron,2017-05-15,2017-05-26,2017-Q2,8,passive,Would definitely recommend to others,in_app
+NPS-00204,Sonron,2017-08-15,2017-08-16,2017-Q3,8,passive,,email
+NPS-00205,Stanredtax,2017-02-15,2017-03-01,2017-Q1,9,promoter,Would definitely recommend to others,email
+NPS-00206,Stanredtax,2017-05-15,2017-05-19,2017-Q2,10,promoter,Very satisfied with the service,email
+NPS-00207,Stanredtax,2017-08-15,2017-08-18,2017-Q3,9,promoter,Would definitely recommend to others,in_app
+NPS-00208,Stanredtax,2017-11-15,2017-11-20,2017-Q4,10,promoter,Good value for the price,in_app
+NPS-00209,Statholdings,2017-05-15,2017-05-28,2017-Q2,9,promoter,Support team is very responsive,in_app
+NPS-00210,Statholdings,2017-08-15,2017-08-18,2017-Q3,9,promoter,Smooth onboarding experience,in_app
+NPS-00211,Statholdings,2017-11-15,2017-11-22,2017-Q4,8,passive,Helped us scale our operations,email
+NPS-00212,Streethex,2017-02-15,2017-02-18,2017-Q1,8,passive,Good value for the price,sms
+NPS-00213,Streethex,2017-05-15,2017-05-20,2017-Q2,10,promoter,The product exceeded our expectations,in_app
+NPS-00214,Streethex,2017-08-15,2017-08-27,2017-Q3,10,promoter,Support team is very responsive,in_app
+NPS-00215,Sumace,2017-02-15,2017-02-21,2017-Q1,8,passive,Smooth onboarding experience,sms
+NPS-00216,Sunnamplex,2017-05-15,2017-05-20,2017-Q2,8,passive,The product exceeded our expectations,email
+NPS-00217,Sunnamplex,2017-08-15,2017-08-23,2017-Q3,9,promoter,,email
+NPS-00218,Sunnamplex,2017-11-15,2017-11-22,2017-Q4,9,promoter,"Great product, easy to use",in_app
+NPS-00219,The New York Inquirer,2017-02-15,2017-02-25,2017-Q1,8,passive,Support team is very responsive,in_app
+NPS-00220,The New York Inquirer,2017-05-15,2017-05-29,2017-Q2,7,passive,Meets basic requirements,in_app
+NPS-00221,Toughzap,2017-05-15,2017-05-29,2017-Q2,9,promoter,"Great product, easy to use",email
+NPS-00222,Toughzap,2017-08-15,2017-08-19,2017-Q3,10,promoter,,sms
+NPS-00223,Toughzap,2017-11-15,2017-11-18,2017-Q4,8,passive,The product exceeded our expectations,in_app
+NPS-00224,Treequote,2017-05-15,2017-05-15,2017-Q2,8,passive,Good value for the price,in_app
+NPS-00225,Treequote,2017-08-15,2017-08-19,2017-Q3,10,promoter,Support team is very responsive,sms
+NPS-00226,Umbrella Corporation,2017-02-15,2017-02-18,2017-Q1,8,passive,Smooth onboarding experience,email
+NPS-00227,Umbrella Corporation,2017-05-15,2017-05-21,2017-Q2,10,promoter,The product exceeded our expectations,email
+NPS-00228,Umbrella Corporation,2017-11-15,2017-11-18,2017-Q4,9,promoter,"Great product, easy to use",in_app
+NPS-00229,Vehement Capital Partners,2017-02-15,2017-02-16,2017-Q1,9,promoter,"Great product, easy to use",email
+NPS-00230,Vehement Capital Partners,2017-05-15,2017-05-27,2017-Q2,9,promoter,Smooth onboarding experience,in_app
+NPS-00231,Vehement Capital Partners,2017-08-15,2017-08-26,2017-Q3,8,passive,Support team is very responsive,email
+NPS-00232,Warephase,2017-05-15,2017-05-18,2017-Q2,9,promoter,Helped us scale our operations,in_app
+NPS-00233,Warephase,2017-08-15,2017-08-25,2017-Q3,8,passive,,in_app
+NPS-00234,Warephase,2017-11-15,2017-11-25,2017-Q4,10,promoter,The product exceeded our expectations,in_app
+NPS-00235,Xx-holding,2017-05-15,2017-05-25,2017-Q2,8,passive,,email
+NPS-00236,Xx-holding,2017-08-15,2017-08-19,2017-Q3,9,promoter,,email
+NPS-00237,Xx-holding,2017-11-15,2017-11-24,2017-Q4,9,promoter,,email
+NPS-00238,Xx-zobam,2017-05-15,2017-05-17,2017-Q2,10,promoter,The product exceeded our expectations,sms
+NPS-00239,Xx-zobam,2017-11-15,2017-11-17,2017-Q4,10,promoter,Very satisfied with the service,in_app
+NPS-00240,Y-corporation,2017-05-15,2017-05-23,2017-Q2,8,passive,Smooth onboarding experience,in_app
+NPS-00241,Y-corporation,2017-08-15,2017-08-19,2017-Q3,9,promoter,"Great product, easy to use",email
+NPS-00242,Y-corporation,2017-11-15,2017-11-27,2017-Q4,10,promoter,Good value for the price,email
+NPS-00243,Yearin,2017-02-15,2017-02-25,2017-Q1,8,passive,,email
+NPS-00244,Yearin,2017-05-15,2017-05-25,2017-Q2,10,promoter,Would definitely recommend to others,email
+NPS-00245,Yearin,2017-08-15,2017-08-21,2017-Q3,9,promoter,,email
+NPS-00246,Yearin,2017-11-15,2017-11-29,2017-Q4,10,promoter,Would definitely recommend to others,email
+NPS-00247,Zathunicon,2017-02-15,2017-02-28,2017-Q1,9,promoter,The product exceeded our expectations,in_app
+NPS-00248,Zathunicon,2017-05-15,2017-05-22,2017-Q2,9,promoter,Would definitely recommend to others,sms
+NPS-00249,Zathunicon,2017-11-15,2017-11-21,2017-Q4,9,promoter,Support team is very responsive,email
+NPS-00250,Zencorporation,2017-05-15,2017-05-23,2017-Q2,9,promoter,,in_app
+NPS-00251,Zencorporation,2017-08-15,2017-08-21,2017-Q3,8,passive,Good value for the price,sms
+NPS-00252,Zencorporation,2017-11-15,2017-11-29,2017-Q4,9,promoter,Very satisfied with the service,in_app
+NPS-00253,Zoomit,2017-02-15,2017-02-26,2017-Q1,8,passive,"Great product, easy to use",email
+NPS-00254,Zoomit,2017-05-15,2017-05-22,2017-Q2,8,passive,Helped us scale our operations,email
+NPS-00255,Zoomit,2017-08-15,2017-08-20,2017-Q3,10,promoter,Would definitely recommend to others,email
+NPS-00256,Zotware,2017-02-15,2017-03-01,2017-Q1,8,passive,Good value for the price,email
+NPS-00257,Zotware,2017-05-15,2017-05-16,2017-Q2,9,promoter,The product exceeded our expectations,in_app
+NPS-00258,Zotware,2017-08-15,2017-08-28,2017-Q3,10,promoter,,email
+NPS-00259,Zotware,2017-11-15,2017-11-21,2017-Q4,8,passive,Very satisfied with the service,email
+NPS-00260,Zumgoity,2017-05-15,2017-05-28,2017-Q2,8,passive,Helped us scale our operations,email
+NPS-00261,Zumgoity,2017-08-15,2017-08-29,2017-Q3,9,promoter,Would definitely recommend to others,sms
+NPS-00262,Zumgoity,2017-11-15,2017-11-17,2017-Q4,9,promoter,,email

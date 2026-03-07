@@ -1,0 +1,8 @@
+product,series,sales_price_usd,cogs_usd,shipping_cost_usd,support_cost_per_unit_usd,sales_commission_pct,gross_margin_pct
+GTX Basic,GTX,550,273.06,14.3,33.17,0.091,0.5035
+GTX Pro,GTX,4821,2310.15,194.28,208.96,0.112,0.5208
+MG Special,MG,55,33.57,2.21,3.08,0.0517,0.3895
+MG Advanced,MG,3393,1972.71,81.52,144.08,0.1165,0.4186
+GTX Plus Pro,GTX,5482,2568.48,211.68,278.19,0.0864,0.5315
+GTX Plus Basic,GTX,1096,441.3,41.83,54.93,0.1112,0.5974
+GTK 500,GTK,26768,15484.96,1290.04,1169.98,0.0837,0.4215

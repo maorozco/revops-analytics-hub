@@ -1,0 +1,1583 @@
+ticket_id,account,created_date,resolved_date,category,priority,status,resolution_hours,satisfaction_rating,agent_name
+TKT-000001,Acme Corporation,2017-12-23,2017-12-27,account_management,medium,resolved,117.0,3.0,Allison Hill
+TKT-000002,Acme Corporation,2017-01-27,2017-01-28,technical,medium,resolved,47.0,4.0,Noah Rhodes
+TKT-000003,Acme Corporation,2017-05-16,2017-05-17,billing,medium,resolved,45.0,5.0,Angie Henderson
+TKT-000004,Acme Corporation,2017-08-30,2017-08-30,onboarding,high,resolved,12.0,4.0,Daniel Wagner
+TKT-000005,Acme Corporation,2017-11-03,,billing,critical,waiting_on_customer,,,Cristian Santos
+TKT-000006,Acme Corporation,2017-09-12,2017-09-13,technical,medium,resolved,28.0,4.0,Connie Lawrence
+TKT-000007,Acme Corporation,2017-05-06,2017-05-09,bug_report,medium,resolved,79.0,,Abigail Shaffer
+TKT-000008,Acme Corporation,2017-11-14,2017-11-16,billing,low,resolved,69.0,4.0,Gina Moore
+TKT-000009,Acme Corporation,2017-03-27,2017-03-30,technical,medium,resolved,91.0,3.0,Gabrielle Davis
+TKT-000010,Acme Corporation,2017-11-20,2017-11-21,technical,high,resolved,43.0,4.0,Ryan Munoz
+TKT-000011,Acme Corporation,2017-11-06,2017-11-06,feature_request,medium,resolved,12.0,,Monica Herrera
+TKT-000012,Acme Corporation,2017-06-26,,billing,critical,waiting_on_customer,,,Jamie Arnold
+TKT-000013,Acme Corporation,2017-10-21,,billing,low,escalated,,,Lisa Hensley
+TKT-000014,Acme Corporation,2017-06-04,2017-06-05,feature_request,high,resolved,40.0,4.0,Michele Williams
+TKT-000015,Acme Corporation,2017-04-22,,technical,critical,open,,,Dylan Miller
+TKT-000016,Acme Corporation,2017-09-08,,account_management,low,open,,,Brian Ramirez
+TKT-000017,Acme Corporation,2017-01-30,2017-01-31,technical,medium,resolved,30.0,3.0,Holly Wood
+TKT-000018,Acme Corporation,2017-09-21,,technical,medium,escalated,,,Derek Zuniga
+TKT-000019,Acme Corporation,2017-03-09,2017-03-13,bug_report,low,resolved,108.0,2.0,Lisa Jackson
+TKT-000020,Acme Corporation,2017-04-24,2017-04-24,technical,medium,resolved,12.0,,Carla Gray
+TKT-000021,Acme Corporation,2017-01-24,,feature_request,medium,waiting_on_customer,,,Margaret Hawkins DDS
+TKT-000022,Acme Corporation,2017-03-31,2017-03-31,account_management,critical,resolved,7.0,,Patty Perez
+TKT-000023,Acme Corporation,2017-07-15,2017-07-17,technical,low,resolved,67.0,,Ethan Adams
+TKT-000024,Betasoloin,2017-12-28,,bug_report,medium,waiting_on_customer,,,Tommy Walter
+TKT-000025,Betasoloin,2017-10-31,2017-11-03,billing,medium,resolved,75.0,,Matthew Foster
+TKT-000026,Betasoloin,2017-05-06,2017-05-07,technical,high,resolved,24.0,4.0,Judy Baker
+TKT-000027,Betasoloin,2017-06-18,,technical,high,waiting_on_customer,,,Justin Baker
+TKT-000028,Betasoloin,2017-09-20,2017-09-25,billing,low,resolved,142.0,2.0,Stephanie Ross
+TKT-000029,Betasoloin,2017-08-02,2017-08-03,technical,medium,resolved,24.0,,Zachary Hicks
+TKT-000030,Betasoloin,2017-09-26,2017-10-05,feature_request,low,resolved,230.0,2.0,Anthony Rodriguez
+TKT-000031,Betasoloin,2017-08-08,2017-08-09,bug_report,high,resolved,46.0,,Rebecca Henderson
+TKT-000032,Betasoloin,2017-04-29,2017-04-29,technical,critical,resolved,4.0,4.0,James Ferrell
+TKT-000033,Betasoloin,2017-06-24,2017-06-25,technical,high,resolved,33.0,,Tricia Valencia
+TKT-000034,Betasoloin,2017-02-21,2017-02-25,account_management,low,resolved,106.0,2.0,Nathan Maldonado
+TKT-000035,Betasoloin,2017-05-05,2017-05-06,feature_request,high,resolved,39.0,4.0,Debra Davidson
+TKT-000036,Betasoloin,2017-10-01,,bug_report,medium,waiting_on_customer,,,Jeffrey Chavez
+TKT-000037,Betasoloin,2017-07-27,2017-07-31,technical,low,resolved,106.0,3.0,Sherri Baker
+TKT-000038,Betasoloin,2017-12-26,,billing,low,open,,,Cassandra Gaines
+TKT-000039,Betasoloin,2017-01-01,2017-01-01,technical,critical,resolved,4.0,5.0,Elizabeth Fowler
+TKT-000040,Betasoloin,2017-12-29,2017-12-29,billing,medium,resolved,14.0,,Brittany Farmer
+TKT-000041,Betasoloin,2017-10-26,,billing,medium,open,,,Paula Moreno
+TKT-000042,Betasoloin,2017-03-30,2017-04-04,technical,low,resolved,127.0,3.0,Fred Smith
+TKT-000043,Betasoloin,2017-09-24,2017-09-26,technical,medium,resolved,63.0,,Sherry Decker
+TKT-000044,Betasoloin,2017-09-19,2017-09-21,account_management,medium,resolved,60.0,,Anthony Humphrey
+TKT-000045,Betasoloin,2017-02-16,2017-02-16,onboarding,medium,resolved,19.0,,Angelica Tucker
+TKT-000046,Betasoloin,2017-07-01,2017-07-04,feature_request,medium,resolved,85.0,4.0,Philip Cannon
+TKT-000047,Betasoloin,2017-11-05,2017-11-05,technical,critical,resolved,4.0,5.0,John Pierce
+TKT-000048,Betasoloin,2017-12-26,,technical,low,waiting_on_customer,,,Shane Henderson
+TKT-000049,Betasoloin,2017-07-15,2017-07-24,onboarding,low,resolved,232.0,2.0,Joshua Blair
+TKT-000050,Betatech,2017-01-16,2017-01-16,billing,critical,resolved,7.0,5.0,Eric Carney
+TKT-000051,Betatech,2017-11-11,2017-11-13,billing,medium,resolved,63.0,4.0,Jessica Holmes
+TKT-000052,Betatech,2017-11-29,2017-12-01,billing,medium,resolved,54.0,5.0,Danny Morgan
+TKT-000053,Betatech,2017-07-31,2017-08-09,technical,low,resolved,216.0,3.0,Crystal Robinson
+TKT-000054,Betatech,2017-05-25,2017-05-25,technical,critical,resolved,1.0,,Mark Perez
+TKT-000055,Betatech,2017-09-05,,onboarding,low,waiting_on_customer,,,Shannon Jones
+TKT-000056,Betatech,2017-05-21,2017-05-22,onboarding,low,resolved,46.0,,Michael Lewis
+TKT-000057,Betatech,2017-12-21,2017-12-22,billing,high,resolved,41.0,,Timothy Duncan
+TKT-000058,Betatech,2017-12-19,2017-12-25,technical,low,resolved,147.0,,Richard Aguirre
+TKT-000059,Betatech,2017-11-17,,billing,high,open,,,Brent Jordan
+TKT-000060,Betatech,2017-10-18,2017-10-18,technical,high,resolved,17.0,,John Daniel
+TKT-000061,Betatech,2017-11-26,2017-12-02,onboarding,low,resolved,156.0,,Victoria Garcia
+TKT-000062,Betatech,2017-12-08,2017-12-11,billing,medium,resolved,74.0,3.0,Gerald Hensley
+TKT-000063,Betatech,2017-06-14,2017-06-15,technical,high,resolved,42.0,4.0,Connor West
+TKT-000064,Betatech,2017-08-26,2017-08-29,technical,low,resolved,74.0,3.0,Donald Wright
+TKT-000065,Betatech,2017-10-18,2017-10-23,onboarding,low,resolved,138.0,,Jessica Callahan
+TKT-000066,Betatech,2017-10-31,2017-11-03,technical,medium,resolved,89.0,,Amber Kidd
+TKT-000067,Betatech,2017-10-17,2017-10-20,technical,medium,resolved,73.0,,Tracy House
+TKT-000068,Betatech,2017-05-01,,onboarding,high,waiting_on_customer,,,Carol Tucker
+TKT-000069,Betatech,2017-01-06,2017-01-12,feature_request,low,resolved,150.0,4.0,James Brown
+TKT-000070,Betatech,2017-05-29,2017-05-30,feature_request,high,resolved,44.0,5.0,William Baker
+TKT-000071,Betatech,2017-11-10,2017-11-10,bug_report,critical,resolved,6.0,4.0,Jordan Henderson
+TKT-000072,Betatech,2017-06-08,,onboarding,critical,escalated,,,Whitney Peters
+TKT-000073,Betatech,2017-12-17,2017-12-20,account_management,medium,resolved,75.0,3.0,Brittney Phillips
+TKT-000074,Bioholding,2017-07-28,2017-07-30,feature_request,medium,resolved,56.0,,Lauren Daniels
+TKT-000075,Bioholding,2017-05-23,2017-05-28,billing,low,resolved,121.0,1.0,Amy Silva
+TKT-000076,Bioholding,2017-06-13,2017-06-13,account_management,medium,resolved,16.0,,Sarah Moore
+TKT-000077,Bioholding,2017-09-14,2017-09-17,technical,low,resolved,95.0,,Angela Lopez
+TKT-000078,Bioholding,2017-07-18,,account_management,low,waiting_on_customer,,,Megan Young
+TKT-000079,Bioholding,2017-10-03,2017-10-04,billing,medium,resolved,40.0,,Steve Sanchez
+TKT-000080,Bioholding,2017-07-01,2017-07-01,technical,critical,resolved,1.0,5.0,Lisa Barnes
+TKT-000081,Bioholding,2017-03-23,,feature_request,critical,escalated,,,Kelly Donovan
+TKT-000082,Bioholding,2017-02-01,2017-02-01,technical,high,resolved,8.0,5.0,Mike Allen
+TKT-000083,Bioholding,2017-11-14,2017-11-15,onboarding,high,resolved,42.0,,Michael Evans
+TKT-000084,Bioholding,2017-01-16,2017-01-17,technical,high,resolved,37.0,4.0,Paul Jones
+TKT-000085,Bioholding,2017-12-12,2017-12-13,bug_report,high,resolved,34.0,,Zachary Ferrell
+TKT-000086,Bioholding,2017-01-08,2017-01-10,billing,medium,resolved,49.0,,Daniel Baker
+TKT-000087,Bioholding,2017-12-13,2017-12-14,billing,high,resolved,24.0,,Shirley Suarez
+TKT-000088,Bioholding,2017-04-16,,billing,high,open,,,Christopher Bass
+TKT-000089,Bioholding,2017-05-29,2017-06-07,account_management,low,resolved,230.0,3.0,Lisa Archer
+TKT-000090,Bioplex,2017-06-28,2017-06-30,account_management,medium,resolved,53.0,,Aimee Montoya
+TKT-000091,Bioplex,2017-03-10,2017-03-14,technical,medium,resolved,100.0,,Matthew Mcmillan
+TKT-000092,Bioplex,2017-05-02,2017-05-05,technical,low,resolved,73.0,2.0,Brian Rodriguez
+TKT-000093,Bioplex,2017-12-16,2017-12-20,bug_report,medium,resolved,115.0,2.0,Denise Jacobs
+TKT-000094,Bioplex,2017-05-01,2017-05-02,onboarding,low,resolved,46.0,5.0,Christina Walters
+TKT-000095,Bioplex,2017-12-28,2017-12-30,feature_request,medium,resolved,67.0,,John Whitehead
+TKT-000096,Bioplex,2017-08-24,,feature_request,high,open,,,Anna Henderson
+TKT-000097,Bioplex,2017-12-28,2017-12-30,billing,low,resolved,66.0,5.0,Aaron Wise
+TKT-000098,Bioplex,2017-05-29,2017-05-30,onboarding,high,resolved,36.0,,Deborah Figueroa
+TKT-000099,Bioplex,2017-08-23,2017-08-23,account_management,medium,resolved,17.0,,Jessica Smith
+TKT-000100,Blackzim,2017-12-25,2017-12-29,bug_report,medium,resolved,107.0,1.0,Stephen Mckee
+TKT-000101,Blackzim,2017-09-12,2017-09-15,onboarding,low,resolved,95.0,3.0,Sandra Aguilar
+TKT-000102,Blackzim,2017-11-02,2017-11-04,feature_request,medium,resolved,70.0,3.0,Cameron Parker
+TKT-000103,Blackzim,2017-01-06,2017-01-07,billing,medium,resolved,31.0,5.0,Rebecca Valencia
+TKT-000104,Blackzim,2017-10-17,2017-10-26,onboarding,low,resolved,234.0,,Christine Wright
+TKT-000105,Blackzim,2017-05-31,,billing,medium,waiting_on_customer,,,Richard Henson
+TKT-000106,Blackzim,2017-05-06,2017-05-10,technical,low,resolved,98.0,,Marc Moore
+TKT-000107,Blackzim,2017-05-11,,billing,low,waiting_on_customer,,,Sharon Cherry
+TKT-000108,Blackzim,2017-12-28,,technical,medium,open,,,Sierra Johnson
+TKT-000109,Blackzim,2017-11-23,2017-11-24,onboarding,low,resolved,24.0,,Evelyn Galvan
+TKT-000110,Blackzim,2017-08-17,2017-08-18,bug_report,high,resolved,35.0,4.0,Sharon Cochran
+TKT-000111,Blackzim,2017-08-01,2017-08-10,technical,low,resolved,235.0,2.0,Richard Rodriguez
+TKT-000112,Bluth Company,2017-11-10,2017-11-16,billing,low,resolved,148.0,1.0,Shannon Walker
+TKT-000113,Bluth Company,2017-02-04,2017-02-04,technical,high,resolved,10.0,,Julia Torres
+TKT-000114,Bluth Company,2017-01-31,2017-02-02,billing,medium,resolved,51.0,4.0,Crystal Johnson
+TKT-000115,Bluth Company,2017-02-13,2017-02-15,feature_request,medium,resolved,63.0,,Garrett Lin
+TKT-000116,Bluth Company,2017-12-10,2017-12-13,technical,medium,resolved,75.0,1.0,Diana May
+TKT-000117,Bluth Company,2017-05-19,2017-05-20,technical,medium,resolved,30.0,,William Herrera
+TKT-000118,Bluth Company,2017-08-25,2017-08-26,feature_request,high,resolved,24.0,4.0,Ashley Waller
+TKT-000119,Bluth Company,2017-01-18,2017-01-18,feature_request,high,resolved,22.0,,Victor Baker
+TKT-000120,Bluth Company,2017-08-17,2017-08-21,account_management,medium,resolved,113.0,3.0,Jeffrey Chandler
+TKT-000121,Bluth Company,2017-01-03,2017-01-04,technical,medium,resolved,35.0,3.0,Larry Dixon
+TKT-000122,Bluth Company,2017-08-26,2017-08-30,technical,low,resolved,115.0,,Kenneth Scott
+TKT-000123,Bluth Company,2017-06-15,,technical,medium,open,,,April Frost
+TKT-000124,Bubba Gump,2017-10-02,,billing,high,open,,,Michelle Harmon
+TKT-000125,Bubba Gump,2017-05-12,2017-05-13,account_management,high,resolved,39.0,3.0,Helen Jones
+TKT-000126,Bubba Gump,2017-07-03,2017-07-10,feature_request,low,resolved,178.0,4.0,Erin Edwards
+TKT-000127,Bubba Gump,2017-04-18,2017-04-21,technical,medium,resolved,81.0,,Michelle Evans
+TKT-000128,Bubba Gump,2017-12-11,2017-12-19,technical,low,resolved,214.0,,Jason Powell
+TKT-000129,Bubba Gump,2017-08-27,2017-08-27,feature_request,medium,resolved,18.0,,Cameron Fisher
+TKT-000130,Bubba Gump,2017-03-05,2017-03-07,billing,low,resolved,61.0,4.0,Megan Orr
+TKT-000131,Bubba Gump,2017-02-22,2017-02-22,billing,medium,resolved,16.0,4.0,Elizabeth Kelley
+TKT-000132,Bubba Gump,2017-01-24,2017-01-27,onboarding,medium,resolved,82.0,4.0,Dustin Jordan
+TKT-000133,Bubba Gump,2017-09-07,,billing,low,waiting_on_customer,,,Mary Marshall
+TKT-000134,Bubba Gump,2017-11-27,,technical,low,escalated,,,Daniel Kennedy
+TKT-000135,Bubba Gump,2017-02-15,2017-02-24,onboarding,low,resolved,235.0,,Rebecca Jackson
+TKT-000136,Bubba Gump,2017-02-13,,onboarding,low,waiting_on_customer,,,Jose Schultz
+TKT-000137,Bubba Gump,2017-12-05,2017-12-09,billing,medium,resolved,97.0,,Robert Potter
+TKT-000138,Cancity,2017-04-19,2017-04-24,technical,low,resolved,127.0,4.0,Courtney Gonzalez
+TKT-000139,Cancity,2017-12-15,2017-12-16,onboarding,high,resolved,24.0,3.0,David Alvarez
+TKT-000140,Cancity,2017-07-06,,account_management,high,waiting_on_customer,,,Angel Perry
+TKT-000141,Cancity,2017-06-19,2017-06-28,technical,low,resolved,217.0,2.0,Cheyenne Horton
+TKT-000142,Cancity,2017-07-11,2017-07-11,feature_request,critical,resolved,1.0,4.0,David Douglas Jr.
+TKT-000143,Cancity,2017-05-12,,technical,high,open,,,Patricia Rodriguez
+TKT-000144,Cancity,2017-01-01,2017-01-09,billing,low,resolved,196.0,3.0,Christopher Rubio
+TKT-000145,Cancity,2017-11-13,2017-11-13,technical,medium,resolved,20.0,5.0,Amber Wright
+TKT-000146,Cancity,2017-06-28,2017-06-30,technical,medium,resolved,64.0,3.0,Joyce Solis
+TKT-000147,Cancity,2017-08-20,2017-08-28,billing,low,resolved,209.0,3.0,Victoria Larson
+TKT-000148,Cancity,2017-12-24,2017-12-31,technical,low,resolved,168.0,3.0,Stephanie Salazar
+TKT-000149,Cancity,2017-02-28,2017-03-01,technical,medium,resolved,28.0,4.0,Kathy Rivas
+TKT-000150,Cancity,2017-02-21,2017-02-23,account_management,low,resolved,69.0,,Stephanie Manning
+TKT-000151,Cancity,2017-03-17,2017-03-19,billing,medium,resolved,55.0,4.0,David Wright
+TKT-000152,Cancity,2017-01-27,2017-01-29,technical,medium,resolved,71.0,5.0,Pamela Boyd
+TKT-000153,Cancity,2017-10-18,2017-10-19,account_management,low,resolved,29.0,5.0,Denise Jones
+TKT-000154,Cancity,2017-03-12,2017-03-13,technical,high,resolved,44.0,5.0,Devon Flores
+TKT-000155,Cancity,2017-12-22,2017-12-22,technical,critical,resolved,1.0,5.0,Brenda Hall
+TKT-000156,Cancity,2017-04-08,2017-04-09,account_management,medium,resolved,33.0,4.0,Michelle Brown
+TKT-000157,Cancity,2017-10-12,2017-10-12,technical,high,resolved,14.0,5.0,Joshua Perry
+TKT-000158,Cancity,2017-11-29,2017-11-30,technical,low,resolved,32.0,,Jason Stein
+TKT-000159,Cancity,2017-07-09,2017-07-10,account_management,medium,resolved,25.0,4.0,Melissa Gates
+TKT-000160,Cancity,2017-09-03,2017-09-06,bug_report,medium,resolved,89.0,,Jamie Smith
+TKT-000161,Cancity,2017-10-26,2017-10-28,technical,medium,resolved,63.0,4.0,Paul Castaneda
+TKT-000162,Cancity,2017-11-26,,technical,high,open,,,Jennifer Adkins
+TKT-000163,Cancity,2017-08-02,2017-08-03,billing,high,resolved,40.0,3.0,Lindsey Walker
+TKT-000164,Cancity,2017-09-01,2017-09-01,bug_report,high,resolved,18.0,,Jeffrey Johnson
+TKT-000165,Cancity,2017-03-05,2017-03-05,technical,critical,resolved,6.0,5.0,Michael Powell
+TKT-000166,Cancity,2017-04-01,2017-04-06,technical,low,resolved,129.0,3.0,John Anderson
+TKT-000167,Cheers,2017-07-17,2017-07-17,onboarding,high,resolved,15.0,4.0,Alyssa Long
+TKT-000168,Cheers,2017-03-14,2017-03-15,billing,high,resolved,34.0,4.0,Alyssa Day
+TKT-000169,Cheers,2017-02-02,2017-02-09,billing,low,resolved,182.0,,Joel Williams
+TKT-000170,Cheers,2017-11-13,2017-11-17,technical,low,resolved,97.0,,Daniel Murphy
+TKT-000171,Cheers,2017-08-04,2017-08-08,technical,low,resolved,106.0,3.0,Jamie Walton
+TKT-000172,Cheers,2017-11-09,2017-11-12,technical,medium,resolved,90.0,4.0,Darlene Miller
+TKT-000173,Cheers,2017-01-15,2017-01-15,billing,medium,resolved,23.0,5.0,Joshua Cooke
+TKT-000174,Cheers,2017-08-10,2017-08-12,technical,medium,resolved,67.0,,Matthew Harrington
+TKT-000175,Cheers,2017-04-08,2017-04-10,technical,medium,resolved,66.0,4.0,Nicole Herring
+TKT-000176,Cheers,2017-07-11,2017-07-16,onboarding,low,resolved,134.0,4.0,Alex Hernandez
+TKT-000177,Cheers,2017-01-24,2017-01-26,billing,medium,resolved,56.0,,Michael Elliott
+TKT-000178,Cheers,2017-09-12,2017-09-12,technical,critical,resolved,2.0,5.0,Michael Wang
+TKT-000179,Cheers,2017-01-20,2017-01-20,technical,high,resolved,22.0,5.0,Lawrence Adkins
+TKT-000180,Cheers,2017-05-09,,account_management,high,escalated,,,Robert Oconnell
+TKT-000181,Codehow,2017-06-02,2017-06-11,technical,low,resolved,228.0,,Alexander Collins
+TKT-000182,Codehow,2017-05-30,2017-06-04,billing,low,resolved,122.0,,Tina Sanders
+TKT-000183,Codehow,2017-04-09,2017-04-10,technical,high,resolved,29.0,3.0,Angela Vaughn
+TKT-000184,Codehow,2017-12-18,2017-12-24,billing,low,resolved,159.0,3.0,Ashley Barton
+TKT-000185,Codehow,2017-04-19,2017-04-28,technical,low,resolved,223.0,3.0,Lindsay Martinez
+TKT-000186,Codehow,2017-07-04,2017-07-07,technical,medium,resolved,79.0,,Dr. Hannah Patterson
+TKT-000187,Codehow,2017-05-29,2017-05-31,technical,low,resolved,71.0,,Jonathan Peterson
+TKT-000188,Codehow,2017-07-30,2017-08-01,billing,medium,resolved,50.0,,Samantha Garcia
+TKT-000189,Codehow,2017-09-10,2017-09-12,technical,medium,resolved,69.0,,Madison Poole
+TKT-000190,Codehow,2017-10-25,,billing,high,open,,,Jessica Gross
+TKT-000191,Codehow,2017-06-24,2017-06-27,account_management,medium,resolved,77.0,,Debra Morton
+TKT-000192,Codehow,2017-12-22,,onboarding,critical,waiting_on_customer,,,Karen Graham
+TKT-000193,Codehow,2017-06-11,2017-06-15,onboarding,medium,resolved,109.0,2.0,Debra Christian
+TKT-000194,Condax,2017-02-01,2017-02-03,technical,medium,resolved,49.0,5.0,Angelica Keith
+TKT-000195,Condax,2017-08-13,2017-08-15,technical,medium,resolved,68.0,,John Bishop
+TKT-000196,Condax,2017-02-13,2017-02-14,technical,medium,resolved,45.0,4.0,Allen Rosales
+TKT-000197,Condax,2017-12-19,,feature_request,medium,escalated,,,Daniel Salinas
+TKT-000198,Condax,2017-04-25,2017-04-29,bug_report,medium,resolved,115.0,2.0,Spencer Haynes
+TKT-000199,Condax,2017-04-03,,billing,medium,escalated,,,Adam Vaughan
+TKT-000200,Condax,2017-09-28,2017-10-01,bug_report,medium,resolved,82.0,,Nathan Freeman
+TKT-000201,Condax,2017-12-05,2017-12-07,feature_request,medium,resolved,70.0,3.0,Melissa Brewer
+TKT-000202,Condax,2017-08-07,2017-08-09,technical,low,resolved,63.0,,Ricky Davis II
+TKT-000203,Condax,2017-06-17,2017-06-17,technical,high,resolved,5.0,5.0,Elizabeth Perkins
+TKT-000204,Condax,2017-08-16,,billing,medium,waiting_on_customer,,,Joseph Coleman
+TKT-000205,Condax,2017-05-22,2017-05-31,billing,low,resolved,224.0,3.0,Erin Warner
+TKT-000206,Condax,2017-06-21,,technical,high,waiting_on_customer,,,David Martinez
+TKT-000207,Condax,2017-08-31,2017-09-03,billing,medium,resolved,78.0,3.0,Bryan Herrera
+TKT-000208,Condax,2017-07-07,2017-07-08,feature_request,low,resolved,38.0,4.0,Cathy Robinson
+TKT-000209,Condax,2017-12-07,2017-12-07,technical,critical,resolved,6.0,5.0,Dr. William Warren
+TKT-000210,Condax,2017-08-26,,technical,medium,escalated,,,Brian Lee
+TKT-000211,Condax,2017-11-29,2017-11-29,onboarding,medium,resolved,15.0,5.0,Christopher Smith
+TKT-000212,Condax,2017-06-06,,technical,medium,escalated,,,Denise Mccann
+TKT-000213,Condax,2017-10-15,2017-10-23,billing,low,resolved,209.0,4.0,Melissa Martinez
+TKT-000214,Condax,2017-04-16,2017-04-17,feature_request,high,resolved,46.0,,Katherine Salas
+TKT-000215,Condax,2017-08-09,2017-08-13,account_management,medium,resolved,99.0,3.0,Julie Alexander
+TKT-000216,Condax,2017-10-02,2017-10-02,technical,medium,resolved,13.0,5.0,Anthony Everett
+TKT-000217,Condax,2017-05-14,2017-05-14,billing,critical,resolved,1.0,,Rodney Morales
+TKT-000218,Condax,2017-11-04,2017-11-06,account_management,medium,resolved,56.0,4.0,Mark Brown
+TKT-000219,Condax,2017-12-02,2017-12-03,billing,high,resolved,41.0,,Justin Torres
+TKT-000220,Condax,2017-04-18,2017-04-19,technical,high,resolved,33.0,5.0,Bailey Duran DDS
+TKT-000221,Conecom,2017-06-12,,technical,low,waiting_on_customer,,,Courtney Mills
+TKT-000222,Conecom,2017-09-24,,technical,medium,escalated,,,Jeremy Dalton
+TKT-000223,Conecom,2017-12-23,2017-12-24,feature_request,high,resolved,25.0,4.0,Elizabeth Oliver DDS
+TKT-000224,Conecom,2017-03-07,2017-03-10,billing,medium,resolved,75.0,2.0,Theresa Clark
+TKT-000225,Conecom,2017-04-16,,billing,low,waiting_on_customer,,,Matthew Moore
+TKT-000226,Conecom,2017-09-30,2017-10-04,billing,medium,resolved,118.0,,Benjamin Smith
+TKT-000227,Conecom,2017-09-27,,feature_request,low,open,,,Kirk Carter
+TKT-000228,Conecom,2017-10-24,,account_management,medium,open,,,Michael Warner
+TKT-000229,Conecom,2017-05-19,2017-05-23,account_management,low,resolved,109.0,,Michael Bradshaw
+TKT-000230,Dalttechnology,2017-11-13,,feature_request,high,waiting_on_customer,,,Lori Guerrero
+TKT-000231,Dalttechnology,2017-11-15,,technical,low,open,,,Jessica Stephens
+TKT-000232,Dalttechnology,2017-01-27,2017-01-27,technical,critical,resolved,5.0,5.0,Susan Serrano
+TKT-000233,Dalttechnology,2017-02-18,2017-02-22,account_management,medium,resolved,114.0,1.0,Christopher Parker
+TKT-000234,Dalttechnology,2017-07-01,2017-07-04,billing,low,resolved,75.0,4.0,Laura Roberts
+TKT-000235,Dalttechnology,2017-07-16,2017-07-23,bug_report,low,resolved,188.0,,Michael Lyons
+TKT-000236,Dalttechnology,2017-09-18,,billing,high,open,,,Kathryn Snyder
+TKT-000237,Dalttechnology,2017-12-23,2017-12-31,technical,low,resolved,205.0,,Andrew Reynolds
+TKT-000238,Dalttechnology,2017-06-14,2017-06-18,feature_request,medium,resolved,112.0,2.0,David Davis
+TKT-000239,Dalttechnology,2017-07-30,2017-07-31,billing,high,resolved,41.0,4.0,Sara Johnston
+TKT-000240,Dalttechnology,2017-07-05,2017-07-06,bug_report,medium,resolved,27.0,3.0,Yvonne Chambers
+TKT-000241,Dalttechnology,2017-10-16,2017-10-21,feature_request,low,resolved,122.0,1.0,Andrew Avila
+TKT-000242,Dalttechnology,2017-03-04,2017-03-12,onboarding,low,resolved,193.0,4.0,Matthew Moon
+TKT-000243,Dalttechnology,2017-09-01,2017-09-03,onboarding,low,resolved,55.0,3.0,Kevin Walters
+TKT-000244,Dalttechnology,2017-10-02,2017-10-02,billing,high,resolved,18.0,,Brandon Bailey MD
+TKT-000245,Dalttechnology,2017-02-01,2017-02-01,technical,critical,resolved,3.0,,Shannon Rivera
+TKT-000246,Dalttechnology,2017-04-23,2017-04-25,bug_report,low,resolved,68.0,4.0,Donna Landry
+TKT-000247,Dalttechnology,2017-03-17,,billing,medium,open,,,Krista Gibson
+TKT-000248,Dalttechnology,2017-10-19,2017-10-21,bug_report,medium,resolved,71.0,3.0,Frank Cordova
+TKT-000249,Dalttechnology,2017-01-14,2017-01-14,onboarding,high,resolved,12.0,5.0,Jose Travis
+TKT-000250,Dalttechnology,2017-12-21,2017-12-21,billing,medium,resolved,21.0,5.0,Kimberly Gutierrez
+TKT-000251,Dalttechnology,2017-11-29,2017-11-30,feature_request,low,resolved,42.0,4.0,Isaiah Avila
+TKT-000252,Dalttechnology,2017-01-24,2017-01-27,technical,medium,resolved,77.0,4.0,Olivia Harris
+TKT-000253,Dalttechnology,2017-10-23,2017-10-24,billing,high,resolved,34.0,,Tanya Kim
+TKT-000254,Dalttechnology,2017-01-01,2017-01-10,onboarding,low,resolved,220.0,1.0,Barbara Dudley
+TKT-000255,Dalttechnology,2017-03-30,2017-03-30,technical,critical,resolved,4.0,,Cynthia Moore
+TKT-000256,Dalttechnology,2017-08-16,2017-08-20,billing,medium,resolved,102.0,2.0,Kristen Davis
+TKT-000257,Dalttechnology,2017-03-21,,technical,medium,escalated,,,Susan Murray MD
+TKT-000258,dambase,2017-05-08,,feature_request,medium,open,,,Kathleen Moran
+TKT-000259,dambase,2017-10-19,2017-10-21,onboarding,low,resolved,51.0,5.0,Denise Davenport
+TKT-000260,dambase,2017-08-26,2017-08-27,technical,medium,resolved,45.0,,Mrs. Kristen Reyes
+TKT-000261,dambase,2017-03-07,2017-03-09,feature_request,medium,resolved,55.0,4.0,Katie Suarez
+TKT-000262,dambase,2017-05-27,2017-05-31,bug_report,medium,resolved,98.0,2.0,Desiree Tyler
+TKT-000263,dambase,2017-09-20,2017-09-24,technical,medium,resolved,106.0,,Timothy Romero
+TKT-000264,dambase,2017-11-08,2017-11-17,technical,low,resolved,222.0,,Diane Evans
+TKT-000265,dambase,2017-09-02,2017-09-06,billing,medium,resolved,119.0,,Yvonne Burns
+TKT-000266,dambase,2017-08-28,2017-09-01,billing,medium,resolved,108.0,1.0,Joshua Reed
+TKT-000267,dambase,2017-01-28,2017-02-04,account_management,low,resolved,182.0,,Kimberly Gibson
+TKT-000268,dambase,2017-10-23,2017-10-24,billing,high,resolved,42.0,3.0,Colin Terry
+TKT-000269,dambase,2017-11-11,2017-11-15,onboarding,medium,resolved,108.0,2.0,Cynthia Rowe
+TKT-000270,dambase,2017-05-10,2017-05-19,billing,low,resolved,217.0,,Patrick Thornton
+TKT-000271,dambase,2017-08-27,2017-08-28,technical,low,resolved,24.0,,Jasmin Alvarado
+TKT-000272,dambase,2017-01-13,2017-01-15,billing,medium,resolved,51.0,5.0,Veronica Simpson
+TKT-000273,dambase,2017-07-11,2017-07-15,feature_request,medium,resolved,106.0,3.0,Jonathan Lawrence
+TKT-000274,dambase,2017-03-20,,account_management,high,waiting_on_customer,,,Shelly Alexander
+TKT-000275,dambase,2017-03-12,,onboarding,high,open,,,Joyce Bowen
+TKT-000276,dambase,2017-09-19,,bug_report,medium,escalated,,,Matthew Moore
+TKT-000277,dambase,2017-02-12,,billing,low,open,,,Wayne Morgan
+TKT-000278,dambase,2017-05-18,,feature_request,medium,waiting_on_customer,,,Marie Christian
+TKT-000279,dambase,2017-11-03,2017-11-04,billing,high,resolved,36.0,4.0,Shannon James
+TKT-000280,dambase,2017-10-31,,onboarding,high,open,,,Nathan Malone
+TKT-000281,Domzoom,2017-11-08,2017-11-11,technical,medium,resolved,88.0,3.0,Amanda Jones
+TKT-000282,Domzoom,2017-05-18,2017-05-24,feature_request,low,resolved,151.0,1.0,Tammie Bright
+TKT-000283,Domzoom,2017-01-26,2017-01-26,feature_request,high,resolved,4.0,,Jessica Garcia
+TKT-000284,Domzoom,2017-07-09,2017-07-09,bug_report,high,resolved,12.0,5.0,Shelia Wallace
+TKT-000285,Domzoom,2017-11-09,2017-11-11,billing,medium,resolved,48.0,4.0,Stephanie Williams
+TKT-000286,Domzoom,2017-04-18,,technical,medium,waiting_on_customer,,,Elaine Brooks
+TKT-000287,Domzoom,2017-08-04,,billing,low,escalated,,,Joseph Knight
+TKT-000288,Domzoom,2017-03-25,,account_management,low,open,,,Carolyn Miller
+TKT-000289,Domzoom,2017-10-12,2017-10-15,technical,medium,resolved,89.0,,Lisa Allen
+TKT-000290,Domzoom,2017-09-25,2017-09-30,onboarding,low,resolved,143.0,,Briana Murray
+TKT-000291,Domzoom,2017-08-09,2017-08-09,technical,medium,resolved,13.0,5.0,David Smith
+TKT-000292,Domzoom,2017-10-31,2017-11-03,technical,low,resolved,89.0,3.0,Stephanie Byrd
+TKT-000293,Domzoom,2017-11-15,2017-11-16,technical,medium,resolved,37.0,4.0,Jeremy Reed
+TKT-000294,Domzoom,2017-02-25,2017-03-01,technical,medium,resolved,98.0,4.0,Margaret Coleman
+TKT-000295,Domzoom,2017-02-21,,billing,high,open,,,Ryan Gonzalez
+TKT-000296,Domzoom,2017-05-17,2017-05-17,onboarding,medium,resolved,21.0,,John Young
+TKT-000297,Domzoom,2017-04-23,2017-04-23,account_management,critical,resolved,2.0,4.0,Laura Haney
+TKT-000298,Domzoom,2017-08-14,2017-08-17,billing,low,resolved,72.0,,William Barrett
+TKT-000299,Domzoom,2017-05-20,2017-05-20,onboarding,high,resolved,18.0,5.0,Keith Jennings
+TKT-000300,Domzoom,2017-01-13,2017-01-22,bug_report,low,resolved,236.0,2.0,Amber Obrien
+TKT-000301,Domzoom,2017-07-20,2017-07-21,feature_request,high,resolved,31.0,4.0,Tanner Mitchell DDS
+TKT-000302,Domzoom,2017-02-17,2017-02-23,billing,low,resolved,164.0,,Heather Fields
+TKT-000303,Domzoom,2017-05-06,2017-05-07,billing,high,resolved,46.0,,Megan Le
+TKT-000304,Domzoom,2017-03-30,2017-03-31,feature_request,medium,resolved,37.0,4.0,Sara Fuller
+TKT-000305,Domzoom,2017-05-06,,technical,medium,waiting_on_customer,,,Maria Parker
+TKT-000306,Domzoom,2017-02-28,2017-03-02,bug_report,medium,resolved,54.0,,Kevin Oconnor
+TKT-000307,Domzoom,2017-08-25,2017-08-29,billing,low,resolved,108.0,1.0,Edward Burgess
+TKT-000308,Domzoom,2017-06-03,2017-06-03,billing,medium,resolved,19.0,,Carlos Ryan
+TKT-000309,Domzoom,2017-05-01,2017-05-01,account_management,high,resolved,9.0,,Kiara Mcintyre
+TKT-000310,Doncon,2017-02-01,,bug_report,high,waiting_on_customer,,,Dawn Summers
+TKT-000311,Doncon,2017-05-05,2017-05-09,technical,medium,resolved,116.0,,Dr. Paul Morgan
+TKT-000312,Doncon,2017-10-13,2017-10-15,billing,medium,resolved,69.0,4.0,Victor Taylor
+TKT-000313,Doncon,2017-10-07,2017-10-08,technical,medium,resolved,30.0,,Shannon Ramsey
+TKT-000314,Doncon,2017-06-01,2017-06-03,bug_report,low,resolved,50.0,,Tracy Ballard
+TKT-000315,Doncon,2017-03-15,2017-03-17,billing,medium,resolved,51.0,4.0,Richard Smith
+TKT-000316,Doncon,2017-06-01,2017-06-02,technical,medium,resolved,26.0,,Jordan Chambers
+TKT-000317,Doncon,2017-09-16,,billing,critical,waiting_on_customer,,,Lauren Carson
+TKT-000318,Doncon,2017-01-17,2017-01-17,technical,high,resolved,5.0,5.0,Ashley Hall
+TKT-000319,Doncon,2017-04-26,2017-04-27,feature_request,high,resolved,31.0,,Stephen Hoffman
+TKT-000320,Doncon,2017-11-19,2017-11-19,feature_request,high,resolved,14.0,,Connie Brown
+TKT-000321,Doncon,2017-02-01,2017-02-02,bug_report,high,resolved,30.0,4.0,Susan Turner
+TKT-000322,Doncon,2017-09-16,,billing,low,open,,,Charles Shah
+TKT-000323,Doncon,2017-10-01,2017-10-02,billing,medium,resolved,45.0,3.0,Johnathan Davis
+TKT-000324,Doncon,2017-05-13,2017-05-15,onboarding,medium,resolved,50.0,,Brandy Chavez
+TKT-000325,Doncon,2017-06-14,,technical,high,waiting_on_customer,,,Natalie Bautista
+TKT-000326,Doncon,2017-01-30,2017-01-31,feature_request,medium,resolved,32.0,5.0,Patrick Moore
+TKT-000327,Doncon,2017-08-23,2017-08-25,account_management,medium,resolved,56.0,,Brett Burns
+TKT-000328,Doncon,2017-10-04,2017-10-06,feature_request,low,resolved,49.0,,Trevor Johnson
+TKT-000329,Doncon,2017-12-09,2017-12-12,billing,medium,resolved,73.0,3.0,Jeremy Sampson
+TKT-000330,Donquadtech,2017-03-24,,onboarding,high,open,,,Ariana Jennings
+TKT-000331,Donquadtech,2017-12-01,,onboarding,medium,open,,,Vanessa Howard
+TKT-000332,Donquadtech,2017-07-29,2017-07-30,technical,high,resolved,46.0,,Colton Martinez
+TKT-000333,Donquadtech,2017-04-18,2017-04-20,technical,medium,resolved,57.0,,Jordan Bates
+TKT-000334,Donquadtech,2017-02-01,2017-02-03,technical,medium,resolved,63.0,,Linda Smith
+TKT-000335,Donquadtech,2017-09-14,2017-09-21,feature_request,low,resolved,191.0,2.0,Dana Martinez
+TKT-000336,Donquadtech,2017-11-10,,onboarding,medium,escalated,,,Andrea Hubbard
+TKT-000337,Donquadtech,2017-04-24,2017-04-26,feature_request,low,resolved,61.0,4.0,Daniel Kane
+TKT-000338,Donquadtech,2017-11-06,2017-11-06,billing,critical,resolved,1.0,5.0,Charles Lester
+TKT-000339,Donquadtech,2017-11-14,,onboarding,high,open,,,Scott Thomas
+TKT-000340,Donquadtech,2017-06-04,,billing,low,waiting_on_customer,,,David Thompson
+TKT-000341,Donquadtech,2017-11-15,,technical,medium,escalated,,,Allison Smith
+TKT-000342,Donquadtech,2017-08-13,2017-08-13,account_management,high,resolved,12.0,4.0,Cynthia Morris
+TKT-000343,Donquadtech,2017-04-28,2017-04-30,feature_request,medium,resolved,50.0,,Anthony Harmon
+TKT-000344,Donquadtech,2017-05-18,2017-05-18,technical,critical,resolved,1.0,,Nichole Alvarez
+TKT-000345,Donquadtech,2017-04-19,2017-04-22,technical,medium,resolved,81.0,3.0,Kayla Rodriguez
+TKT-000346,Donquadtech,2017-07-13,2017-07-13,technical,high,resolved,21.0,5.0,Theresa Williams
+TKT-000347,Donquadtech,2017-08-05,2017-08-07,account_management,medium,resolved,67.0,4.0,Sharon Boyd
+TKT-000348,Donquadtech,2017-05-17,,technical,medium,waiting_on_customer,,,Victor Brown
+TKT-000349,Donquadtech,2017-05-06,2017-05-07,billing,medium,resolved,24.0,,James Parks
+TKT-000350,Donquadtech,2017-05-01,2017-05-04,onboarding,low,resolved,74.0,,Theodore Jones Jr.
+TKT-000351,Dontechi,2017-07-03,,billing,low,open,,,Ana Hill
+TKT-000352,Dontechi,2017-01-24,2017-01-30,account_management,low,resolved,156.0,,Kimberly Nguyen
+TKT-000353,Dontechi,2017-09-05,2017-09-06,billing,high,resolved,28.0,,Kerry Chavez DDS
+TKT-000354,Dontechi,2017-09-07,2017-09-08,feature_request,low,resolved,26.0,5.0,Michael Farrell
+TKT-000355,Dontechi,2017-05-13,2017-05-14,billing,medium,resolved,34.0,,Patricia Le
+TKT-000356,Dontechi,2017-10-27,2017-10-30,feature_request,medium,resolved,91.0,,Jesse Perez
+TKT-000357,Dontechi,2017-01-20,2017-01-21,onboarding,medium,resolved,30.0,4.0,Jesse Perry
+TKT-000358,Dontechi,2017-09-30,2017-10-01,billing,high,resolved,47.0,5.0,Jeffery Ortega
+TKT-000359,Dontechi,2017-06-16,2017-06-18,onboarding,medium,resolved,65.0,3.0,Christian Leblanc
+TKT-000360,Dontechi,2017-08-03,2017-08-04,account_management,medium,resolved,24.0,5.0,Ronald Davis
+TKT-000361,Dontechi,2017-10-05,2017-10-05,feature_request,high,resolved,22.0,,Parker Cain
+TKT-000362,Dontechi,2017-09-01,2017-09-03,account_management,low,resolved,49.0,4.0,Laurie Hoffman
+TKT-000363,Dontechi,2017-08-19,2017-08-22,technical,medium,resolved,77.0,3.0,Bryan Gomez
+TKT-000364,Dontechi,2017-12-23,,billing,low,escalated,,,Nicole Parrish
+TKT-000365,Dontechi,2017-01-26,2017-01-28,billing,low,resolved,55.0,4.0,Tracy Burke
+TKT-000366,Dontechi,2017-10-22,2017-10-24,onboarding,low,resolved,60.0,5.0,Kenneth Lewis
+TKT-000367,Dontechi,2017-10-24,2017-10-31,technical,low,resolved,169.0,,Courtney Rodriguez
+TKT-000368,Dontechi,2017-05-11,2017-05-12,technical,high,resolved,25.0,4.0,Holly Farmer
+TKT-000369,Dontechi,2017-10-10,2017-10-12,billing,low,resolved,53.0,,Renee Bruce
+TKT-000370,Dontechi,2017-03-14,2017-03-18,feature_request,medium,resolved,115.0,1.0,Sabrina Austin
+TKT-000371,Dontechi,2017-08-01,2017-08-10,billing,low,resolved,234.0,4.0,Allison Hickman
+TKT-000372,Dontechi,2017-09-27,2017-09-27,feature_request,high,resolved,4.0,4.0,Debra White
+TKT-000373,Dontechi,2017-03-18,2017-03-23,account_management,low,resolved,132.0,3.0,Ellen Morgan
+TKT-000374,Dontechi,2017-04-14,2017-04-16,onboarding,medium,resolved,69.0,,Sergio Knight
+TKT-000375,Dontechi,2017-10-28,,billing,medium,open,,,Charles Schultz
+TKT-000376,Dontechi,2017-01-14,,onboarding,medium,waiting_on_customer,,,Paul Lewis
+TKT-000377,Dontechi,2017-02-14,2017-02-20,technical,low,resolved,147.0,2.0,Glen Wood
+TKT-000378,Dontechi,2017-09-24,,technical,critical,open,,,Paula Bradley
+TKT-000379,Dontechi,2017-03-14,,billing,medium,escalated,,,Anthony Moore
+TKT-000380,Donware,2017-10-28,2017-10-28,technical,high,resolved,22.0,5.0,Megan Nelson
+TKT-000381,Donware,2017-07-28,2017-07-28,onboarding,high,resolved,15.0,5.0,Karla Ramos
+TKT-000382,Donware,2017-02-03,2017-02-05,onboarding,low,resolved,58.0,4.0,Paul Wilson
+TKT-000383,Donware,2017-10-13,2017-10-22,technical,low,resolved,227.0,3.0,Douglas Gregory
+TKT-000384,Donware,2017-12-14,2017-12-16,feature_request,low,resolved,58.0,,Mr. Andrew Foster
+TKT-000385,Donware,2017-02-04,2017-02-07,feature_request,medium,resolved,91.0,3.0,Aimee Turner
+TKT-000386,Donware,2017-10-01,2017-10-01,billing,high,resolved,4.0,,Chad Scott
+TKT-000387,Donware,2017-10-05,2017-10-07,onboarding,medium,resolved,53.0,,Adam Burgess
+TKT-000388,Donware,2017-04-03,2017-04-09,account_management,low,resolved,145.0,2.0,James Padilla
+TKT-000389,Donware,2017-06-27,2017-07-01,billing,medium,resolved,119.0,2.0,Sandra Drake
+TKT-000390,Donware,2017-01-02,2017-01-02,technical,high,resolved,7.0,,Scott Williams
+TKT-000391,Donware,2017-01-20,2017-01-21,billing,low,resolved,27.0,5.0,Thomas Atkins
+TKT-000392,Donware,2017-09-01,2017-09-03,technical,medium,resolved,59.0,,Laura Mckinney
+TKT-000393,Donware,2017-08-28,2017-08-30,billing,medium,resolved,49.0,,Brian Smith
+TKT-000394,Donware,2017-03-21,,technical,medium,open,,,Robert Montgomery
+TKT-000395,Donware,2017-12-25,2017-12-25,technical,critical,resolved,7.0,,Tamara Davis
+TKT-000396,Donware,2017-06-09,2017-06-09,onboarding,critical,resolved,5.0,,Dana Chapman
+TKT-000397,Donware,2017-03-09,2017-03-11,account_management,medium,resolved,53.0,5.0,Jennifer Collins
+TKT-000398,Donware,2017-02-26,2017-03-02,technical,medium,resolved,113.0,3.0,Gary Jackson
+TKT-000399,Donware,2017-06-24,2017-06-25,technical,low,resolved,40.0,,Ashley Hicks
+TKT-000400,Donware,2017-10-15,2017-10-22,bug_report,low,resolved,184.0,,Hannah Luna
+TKT-000401,Donware,2017-09-18,2017-09-19,account_management,low,resolved,39.0,,Robin Young
+TKT-000402,Donware,2017-05-12,,feature_request,medium,open,,,Craig Morrison
+TKT-000403,Donware,2017-08-05,2017-08-12,billing,low,resolved,177.0,4.0,Mary Thompson
+TKT-000404,Donware,2017-09-02,,account_management,low,waiting_on_customer,,,Kathleen Webster
+TKT-000405,Donware,2017-11-18,2017-11-22,onboarding,low,resolved,109.0,,Joann Glass
+TKT-000406,Fasehatice,2017-10-03,2017-10-05,technical,low,resolved,65.0,3.0,Madison Weber
+TKT-000407,Fasehatice,2017-08-25,2017-08-27,billing,medium,resolved,54.0,4.0,Lori Hernandez
+TKT-000408,Fasehatice,2017-10-12,2017-10-20,feature_request,low,resolved,203.0,1.0,Jeremy Turner
+TKT-000409,Fasehatice,2017-05-29,,bug_report,critical,waiting_on_customer,,,Anthony Romero
+TKT-000410,Fasehatice,2017-02-16,2017-02-19,technical,low,resolved,80.0,,Jesse Brown
+TKT-000411,Fasehatice,2017-05-07,2017-05-12,account_management,low,resolved,142.0,,Angela Lin
+TKT-000412,Fasehatice,2017-01-01,2017-01-04,onboarding,low,resolved,81.0,2.0,Lisa Hunter
+TKT-000413,Fasehatice,2017-12-23,2017-12-24,account_management,high,resolved,47.0,,Julian Conner
+TKT-000414,Fasehatice,2017-04-26,2017-04-27,technical,medium,resolved,27.0,5.0,Joanna Pacheco
+TKT-000415,Fasehatice,2017-11-05,2017-11-06,account_management,high,resolved,24.0,,Erica Alvarez
+TKT-000416,Fasehatice,2017-02-22,2017-02-28,technical,low,resolved,167.0,2.0,Antonio Garcia
+TKT-000417,Fasehatice,2017-12-21,2017-12-28,technical,low,resolved,178.0,2.0,Gwendolyn Klein
+TKT-000418,Faxquote,2017-11-28,,technical,high,escalated,,,Carrie Wright
+TKT-000419,Faxquote,2017-03-02,2017-03-03,onboarding,medium,resolved,32.0,,Jeffrey Mills
+TKT-000420,Faxquote,2017-03-01,2017-03-03,feature_request,medium,resolved,66.0,,Jake Campbell
+TKT-000421,Faxquote,2017-09-10,2017-09-12,account_management,medium,resolved,66.0,5.0,George Harper
+TKT-000422,Faxquote,2017-10-18,,onboarding,high,waiting_on_customer,,,Maria Jones
+TKT-000423,Faxquote,2017-08-22,2017-08-23,onboarding,medium,resolved,25.0,5.0,Michael Mitchell
+TKT-000424,Faxquote,2017-08-10,2017-08-11,onboarding,medium,resolved,34.0,5.0,Mary Escobar
+TKT-000425,Faxquote,2017-10-11,2017-10-19,billing,low,resolved,214.0,1.0,Felicia Aguilar
+TKT-000426,Faxquote,2017-04-30,,billing,low,open,,,Gregory Ponce
+TKT-000427,Faxquote,2017-06-24,2017-06-28,billing,medium,resolved,105.0,4.0,Jenna Larson
+TKT-000428,Faxquote,2017-04-16,2017-04-16,technical,critical,resolved,2.0,,Emily Bennett
+TKT-000429,Faxquote,2017-12-30,,technical,medium,waiting_on_customer,,,Robin Santiago
+TKT-000430,Faxquote,2017-03-02,2017-03-03,technical,high,resolved,24.0,4.0,Nancy Jennings
+TKT-000431,Faxquote,2017-05-21,,billing,medium,open,,,Maria Henderson
+TKT-000432,Faxquote,2017-08-09,2017-08-14,billing,low,resolved,139.0,1.0,Jack White
+TKT-000433,Faxquote,2017-10-31,2017-11-01,technical,high,resolved,44.0,5.0,Travis Tucker
+TKT-000434,Faxquote,2017-02-25,2017-02-25,bug_report,critical,resolved,4.0,5.0,Chad Jones
+TKT-000435,Faxquote,2017-01-27,2017-01-28,account_management,low,resolved,38.0,3.0,Ashley Wise
+TKT-000436,Faxquote,2017-02-16,2017-02-16,technical,critical,resolved,5.0,,Sophia Johnson
+TKT-000437,Faxquote,2017-12-01,,account_management,high,open,,,Ralph Anderson
+TKT-000438,Faxquote,2017-12-06,2017-12-07,billing,medium,resolved,33.0,,Christopher Guerra
+TKT-000439,Faxquote,2017-10-30,2017-11-02,technical,medium,resolved,88.0,3.0,Rhonda Martin
+TKT-000440,Finhigh,2017-03-31,2017-04-01,technical,medium,resolved,34.0,4.0,Jason Rhodes
+TKT-000441,Finhigh,2017-08-13,,feature_request,medium,escalated,,,Jeremy Mitchell
+TKT-000442,Finhigh,2017-04-20,2017-04-24,onboarding,medium,resolved,118.0,,Joann Ferguson
+TKT-000443,Finhigh,2017-05-08,,technical,medium,escalated,,,Robert Harrison
+TKT-000444,Finhigh,2017-06-13,2017-06-20,technical,low,resolved,171.0,,Holly Valentine
+TKT-000445,Finhigh,2017-03-03,2017-03-04,technical,medium,resolved,42.0,4.0,Mrs. Diane Reyes
+TKT-000446,Finhigh,2017-02-25,,technical,high,open,,,Tracy Montoya
+TKT-000447,Finhigh,2017-08-10,2017-08-12,billing,medium,resolved,50.0,,Brenda Wright
+TKT-000448,Finhigh,2017-03-17,2017-03-17,onboarding,critical,resolved,1.0,,Shelly Spencer
+TKT-000449,Finhigh,2017-11-18,2017-11-20,account_management,low,resolved,55.0,4.0,Ryan Rosales
+TKT-000450,Finhigh,2017-01-09,2017-01-13,bug_report,medium,resolved,117.0,3.0,Phillip Nelson
+TKT-000451,Finhigh,2017-07-19,,technical,medium,escalated,,,Brittany Kim
+TKT-000452,Finhigh,2017-11-10,2017-11-10,onboarding,medium,resolved,22.0,5.0,Courtney Hayes
+TKT-000453,Finhigh,2017-02-08,,technical,medium,open,,,Alexander Brown
+TKT-000454,Finhigh,2017-04-27,2017-04-27,onboarding,critical,resolved,6.0,,Cynthia Vang
+TKT-000455,Finjob,2017-07-25,2017-07-29,billing,medium,resolved,100.0,1.0,Alfred Galvan
+TKT-000456,Finjob,2017-07-06,2017-07-06,feature_request,critical,resolved,7.0,5.0,Marie Moody
+TKT-000457,Finjob,2017-04-11,2017-04-15,feature_request,medium,resolved,97.0,,Dustin Gallegos
+TKT-000458,Finjob,2017-02-11,2017-02-11,account_management,critical,resolved,2.0,5.0,Brenda Thornton
+TKT-000459,Finjob,2017-11-06,2017-11-15,technical,low,resolved,239.0,3.0,Aaron Miller
+TKT-000460,Finjob,2017-11-14,2017-11-15,billing,high,resolved,35.0,5.0,Ruben Dunn
+TKT-000461,Finjob,2017-05-03,2017-05-06,onboarding,medium,resolved,81.0,2.0,Kelsey Rodriguez
+TKT-000462,Finjob,2017-07-04,2017-07-08,account_management,medium,resolved,115.0,,Eric Williams
+TKT-000463,Finjob,2017-11-29,2017-11-29,account_management,medium,resolved,14.0,4.0,Riley Bryant
+TKT-000464,Finjob,2017-04-23,2017-04-23,account_management,high,resolved,13.0,5.0,Taylor Carlson
+TKT-000465,Finjob,2017-04-07,2017-04-09,feature_request,medium,resolved,53.0,4.0,Jose Allen
+TKT-000466,Finjob,2017-03-06,2017-03-10,onboarding,medium,resolved,103.0,3.0,Jeffrey Mendez
+TKT-000467,Finjob,2017-05-07,2017-05-08,technical,medium,resolved,44.0,4.0,Jason Beck
+TKT-000468,Finjob,2017-05-12,,feature_request,medium,escalated,,,William Jones
+TKT-000469,Finjob,2017-08-09,2017-08-16,billing,low,resolved,187.0,4.0,Katie Mcneil
+TKT-000470,Finjob,2017-10-07,2017-10-07,feature_request,critical,resolved,3.0,4.0,Jeanette Harrison
+TKT-000471,Finjob,2017-02-03,2017-02-04,billing,medium,resolved,41.0,,Veronica King
+TKT-000472,Finjob,2017-04-13,2017-04-16,feature_request,medium,resolved,75.0,1.0,Richard Cooper
+TKT-000473,Finjob,2017-01-26,2017-01-27,billing,medium,resolved,36.0,4.0,Lori Ingram
+TKT-000474,Finjob,2017-11-10,2017-11-10,onboarding,medium,resolved,20.0,5.0,Evelyn Williams
+TKT-000475,Finjob,2017-11-22,2017-11-26,feature_request,medium,resolved,104.0,3.0,Robin Thompson
+TKT-000476,Finjob,2017-02-22,,billing,high,escalated,,,Julie Dominguez
+TKT-000477,Finjob,2017-06-26,,technical,low,open,,,Robin Brown
+TKT-000478,Finjob,2017-10-31,2017-11-08,billing,low,resolved,211.0,2.0,Judith Carter
+TKT-000479,Finjob,2017-07-02,2017-07-03,billing,high,resolved,40.0,3.0,Curtis Williams
+TKT-000480,Funholding,2017-05-20,,technical,high,waiting_on_customer,,,Kaylee Hays
+TKT-000481,Funholding,2017-11-09,,onboarding,high,open,,,Dawn Mullins
+TKT-000482,Funholding,2017-02-10,2017-02-10,onboarding,high,resolved,17.0,,Howard Norman
+TKT-000483,Funholding,2017-03-26,,onboarding,low,waiting_on_customer,,,Evelyn Martinez
+TKT-000484,Funholding,2017-07-16,,account_management,low,open,,,Steve Paul
+TKT-000485,Funholding,2017-12-09,,billing,critical,open,,,Jasmine Beltran
+TKT-000486,Funholding,2017-10-31,2017-11-01,billing,high,resolved,38.0,,Jonathan Glass MD
+TKT-000487,Funholding,2017-02-04,2017-02-04,technical,critical,resolved,6.0,,Monica Miller
+TKT-000488,Funholding,2017-05-02,2017-05-06,bug_report,medium,resolved,97.0,,Samantha Gardner
+TKT-000489,Funholding,2017-06-06,2017-06-11,onboarding,low,resolved,143.0,,Bobby Guerrero
+TKT-000490,Funholding,2017-11-22,2017-11-26,billing,medium,resolved,102.0,2.0,Lance Simmons
+TKT-000491,Funholding,2017-12-18,2017-12-24,billing,low,resolved,148.0,,Heather Williams
+TKT-000492,Funholding,2017-02-22,2017-02-25,billing,medium,resolved,82.0,,Heather Bolton
+TKT-000493,Funholding,2017-12-31,,technical,low,waiting_on_customer,,,William Gould
+TKT-000494,Funholding,2017-02-15,2017-02-17,technical,medium,resolved,54.0,4.0,Mark Cox
+TKT-000495,Funholding,2017-10-31,,bug_report,medium,open,,,Meghan Cisneros
+TKT-000496,Funholding,2017-07-27,2017-07-28,technical,high,resolved,34.0,3.0,Lawrence Harrington
+TKT-000497,Funholding,2017-06-22,,feature_request,high,open,,,Austin Osborne
+TKT-000498,Funholding,2017-06-16,,technical,medium,waiting_on_customer,,,James Bradley
+TKT-000499,Funholding,2017-08-21,,billing,medium,open,,,Meghan Rush
+TKT-000500,Funholding,2017-01-15,2017-01-19,technical,medium,resolved,96.0,,Phillip Berry
+TKT-000501,Ganjaflex,2017-08-29,2017-09-06,technical,low,resolved,209.0,2.0,Jennifer Banks
+TKT-000502,Ganjaflex,2017-02-02,2017-02-02,technical,critical,resolved,1.0,4.0,Brian Fitzgerald
+TKT-000503,Ganjaflex,2017-08-27,2017-08-28,billing,high,resolved,45.0,3.0,Mr. Justin Green III
+TKT-000504,Ganjaflex,2017-01-10,2017-01-14,technical,low,resolved,104.0,4.0,Zachary Mitchell
+TKT-000505,Ganjaflex,2017-04-12,,technical,high,open,,,Katherine Martinez
+TKT-000506,Ganjaflex,2017-03-09,,bug_report,medium,open,,,Jodi Roach
+TKT-000507,Ganjaflex,2017-06-29,2017-07-04,technical,low,resolved,138.0,2.0,Brandon Fleming
+TKT-000508,Ganjaflex,2017-05-17,2017-05-19,billing,medium,resolved,66.0,,Emma Reed
+TKT-000509,Ganjaflex,2017-03-21,2017-03-21,billing,critical,resolved,6.0,,Joshua Vance
+TKT-000510,Ganjaflex,2017-02-16,2017-02-18,account_management,medium,resolved,50.0,,Michelle Ho
+TKT-000511,Ganjaflex,2017-05-05,2017-05-08,onboarding,medium,resolved,81.0,,Rebecca Hicks
+TKT-000512,Ganjaflex,2017-02-27,2017-02-27,bug_report,high,resolved,5.0,4.0,Curtis Taylor
+TKT-000513,Ganjaflex,2017-01-29,2017-02-02,feature_request,low,resolved,106.0,2.0,Allison Spencer
+TKT-000514,Ganjaflex,2017-07-06,2017-07-07,technical,medium,resolved,47.0,,Robert Arnold
+TKT-000515,Ganjaflex,2017-10-25,2017-11-03,technical,low,resolved,219.0,3.0,Angelica Parker
+TKT-000516,Ganjaflex,2017-11-27,2017-11-27,billing,critical,resolved,3.0,5.0,Dr. Kelly Hammond DVM
+TKT-000517,Ganjaflex,2017-03-24,2017-04-02,technical,low,resolved,218.0,3.0,William Day
+TKT-000518,Ganjaflex,2017-11-25,2017-11-25,technical,medium,resolved,23.0,,Michael Cooper
+TKT-000519,Ganjaflex,2017-02-21,,billing,low,open,,,Penny Bowman
+TKT-000520,Ganjaflex,2017-01-04,2017-01-06,billing,low,resolved,67.0,5.0,Vincent Reynolds
+TKT-000521,Ganjaflex,2017-08-21,2017-08-25,billing,medium,resolved,116.0,3.0,Amy Martinez
+TKT-000522,Ganjaflex,2017-06-20,,account_management,medium,waiting_on_customer,,,Christopher Morris
+TKT-000523,Ganjaflex,2017-05-01,2017-05-03,technical,medium,resolved,67.0,,Hannah Everett
+TKT-000524,Ganjaflex,2017-05-13,2017-05-15,billing,medium,resolved,68.0,,Sarah King
+TKT-000525,Ganjaflex,2017-07-18,2017-07-18,billing,medium,resolved,22.0,,Krista Martinez
+TKT-000526,Ganjaflex,2017-10-17,2017-10-21,billing,medium,resolved,108.0,4.0,Joseph Shaw
+TKT-000527,Ganjaflex,2017-01-28,,account_management,low,open,,,Todd Moore
+TKT-000528,Ganjaflex,2017-11-11,2017-11-18,billing,low,resolved,185.0,3.0,Michelle Jacobs
+TKT-000529,Ganjaflex,2017-04-14,2017-04-23,account_management,low,resolved,221.0,1.0,Kristy Bryan
+TKT-000530,Gekko & Co,2017-10-08,2017-10-09,onboarding,medium,resolved,37.0,5.0,Angel May
+TKT-000531,Gekko & Co,2017-11-29,2017-11-30,account_management,high,resolved,42.0,,Marilyn Wang
+TKT-000532,Gekko & Co,2017-08-13,,billing,low,waiting_on_customer,,,Mark Jimenez
+TKT-000533,Gekko & Co,2017-04-11,,feature_request,low,waiting_on_customer,,,Donna Frye
+TKT-000534,Gekko & Co,2017-09-11,2017-09-13,technical,low,resolved,59.0,4.0,Dr. Michael Evans
+TKT-000535,Gekko & Co,2017-07-20,2017-07-20,technical,medium,resolved,22.0,5.0,Anthony Gonzales
+TKT-000536,Gekko & Co,2017-07-25,2017-07-27,onboarding,medium,resolved,49.0,5.0,Mr. Lawrence Edwards
+TKT-000537,Gekko & Co,2017-01-15,2017-01-15,technical,critical,resolved,3.0,5.0,Morgan Valencia
+TKT-000538,Gekko & Co,2017-03-20,2017-03-21,bug_report,high,resolved,45.0,,Bianca Wood
+TKT-000539,Gekko & Co,2017-06-03,2017-06-04,feature_request,medium,resolved,40.0,,Emma Owens
+TKT-000540,Gekko & Co,2017-06-24,2017-06-26,technical,medium,resolved,50.0,,David Davis
+TKT-000541,Gekko & Co,2017-12-20,2017-12-20,technical,high,resolved,8.0,5.0,James Gilbert
+TKT-000542,Gekko & Co,2017-10-10,2017-10-12,feature_request,medium,resolved,56.0,3.0,Sean Moore
+TKT-000543,Gekko & Co,2017-03-24,2017-03-24,onboarding,critical,resolved,5.0,4.0,Kenneth Edwards
+TKT-000544,Gekko & Co,2017-06-15,,bug_report,medium,waiting_on_customer,,,Kathleen Robertson
+TKT-000545,Gekko & Co,2017-05-14,2017-05-17,onboarding,medium,resolved,92.0,,Mr. Alexander Landry MD
+TKT-000546,Gekko & Co,2017-11-10,2017-11-14,technical,low,resolved,115.0,4.0,Cindy Gomez
+TKT-000547,Gekko & Co,2017-04-06,2017-04-09,billing,medium,resolved,90.0,4.0,Johnny Khan
+TKT-000548,Gekko & Co,2017-05-25,2017-05-28,feature_request,medium,resolved,74.0,,Julie Herrera
+TKT-000549,Gekko & Co,2017-02-05,2017-02-05,billing,critical,resolved,5.0,,Jessica Khan
+TKT-000550,Gekko & Co,2017-05-23,2017-05-25,technical,medium,resolved,50.0,4.0,Pamela Diaz
+TKT-000551,Gekko & Co,2017-07-13,2017-07-15,bug_report,medium,resolved,68.0,4.0,Kelly Lee
+TKT-000552,Gekko & Co,2017-08-30,2017-08-30,technical,medium,resolved,12.0,,Angel Gordon
+TKT-000553,Gekko & Co,2017-09-10,2017-09-12,feature_request,low,resolved,58.0,,Diana Hays
+TKT-000554,Gekko & Co,2017-11-08,2017-11-11,billing,medium,resolved,92.0,2.0,Barbara Hester
+TKT-000555,Genco Pura Olive Oil Company,2017-01-30,2017-02-07,technical,low,resolved,193.0,2.0,Robert Morgan
+TKT-000556,Genco Pura Olive Oil Company,2017-10-02,2017-10-04,feature_request,medium,resolved,66.0,4.0,Nicole Gonzalez
+TKT-000557,Genco Pura Olive Oil Company,2017-08-14,2017-08-17,billing,medium,resolved,81.0,,Kathryn Williams
+TKT-000558,Genco Pura Olive Oil Company,2017-01-25,2017-01-30,onboarding,low,resolved,132.0,2.0,Gary Wells
+TKT-000559,Genco Pura Olive Oil Company,2017-11-01,2017-11-03,technical,medium,resolved,56.0,5.0,Larry Robertson
+TKT-000560,Genco Pura Olive Oil Company,2017-01-13,2017-01-17,technical,low,resolved,102.0,1.0,Louis Martin
+TKT-000561,Genco Pura Olive Oil Company,2017-06-06,,technical,medium,waiting_on_customer,,,Nancy Evans MD
+TKT-000562,Genco Pura Olive Oil Company,2017-12-04,2017-12-06,feature_request,medium,resolved,69.0,4.0,Kim Erickson
+TKT-000563,Genco Pura Olive Oil Company,2017-02-22,2017-02-22,account_management,medium,resolved,21.0,4.0,Robert Richardson
+TKT-000564,Globex Corporation,2017-11-23,2017-11-24,onboarding,low,resolved,30.0,,Veronica Silva
+TKT-000565,Globex Corporation,2017-10-17,2017-10-23,feature_request,low,resolved,148.0,3.0,Molly Watts
+TKT-000566,Globex Corporation,2017-03-15,2017-03-15,billing,critical,resolved,4.0,4.0,John Coffey
+TKT-000567,Globex Corporation,2017-05-13,2017-05-15,feature_request,medium,resolved,63.0,4.0,Paula Lane
+TKT-000568,Globex Corporation,2017-04-24,2017-04-25,onboarding,low,resolved,31.0,,Lauren Jackson
+TKT-000569,Globex Corporation,2017-02-05,2017-02-14,feature_request,low,resolved,218.0,2.0,Lisa Randall
+TKT-000570,Globex Corporation,2017-03-24,2017-04-01,feature_request,low,resolved,204.0,4.0,Michael Johnson
+TKT-000571,Globex Corporation,2017-09-15,2017-09-18,onboarding,low,resolved,83.0,4.0,Ashley Smith
+TKT-000572,Globex Corporation,2017-09-25,2017-09-27,billing,medium,resolved,60.0,,Christian Vaughn
+TKT-000573,Globex Corporation,2017-03-27,,feature_request,critical,open,,,Reginald Knapp
+TKT-000574,Globex Corporation,2017-09-27,2017-10-03,billing,low,resolved,156.0,2.0,Nancy Brown
+TKT-000575,Globex Corporation,2017-01-23,2017-01-24,feature_request,medium,resolved,28.0,4.0,Daniel Nguyen
+TKT-000576,Globex Corporation,2017-11-19,2017-11-20,onboarding,medium,resolved,34.0,4.0,Kelly Edwards
+TKT-000577,Globex Corporation,2017-09-02,2017-09-04,bug_report,medium,resolved,61.0,3.0,Thomas Peterson
+TKT-000578,Globex Corporation,2017-07-14,2017-07-15,feature_request,low,resolved,42.0,,Raymond Le
+TKT-000579,Globex Corporation,2017-04-14,,billing,medium,waiting_on_customer,,,Melissa Bishop
+TKT-000580,Globex Corporation,2017-01-18,2017-01-23,technical,low,resolved,137.0,2.0,David Grant
+TKT-000581,Globex Corporation,2017-03-11,2017-03-11,feature_request,medium,resolved,21.0,,William Evans
+TKT-000582,Globex Corporation,2017-02-21,2017-02-22,feature_request,high,resolved,29.0,4.0,Daniel Bush
+TKT-000583,Globex Corporation,2017-10-16,,billing,high,waiting_on_customer,,,Gregory Peck
+TKT-000584,Globex Corporation,2017-04-19,,billing,low,escalated,,,Denise Martinez
+TKT-000585,Globex Corporation,2017-10-24,,bug_report,low,open,,,Jamie Baird
+TKT-000586,Globex Corporation,2017-10-27,2017-11-03,feature_request,low,resolved,180.0,,Tina Ballard
+TKT-000587,Globex Corporation,2017-06-04,,onboarding,medium,waiting_on_customer,,,Dwayne Klein
+TKT-000588,Globex Corporation,2017-04-29,2017-05-03,billing,low,resolved,112.0,,Jeremy Scott
+TKT-000589,Gogozoom,2017-06-14,2017-06-18,technical,medium,resolved,114.0,2.0,Dale Ryan
+TKT-000590,Gogozoom,2017-02-22,,technical,medium,escalated,,,Melissa Taylor
+TKT-000591,Gogozoom,2017-08-14,2017-08-15,bug_report,high,resolved,27.0,4.0,Laurie Sanchez
+TKT-000592,Gogozoom,2017-06-14,,technical,medium,open,,,Kiara Little
+TKT-000593,Gogozoom,2017-12-04,2017-12-08,feature_request,medium,resolved,113.0,,Jason Love
+TKT-000594,Gogozoom,2017-04-10,2017-04-11,billing,medium,resolved,28.0,5.0,Randy Smith
+TKT-000595,Gogozoom,2017-02-16,,billing,low,escalated,,,Tanya Russell
+TKT-000596,Gogozoom,2017-07-02,2017-07-04,billing,low,resolved,53.0,,Sherry Woods
+TKT-000597,Gogozoom,2017-07-09,2017-07-10,bug_report,high,resolved,31.0,,Victor Morris
+TKT-000598,Gogozoom,2017-12-27,2017-12-31,technical,medium,resolved,112.0,,Susan Davis
+TKT-000599,Gogozoom,2017-05-08,2017-05-12,billing,medium,resolved,101.0,,Kimberly Sharp
+TKT-000600,Gogozoom,2017-08-12,,billing,high,waiting_on_customer,,,Susan Thompson
+TKT-000601,Gogozoom,2017-10-25,,feature_request,low,escalated,,,Casey Gillespie
+TKT-000602,Gogozoom,2017-06-23,,feature_request,critical,open,,,Jennifer Simpson DVM
+TKT-000603,Gogozoom,2017-06-06,2017-06-12,technical,low,resolved,154.0,3.0,Tammy Mcdowell
+TKT-000604,Gogozoom,2017-11-28,,feature_request,low,escalated,,,Keith Rodriguez
+TKT-000605,Gogozoom,2017-05-27,2017-05-31,billing,medium,resolved,101.0,,Mrs. Virginia Daniels
+TKT-000606,Golddex,2017-05-08,,onboarding,medium,open,,,Todd Rosales MD
+TKT-000607,Golddex,2017-09-29,,bug_report,medium,waiting_on_customer,,,Brian Martin
+TKT-000608,Golddex,2017-01-05,2017-01-07,onboarding,low,resolved,56.0,5.0,David Lopez
+TKT-000609,Golddex,2017-02-23,2017-03-03,feature_request,low,resolved,194.0,3.0,Rachel Bradley
+TKT-000610,Golddex,2017-08-13,2017-08-14,account_management,high,resolved,25.0,4.0,Casey Chase
+TKT-000611,Golddex,2017-06-08,2017-06-12,feature_request,medium,resolved,119.0,2.0,Samantha Robertson
+TKT-000612,Golddex,2017-08-30,2017-09-01,technical,medium,resolved,66.0,,Michael Lopez
+TKT-000613,Golddex,2017-04-06,,onboarding,medium,open,,,Franklin Wright
+TKT-000614,Golddex,2017-02-09,2017-02-10,onboarding,high,resolved,33.0,,David Molina
+TKT-000615,Golddex,2017-07-03,2017-07-06,feature_request,medium,resolved,94.0,4.0,Elizabeth Sharp
+TKT-000616,Golddex,2017-09-11,2017-09-13,technical,low,resolved,67.0,4.0,Matthew Schwartz
+TKT-000617,Golddex,2017-04-29,2017-05-05,billing,low,resolved,159.0,2.0,Bryan Parker
+TKT-000618,Goodsilron,2017-03-26,2017-04-03,feature_request,low,resolved,201.0,,Jonathan Jacobson
+TKT-000619,Goodsilron,2017-01-28,,bug_report,medium,open,,,Emily Wilson
+TKT-000620,Goodsilron,2017-08-07,2017-08-09,account_management,medium,resolved,63.0,,Elizabeth Mendez
+TKT-000621,Goodsilron,2017-02-22,2017-02-26,technical,medium,resolved,108.0,1.0,Casey Hernandez
+TKT-000622,Goodsilron,2017-03-03,2017-03-06,technical,low,resolved,79.0,2.0,Lisa Perry
+TKT-000623,Goodsilron,2017-04-04,2017-04-05,technical,high,resolved,31.0,,Kaitlin Medina
+TKT-000624,Goodsilron,2017-12-01,2017-12-03,technical,medium,resolved,52.0,5.0,Colleen Wright
+TKT-000625,Goodsilron,2017-04-23,2017-05-01,technical,low,resolved,208.0,3.0,Shelley Miller
+TKT-000626,Goodsilron,2017-04-20,2017-04-22,technical,medium,resolved,63.0,,Michael Miller
+TKT-000627,Goodsilron,2017-01-04,2017-01-04,billing,medium,resolved,22.0,,Amy Kelley
+TKT-000628,Goodsilron,2017-11-10,2017-11-11,technical,high,resolved,31.0,,Laura Hernandez
+TKT-000629,Goodsilron,2017-08-20,2017-08-24,account_management,medium,resolved,103.0,2.0,Joseph Wilson
+TKT-000630,Goodsilron,2017-03-15,,technical,medium,open,,,Kevin Davis
+TKT-000631,Goodsilron,2017-09-22,2017-09-23,feature_request,high,resolved,40.0,3.0,Rhonda Chavez
+TKT-000632,Green-Plus,2017-08-10,2017-08-12,billing,medium,resolved,59.0,5.0,Joyce Brown
+TKT-000633,Green-Plus,2017-08-22,2017-08-22,onboarding,critical,resolved,1.0,5.0,Robert Cummings
+TKT-000634,Green-Plus,2017-05-07,2017-05-09,onboarding,low,resolved,69.0,3.0,Robert Reese
+TKT-000635,Green-Plus,2017-12-10,2017-12-13,billing,medium,resolved,73.0,3.0,Amber Cooper
+TKT-000636,Green-Plus,2017-07-05,2017-07-07,technical,medium,resolved,56.0,,Zachary Michael
+TKT-000637,Green-Plus,2017-04-28,2017-05-05,onboarding,low,resolved,184.0,,Timothy Johnson
+TKT-000638,Green-Plus,2017-12-13,2017-12-17,account_management,medium,resolved,108.0,,Randy Cannon
+TKT-000639,Green-Plus,2017-02-10,2017-02-10,feature_request,critical,resolved,3.0,5.0,Maria Fisher
+TKT-000640,Groovestreet,2017-07-12,2017-07-12,onboarding,critical,resolved,1.0,,Janet Kane DVM
+TKT-000641,Groovestreet,2017-01-29,2017-01-30,technical,medium,resolved,33.0,5.0,Michael Stanley
+TKT-000642,Groovestreet,2017-07-01,2017-07-01,billing,critical,resolved,5.0,5.0,Martha Bailey
+TKT-000643,Groovestreet,2017-11-18,,billing,high,open,,,Joshua Rice
+TKT-000644,Groovestreet,2017-06-25,2017-06-26,onboarding,medium,resolved,46.0,3.0,Courtney Smith
+TKT-000645,Groovestreet,2017-08-05,2017-08-05,billing,high,resolved,13.0,5.0,Edwin Nunez
+TKT-000646,Groovestreet,2017-07-01,2017-07-02,billing,low,resolved,33.0,5.0,Kim Morrow
+TKT-000647,Groovestreet,2017-10-07,2017-10-09,billing,medium,resolved,55.0,4.0,Gregory Hill
+TKT-000648,Groovestreet,2017-01-12,2017-01-15,billing,medium,resolved,95.0,3.0,Molly Rodriguez
+TKT-000649,Groovestreet,2017-07-17,2017-07-17,billing,high,resolved,15.0,,Jennifer Miranda
+TKT-000650,Groovestreet,2017-04-22,2017-04-25,billing,medium,resolved,94.0,4.0,Alexis Harris
+TKT-000651,Groovestreet,2017-05-10,2017-05-11,billing,medium,resolved,46.0,3.0,Andrew Harper
+TKT-000652,Groovestreet,2017-04-02,2017-04-02,onboarding,critical,resolved,3.0,4.0,Amber Yang
+TKT-000653,Groovestreet,2017-12-18,2017-12-18,account_management,medium,resolved,21.0,5.0,David Robinson
+TKT-000654,Groovestreet,2017-05-31,,onboarding,high,waiting_on_customer,,,Amy Gordon
+TKT-000655,Groovestreet,2017-08-17,2017-08-20,billing,low,resolved,76.0,,Robert Dennis
+TKT-000656,Groovestreet,2017-07-26,2017-07-29,account_management,medium,resolved,75.0,,Kyle Chambers
+TKT-000657,Groovestreet,2017-08-10,2017-08-12,account_management,medium,resolved,50.0,4.0,Eric Thomas
+TKT-000658,Groovestreet,2017-04-03,2017-04-09,technical,low,resolved,145.0,,Connie Turner
+TKT-000659,Groovestreet,2017-08-07,2017-08-16,technical,low,resolved,220.0,3.0,Travis Hobbs
+TKT-000660,Hatfan,2017-12-05,2017-12-06,technical,high,resolved,30.0,4.0,Lori Simmons
+TKT-000661,Hatfan,2017-04-19,2017-04-19,billing,high,resolved,7.0,4.0,William David DDS
+TKT-000662,Hatfan,2017-07-06,2017-07-09,billing,medium,resolved,85.0,,Emma Butler
+TKT-000663,Hatfan,2017-07-03,,account_management,high,waiting_on_customer,,,James Webster
+TKT-000664,Hatfan,2017-10-22,2017-10-25,onboarding,medium,resolved,78.0,4.0,Samuel Turner
+TKT-000665,Hatfan,2017-11-30,2017-12-04,technical,medium,resolved,106.0,1.0,Renee Melendez
+TKT-000666,Hatfan,2017-10-08,2017-10-11,onboarding,medium,resolved,93.0,,Tracy Grant
+TKT-000667,Hatfan,2017-11-06,2017-11-09,onboarding,low,resolved,77.0,2.0,David Harris
+TKT-000668,Hatfan,2017-04-14,,onboarding,critical,waiting_on_customer,,,Tammy Boone
+TKT-000669,Hatfan,2017-04-09,,bug_report,low,open,,,Nathaniel Lee
+TKT-000670,Hatfan,2017-04-29,2017-04-30,onboarding,medium,resolved,29.0,,Michael Morrison
+TKT-000671,Hatfan,2017-08-18,2017-08-19,bug_report,medium,resolved,32.0,5.0,Chelsea Gill
+TKT-000672,Hatfan,2017-07-08,2017-07-12,technical,medium,resolved,110.0,3.0,Kristin Mendoza
+TKT-000673,Hatfan,2017-01-16,2017-01-22,onboarding,low,resolved,159.0,,Felicia Krueger
+TKT-000674,Hatfan,2017-05-18,,account_management,medium,waiting_on_customer,,,Timothy Hayden
+TKT-000675,Hatfan,2017-10-07,2017-10-10,bug_report,low,resolved,74.0,,Zachary Mendoza
+TKT-000676,Hatfan,2017-11-03,2017-11-04,account_management,high,resolved,43.0,,Larry Harris
+TKT-000677,Hottechi,2017-11-01,2017-11-02,technical,high,resolved,28.0,,Kristen Rowe
+TKT-000678,Hottechi,2017-01-06,,billing,high,escalated,,,Joseph Howard
+TKT-000679,Hottechi,2017-06-01,2017-06-10,billing,low,resolved,228.0,3.0,Jose Crawford
+TKT-000680,Hottechi,2017-05-18,2017-05-21,technical,medium,resolved,88.0,3.0,William Harrison
+TKT-000681,Hottechi,2017-05-04,,feature_request,low,waiting_on_customer,,,Suzanne Wood
+TKT-000682,Hottechi,2017-09-29,2017-09-30,technical,high,resolved,33.0,4.0,Justin Walker
+TKT-000683,Hottechi,2017-08-13,2017-08-14,bug_report,medium,resolved,37.0,4.0,Dean Donovan
+TKT-000684,Hottechi,2017-07-25,2017-07-26,account_management,medium,resolved,30.0,5.0,Jennifer Hernandez
+TKT-000685,Hottechi,2017-02-07,2017-02-10,technical,low,resolved,83.0,2.0,James Whitaker
+TKT-000686,Hottechi,2017-03-06,2017-03-07,billing,medium,resolved,47.0,4.0,Mr. Michael Scott PhD
+TKT-000687,Hottechi,2017-04-07,,onboarding,low,open,,,Maria Henry
+TKT-000688,Hottechi,2017-05-22,,technical,low,open,,,Robert Jackson
+TKT-000689,Hottechi,2017-07-07,2017-07-07,bug_report,critical,resolved,6.0,5.0,Katherine Stark
+TKT-000690,Hottechi,2017-07-10,,billing,medium,waiting_on_customer,,,Maria Brown
+TKT-000691,Hottechi,2017-02-13,2017-02-20,onboarding,low,resolved,168.0,2.0,Ryan Landry
+TKT-000692,Hottechi,2017-11-22,2017-11-26,billing,low,resolved,105.0,,Pamela Gutierrez
+TKT-000693,Initech,2017-02-02,2017-02-02,onboarding,medium,resolved,18.0,4.0,Crystal Mann
+TKT-000694,Initech,2017-05-03,,feature_request,low,escalated,,,Jonathan Brooks
+TKT-000695,Initech,2017-07-25,2017-07-29,onboarding,medium,resolved,105.0,3.0,Mary Jensen
+TKT-000696,Initech,2017-03-08,2017-03-12,billing,medium,resolved,116.0,3.0,Mr. Aaron Arnold
+TKT-000697,Initech,2017-08-16,2017-08-25,feature_request,low,resolved,225.0,,Joseph Hill
+TKT-000698,Initech,2017-08-31,2017-09-02,technical,low,resolved,51.0,,Alicia Li
+TKT-000699,Initech,2017-02-08,2017-02-10,onboarding,low,resolved,51.0,4.0,Renee Browning
+TKT-000700,Initech,2017-06-23,2017-06-26,bug_report,medium,resolved,76.0,1.0,Brent Hernandez
+TKT-000701,Initech,2017-11-19,2017-11-22,technical,medium,resolved,94.0,4.0,Joseph Ochoa
+TKT-000702,Initech,2017-10-01,2017-10-06,feature_request,low,resolved,133.0,,James Watson
+TKT-000703,Initech,2017-02-27,2017-02-28,billing,low,resolved,32.0,4.0,Karl Branch
+TKT-000704,Initech,2017-10-16,2017-10-16,onboarding,critical,resolved,5.0,,Michael Abbott
+TKT-000705,Initech,2017-11-17,2017-11-19,account_management,medium,resolved,66.0,4.0,Shannon Malone
+TKT-000706,Initech,2017-01-15,,bug_report,low,open,,,James Tran
+TKT-000707,Initech,2017-07-20,2017-07-26,technical,low,resolved,153.0,,Adam Jackson
+TKT-000708,Initech,2017-04-27,2017-04-30,technical,medium,resolved,87.0,,Mr. Richard Knight PhD
+TKT-000709,Inity,2017-07-24,2017-07-26,technical,medium,resolved,64.0,5.0,Joseph Williams
+TKT-000710,Inity,2017-09-24,2017-09-24,onboarding,high,resolved,15.0,,Sean Clay
+TKT-000711,Inity,2017-04-24,2017-04-24,technical,critical,resolved,2.0,4.0,Anthony Jones
+TKT-000712,Inity,2017-05-10,2017-05-14,technical,medium,resolved,97.0,,Stephanie Elliott
+TKT-000713,Inity,2017-10-15,,onboarding,low,waiting_on_customer,,,Timothy Edwards
+TKT-000714,Inity,2017-01-29,2017-02-05,billing,low,resolved,176.0,,Laurie Goodwin
+TKT-000715,Inity,2017-05-12,2017-05-12,account_management,critical,resolved,3.0,,Jennifer Jones
+TKT-000716,Inity,2017-01-25,2017-01-31,billing,low,resolved,161.0,2.0,David Davenport
+TKT-000717,Inity,2017-09-12,2017-09-16,technical,medium,resolved,97.0,2.0,Steven Rivera
+TKT-000718,Inity,2017-12-11,2017-12-15,bug_report,medium,resolved,98.0,1.0,Brenda Hinton
+TKT-000719,Inity,2017-05-01,2017-05-04,billing,medium,resolved,91.0,4.0,Kathryn Mccann
+TKT-000720,Inity,2017-06-13,,account_management,medium,waiting_on_customer,,,Jeffrey Roberson
+TKT-000721,Inity,2017-10-09,,billing,high,open,,,Randy Friedman
+TKT-000722,Inity,2017-11-04,2017-11-04,onboarding,high,resolved,15.0,,Raymond Johnson
+TKT-000723,Inity,2017-02-23,2017-02-23,technical,medium,resolved,20.0,4.0,Willie Henry
+TKT-000724,Inity,2017-10-13,2017-10-14,onboarding,medium,resolved,33.0,4.0,Todd Reynolds
+TKT-000725,Inity,2017-01-21,,onboarding,medium,escalated,,,Mary Miller
+TKT-000726,Inity,2017-09-24,2017-09-26,technical,medium,resolved,71.0,3.0,Rebecca Marquez
+TKT-000727,Inity,2017-04-30,,technical,medium,open,,,Christian Dawson
+TKT-000728,Inity,2017-05-07,2017-05-07,bug_report,high,resolved,11.0,5.0,Nancy Stewart
+TKT-000729,Inity,2017-12-20,2017-12-24,feature_request,medium,resolved,118.0,,Aaron Parker
+TKT-000730,Inity,2017-01-20,,bug_report,medium,waiting_on_customer,,,Derrick Anderson
+TKT-000731,Inity,2017-10-04,2017-10-05,technical,high,resolved,34.0,4.0,Jerry Peters
+TKT-000732,Inity,2017-11-16,,technical,high,escalated,,,Alexander Gomez
+TKT-000733,Inity,2017-12-09,,billing,medium,escalated,,,Kyle Nguyen
+TKT-000734,Inity,2017-09-28,2017-09-29,onboarding,low,resolved,24.0,,Edgar Hughes
+TKT-000735,Inity,2017-05-27,,feature_request,medium,open,,,Steven Stein
+TKT-000736,Inity,2017-10-30,,billing,medium,waiting_on_customer,,,Laura Jackson
+TKT-000737,Inity,2017-06-02,2017-06-07,feature_request,low,resolved,120.0,2.0,Charles Turner
+TKT-000738,Isdom,2017-08-31,2017-09-02,technical,medium,resolved,62.0,3.0,Arthur Hamilton MD
+TKT-000739,Isdom,2017-09-03,2017-09-06,onboarding,medium,resolved,90.0,2.0,Mr. David Wright
+TKT-000740,Isdom,2017-11-13,,technical,low,escalated,,,Linda Gonzalez
+TKT-000741,Isdom,2017-10-09,2017-10-11,technical,low,resolved,61.0,,Eric Rush
+TKT-000742,Isdom,2017-02-22,2017-02-22,billing,high,resolved,4.0,4.0,Manuel Brock
+TKT-000743,Isdom,2017-05-05,2017-05-14,billing,low,resolved,220.0,,George Ochoa
+TKT-000744,Isdom,2017-07-02,,bug_report,medium,waiting_on_customer,,,Valerie Taylor
+TKT-000745,Isdom,2017-04-07,2017-04-08,feature_request,medium,resolved,28.0,,Travis Harris
+TKT-000746,Isdom,2017-02-25,2017-02-25,account_management,medium,resolved,13.0,4.0,Vincent Novak
+TKT-000747,Isdom,2017-02-24,2017-03-04,technical,low,resolved,197.0,3.0,Michael Henry
+TKT-000748,Isdom,2017-02-25,2017-02-25,technical,high,resolved,5.0,4.0,Dana Bennett
+TKT-000749,Isdom,2017-10-18,2017-10-19,technical,high,resolved,35.0,4.0,Jenna Wilson
+TKT-000750,Isdom,2017-09-08,,bug_report,medium,escalated,,,Leslie Gardner
+TKT-000751,Isdom,2017-06-18,2017-06-19,technical,high,resolved,29.0,,Krista Benton
+TKT-000752,Iselectrics,2017-09-20,2017-09-20,feature_request,high,resolved,4.0,4.0,Michael Gonzales
+TKT-000753,Iselectrics,2017-11-12,,billing,low,waiting_on_customer,,,Michael Fuentes
+TKT-000754,Iselectrics,2017-08-15,2017-08-16,billing,high,resolved,31.0,5.0,Jennifer Porter
+TKT-000755,Iselectrics,2017-02-15,2017-02-21,feature_request,low,resolved,154.0,,Dana Hopkins
+TKT-000756,Iselectrics,2017-08-27,2017-08-28,account_management,high,resolved,40.0,4.0,Rachel Jones
+TKT-000757,Iselectrics,2017-05-22,2017-05-26,technical,medium,resolved,106.0,,Karen Morales DDS
+TKT-000758,Iselectrics,2017-02-21,2017-02-21,feature_request,high,resolved,6.0,4.0,Melissa Stephens
+TKT-000759,Iselectrics,2017-10-13,2017-10-16,bug_report,medium,resolved,77.0,,Heather Woodard
+TKT-000760,Iselectrics,2017-07-01,2017-07-03,technical,low,resolved,63.0,4.0,Margaret Miller
+TKT-000761,Iselectrics,2017-09-03,2017-09-08,feature_request,low,resolved,120.0,3.0,Mary Kelly
+TKT-000762,Iselectrics,2017-10-03,2017-10-11,feature_request,low,resolved,192.0,,Amanda Terrell
+TKT-000763,J-Texon,2017-06-21,,onboarding,medium,open,,,Jennifer Goodwin
+TKT-000764,J-Texon,2017-02-11,2017-02-17,technical,low,resolved,167.0,3.0,Jessica Smith
+TKT-000765,J-Texon,2017-11-03,2017-11-04,onboarding,high,resolved,28.0,,Jorge Stone
+TKT-000766,J-Texon,2017-04-18,2017-04-19,feature_request,high,resolved,42.0,4.0,Laura Griffin
+TKT-000767,J-Texon,2017-11-09,2017-11-09,bug_report,medium,resolved,23.0,,Raymond Chapman
+TKT-000768,J-Texon,2017-10-01,2017-10-01,billing,critical,resolved,1.0,,Haley Johnson
+TKT-000769,J-Texon,2017-03-12,,billing,critical,open,,,Jason Nixon
+TKT-000770,J-Texon,2017-10-13,2017-10-13,technical,critical,resolved,5.0,,Todd Thomas
+TKT-000771,J-Texon,2017-07-25,2017-07-27,billing,medium,resolved,66.0,,Jesse Clark
+TKT-000772,J-Texon,2017-03-17,2017-03-21,billing,low,resolved,101.0,2.0,Mr. Jeffrey Horton
+TKT-000773,J-Texon,2017-08-15,,billing,medium,waiting_on_customer,,,Eric Patrick
+TKT-000774,J-Texon,2017-03-05,2017-03-06,technical,medium,resolved,25.0,,Samuel Wong
+TKT-000775,J-Texon,2017-07-08,2017-07-09,onboarding,medium,resolved,47.0,4.0,Carly Riggs
+TKT-000776,J-Texon,2017-04-29,,technical,low,open,,,Christopher Moore
+TKT-000777,J-Texon,2017-10-27,2017-10-27,onboarding,critical,resolved,5.0,5.0,Tina Hall
+TKT-000778,J-Texon,2017-04-18,2017-04-21,technical,medium,resolved,83.0,2.0,Cody Davidson
+TKT-000779,J-Texon,2017-05-02,2017-05-02,feature_request,medium,resolved,15.0,,Allen Mendez
+TKT-000780,J-Texon,2017-09-14,2017-09-23,billing,low,resolved,224.0,,Kevin Price
+TKT-000781,Kan-code,2017-09-19,,feature_request,critical,waiting_on_customer,,,Christine Goodwin
+TKT-000782,Kan-code,2017-01-19,2017-01-20,billing,high,resolved,44.0,3.0,Amy Garcia
+TKT-000783,Kan-code,2017-07-12,,technical,high,waiting_on_customer,,,Chelsea Nguyen
+TKT-000784,Kan-code,2017-09-29,2017-09-30,billing,medium,resolved,24.0,4.0,Dennis Huffman
+TKT-000785,Kan-code,2017-12-09,2017-12-09,account_management,medium,resolved,13.0,,Margaret Harper
+TKT-000786,Kan-code,2017-04-04,2017-04-12,technical,low,resolved,193.0,,Laurie Bailey
+TKT-000787,Kan-code,2017-10-03,2017-10-04,technical,low,resolved,37.0,4.0,Lisa Cervantes
+TKT-000788,Kan-code,2017-03-26,2017-03-26,billing,high,resolved,14.0,5.0,Elizabeth Mendez
+TKT-000789,Kan-code,2017-11-09,2017-11-09,bug_report,medium,resolved,12.0,,Cesar Wilson
+TKT-000790,Kan-code,2017-11-24,2017-11-29,feature_request,low,resolved,122.0,,Clayton Steele
+TKT-000791,Kan-code,2017-12-13,2017-12-14,billing,medium,resolved,27.0,,Jennifer Taylor
+TKT-000792,Kan-code,2017-10-17,2017-10-18,technical,medium,resolved,47.0,4.0,Cody Reid
+TKT-000793,Kan-code,2017-12-04,2017-12-05,billing,medium,resolved,25.0,3.0,Maria Cooke
+TKT-000794,Kan-code,2017-03-09,2017-03-11,account_management,low,resolved,57.0,,Katherine Taylor
+TKT-000795,Kan-code,2017-03-27,2017-03-28,billing,medium,resolved,45.0,,Jerry Brown
+TKT-000796,Kan-code,2017-01-01,2017-01-01,technical,medium,resolved,12.0,,Adam Taylor
+TKT-000797,Kan-code,2017-11-29,2017-11-30,bug_report,low,resolved,46.0,3.0,Tracey Wagner
+TKT-000798,Kinnamplus,2017-06-13,,feature_request,high,waiting_on_customer,,,Michael Perry PhD
+TKT-000799,Kinnamplus,2017-07-23,2017-07-23,bug_report,critical,resolved,6.0,5.0,Bradley Johnson DDS
+TKT-000800,Kinnamplus,2017-11-18,2017-11-18,onboarding,medium,resolved,14.0,4.0,Donald Medina
+TKT-000801,Kinnamplus,2017-06-22,2017-06-22,technical,medium,resolved,17.0,5.0,Jim Newton
+TKT-000802,Kinnamplus,2017-04-16,2017-04-19,onboarding,medium,resolved,84.0,1.0,Krista Wilson
+TKT-000803,Kinnamplus,2017-03-04,2017-03-05,technical,low,resolved,30.0,3.0,Reginald Morrow
+TKT-000804,Kinnamplus,2017-05-09,2017-05-10,billing,high,resolved,29.0,,Rodney Williams
+TKT-000805,Kinnamplus,2017-06-26,2017-06-26,bug_report,critical,resolved,3.0,5.0,Kimberly Fritz
+TKT-000806,Kinnamplus,2017-01-23,2017-01-25,bug_report,medium,resolved,53.0,4.0,Ronald Potter
+TKT-000807,Kinnamplus,2017-02-05,2017-02-05,technical,high,resolved,21.0,4.0,Zachary Cole
+TKT-000808,Kinnamplus,2017-03-30,2017-03-31,account_management,medium,resolved,25.0,5.0,Robert Gonzales
+TKT-000809,Kinnamplus,2017-12-10,,feature_request,medium,open,,,Patricia Young PhD
+TKT-000810,Kinnamplus,2017-06-02,2017-06-07,billing,low,resolved,142.0,3.0,Heather Page
+TKT-000811,Kinnamplus,2017-09-08,,technical,critical,open,,,Carol Taylor
+TKT-000812,Kinnamplus,2017-03-02,2017-03-02,bug_report,critical,resolved,6.0,4.0,Daniel Brown
+TKT-000813,Kinnamplus,2017-10-30,2017-11-07,billing,low,resolved,212.0,,Douglas Ryan
+TKT-000814,Kinnamplus,2017-07-22,2017-07-22,feature_request,critical,resolved,2.0,4.0,Michael Roberts
+TKT-000815,Kinnamplus,2017-08-05,2017-08-13,onboarding,low,resolved,206.0,2.0,Scott Duke
+TKT-000816,Kinnamplus,2017-09-19,2017-09-21,billing,medium,resolved,63.0,5.0,Anna Estes
+TKT-000817,Kinnamplus,2017-02-25,2017-03-01,bug_report,low,resolved,106.0,,Tamara Riddle
+TKT-000818,Kinnamplus,2017-08-10,2017-08-10,billing,high,resolved,9.0,4.0,Beth Cline
+TKT-000819,Kinnamplus,2017-08-02,2017-08-05,account_management,medium,resolved,81.0,,Michael Poole
+TKT-000820,Kinnamplus,2017-07-21,2017-07-22,technical,high,resolved,40.0,3.0,Megan Burns
+TKT-000821,Konex,2017-08-24,2017-08-25,technical,high,resolved,28.0,,Debra Perry
+TKT-000822,Konex,2017-11-17,2017-11-26,billing,low,resolved,230.0,,Mark Beard
+TKT-000823,Konex,2017-05-14,2017-05-14,feature_request,high,resolved,22.0,,Jose Ramirez
+TKT-000824,Konex,2017-08-16,2017-08-16,feature_request,critical,resolved,1.0,4.0,Jackie Clements
+TKT-000825,Konex,2017-03-14,2017-03-21,bug_report,low,resolved,183.0,4.0,Aaron Schroeder
+TKT-000826,Konex,2017-11-21,2017-11-21,billing,high,resolved,19.0,,Monica Ellis
+TKT-000827,Konex,2017-08-16,,feature_request,medium,open,,,Heather Brown
+TKT-000828,Konex,2017-04-09,2017-04-10,bug_report,medium,resolved,32.0,5.0,Claudia Jordan
+TKT-000829,Konex,2017-09-13,2017-09-20,technical,low,resolved,184.0,3.0,Derrick Clayton
+TKT-000830,Konex,2017-10-17,2017-10-20,technical,low,resolved,82.0,,Kenneth Knight
+TKT-000831,Konex,2017-05-31,2017-06-04,bug_report,medium,resolved,98.0,,Mr. Michael Williams
+TKT-000832,Konex,2017-12-06,2017-12-10,billing,medium,resolved,115.0,,Richard Stevens
+TKT-000833,Konex,2017-02-07,,account_management,medium,escalated,,,Scott Alexander
+TKT-000834,Konex,2017-07-21,2017-07-23,onboarding,low,resolved,66.0,,Tyler Harris
+TKT-000835,Konex,2017-07-19,2017-07-23,technical,medium,resolved,119.0,,Bonnie Santos
+TKT-000836,Konex,2017-05-11,,billing,high,escalated,,,Timothy Hill
+TKT-000837,Konex,2017-03-04,2017-03-08,technical,medium,resolved,115.0,3.0,Danielle Watson
+TKT-000838,Konex,2017-01-13,,technical,high,escalated,,,Carol Sanders
+TKT-000839,Konex,2017-02-01,2017-02-10,feature_request,low,resolved,226.0,3.0,Michael Young
+TKT-000840,Konex,2017-01-16,2017-01-20,feature_request,low,resolved,96.0,3.0,Michele Smith
+TKT-000841,Konex,2017-02-16,2017-02-16,technical,high,resolved,17.0,5.0,Casey Perez
+TKT-000842,Konex,2017-09-10,2017-09-11,billing,low,resolved,39.0,4.0,Alexandra Dominguez
+TKT-000843,Konex,2017-01-05,2017-01-06,technical,medium,resolved,47.0,5.0,Virginia Henderson
+TKT-000844,Konex,2017-01-30,2017-01-31,feature_request,medium,resolved,24.0,5.0,Benjamin Reyes
+TKT-000845,Konex,2017-06-12,,account_management,low,open,,,Ashley Edwards
+TKT-000846,Konmatfix,2017-02-25,,billing,low,open,,,Breanna Ayala
+TKT-000847,Konmatfix,2017-06-10,,bug_report,medium,waiting_on_customer,,,Brandi Haney
+TKT-000848,Konmatfix,2017-04-04,2017-04-04,feature_request,medium,resolved,18.0,4.0,Joseph Smith
+TKT-000849,Konmatfix,2017-01-22,2017-01-28,technical,low,resolved,153.0,2.0,Jessica Bowen
+TKT-000850,Konmatfix,2017-03-21,,technical,high,waiting_on_customer,,,Brittany Jenkins
+TKT-000851,Konmatfix,2017-12-29,2017-12-30,billing,medium,resolved,24.0,,Shannon Miller
+TKT-000852,Konmatfix,2017-03-18,2017-03-19,billing,high,resolved,37.0,,Paul Lawrence
+TKT-000853,Konmatfix,2017-06-05,2017-06-05,feature_request,high,resolved,6.0,,Victor Edwards
+TKT-000854,Konmatfix,2017-07-06,2017-07-08,billing,medium,resolved,63.0,,Donald Miller
+TKT-000855,Konmatfix,2017-09-16,2017-09-25,bug_report,low,resolved,222.0,4.0,Lindsay Lawson
+TKT-000856,Konmatfix,2017-05-10,2017-05-11,billing,high,resolved,41.0,,Melissa Abbott
+TKT-000857,Konmatfix,2017-05-27,2017-06-02,technical,low,resolved,154.0,2.0,Elizabeth Holmes
+TKT-000858,Konmatfix,2017-01-11,,account_management,medium,escalated,,,Nicole Phillips
+TKT-000859,Konmatfix,2017-10-21,2017-10-27,technical,low,resolved,144.0,,Steven Blevins
+TKT-000860,Konmatfix,2017-06-15,2017-06-16,billing,medium,resolved,33.0,,Brian Porter MD
+TKT-000861,Konmatfix,2017-05-21,2017-05-24,billing,medium,resolved,94.0,2.0,Vanessa Hatfield
+TKT-000862,Konmatfix,2017-11-09,,technical,critical,escalated,,,Bonnie Valencia
+TKT-000863,Labdrill,2017-07-07,2017-07-07,onboarding,critical,resolved,1.0,,Holly Vega
+TKT-000864,Labdrill,2017-11-17,2017-11-18,technical,high,resolved,40.0,,Tiffany Townsend
+TKT-000865,Labdrill,2017-11-13,,feature_request,low,escalated,,,Austin Baker
+TKT-000866,Labdrill,2017-08-29,2017-08-30,technical,high,resolved,45.0,,Antonio Mccormick
+TKT-000867,Labdrill,2017-06-07,2017-06-07,feature_request,medium,resolved,12.0,5.0,Lori Mason
+TKT-000868,Labdrill,2017-12-26,2017-12-28,technical,medium,resolved,64.0,,Michael Miller
+TKT-000869,Labdrill,2017-09-25,2017-09-25,onboarding,medium,resolved,13.0,,Lisa Ramirez
+TKT-000870,Labdrill,2017-02-14,2017-02-18,billing,medium,resolved,105.0,2.0,Jorge Harris
+TKT-000871,Labdrill,2017-12-27,2017-12-30,account_management,medium,resolved,92.0,1.0,Kimberly Myers
+TKT-000872,Labdrill,2017-07-27,2017-07-27,technical,high,resolved,5.0,,Sandra Becker
+TKT-000873,Labdrill,2017-02-21,2017-02-25,billing,medium,resolved,116.0,2.0,Michael Blair
+TKT-000874,Labdrill,2017-01-10,2017-01-18,bug_report,low,resolved,204.0,,Amy Miller
+TKT-000875,Lexiqvolax,2017-03-03,2017-03-03,billing,high,resolved,14.0,,Jesse Lynch
+TKT-000876,Lexiqvolax,2017-06-17,2017-06-17,billing,high,resolved,4.0,5.0,Patrick Yang
+TKT-000877,Lexiqvolax,2017-05-23,2017-05-24,technical,low,resolved,42.0,,Michael Miles
+TKT-000878,Lexiqvolax,2017-04-17,2017-04-23,account_management,low,resolved,163.0,3.0,Troy Mills
+TKT-000879,Lexiqvolax,2017-04-13,2017-04-13,feature_request,medium,resolved,15.0,5.0,Michelle Jackson
+TKT-000880,Lexiqvolax,2017-07-05,2017-07-13,feature_request,low,resolved,211.0,2.0,Richard Adams
+TKT-000881,Lexiqvolax,2017-07-28,2017-07-31,technical,medium,resolved,90.0,4.0,Patricia Johnson
+TKT-000882,Lexiqvolax,2017-08-04,2017-08-04,onboarding,medium,resolved,20.0,,Denise Brown
+TKT-000883,Lexiqvolax,2017-08-12,,billing,high,waiting_on_customer,,,Laura Jones
+TKT-000884,Lexiqvolax,2017-08-07,2017-08-13,account_management,low,resolved,155.0,1.0,Ian Porter
+TKT-000885,Lexiqvolax,2017-11-15,2017-11-23,billing,low,resolved,198.0,1.0,Holly Scott
+TKT-000886,Lexiqvolax,2017-01-27,2017-01-29,feature_request,low,resolved,70.0,4.0,Kenneth Sharp
+TKT-000887,Lexiqvolax,2017-04-18,2017-04-22,account_management,medium,resolved,108.0,,Jordan Williams
+TKT-000888,Lexiqvolax,2017-01-26,2017-01-28,technical,medium,resolved,49.0,4.0,Dana Ruiz
+TKT-000889,Lexiqvolax,2017-08-10,,feature_request,medium,open,,,Chris Velazquez
+TKT-000890,Lexiqvolax,2017-01-19,2017-01-20,technical,high,resolved,30.0,4.0,Kristen Sloan
+TKT-000891,Lexiqvolax,2017-02-17,2017-02-21,bug_report,medium,resolved,104.0,,Jennifer Morris
+TKT-000892,Lexiqvolax,2017-08-28,2017-08-28,feature_request,high,resolved,21.0,,Nathan Nelson
+TKT-000893,Lexiqvolax,2017-11-05,2017-11-06,onboarding,medium,resolved,36.0,4.0,Jake Shaw
+TKT-000894,Lexiqvolax,2017-12-16,2017-12-24,onboarding,low,resolved,201.0,2.0,Cassie Brock
+TKT-000895,Massive Dynamic,2017-12-11,2017-12-19,feature_request,low,resolved,201.0,2.0,Dr. Andrea Marshall
+TKT-000896,Massive Dynamic,2017-07-14,2017-07-17,account_management,low,resolved,78.0,3.0,Ryan Murphy
+TKT-000897,Massive Dynamic,2017-09-13,2017-09-13,onboarding,high,resolved,6.0,5.0,Aimee Gonzalez
+TKT-000898,Massive Dynamic,2017-02-23,2017-02-24,account_management,medium,resolved,39.0,,Elizabeth Dean
+TKT-000899,Massive Dynamic,2017-05-15,2017-05-19,technical,medium,resolved,117.0,3.0,Kevin Snyder
+TKT-000900,Massive Dynamic,2017-05-13,2017-05-21,technical,low,resolved,204.0,4.0,Christie Mccullough
+TKT-000901,Massive Dynamic,2017-04-01,2017-04-05,technical,medium,resolved,103.0,3.0,Danielle Smith
+TKT-000902,Massive Dynamic,2017-11-10,,technical,high,open,,,David Reed
+TKT-000903,Massive Dynamic,2017-02-07,,billing,medium,escalated,,,Sherry Tapia
+TKT-000904,Massive Dynamic,2017-09-13,2017-09-14,billing,medium,resolved,30.0,,Matthew Sweeney
+TKT-000905,Massive Dynamic,2017-07-11,2017-07-11,account_management,high,resolved,20.0,5.0,Ashley Moreno
+TKT-000906,Massive Dynamic,2017-06-28,2017-06-28,account_management,high,resolved,19.0,,Johnathan Brown
+TKT-000907,Massive Dynamic,2017-11-26,2017-11-27,onboarding,high,resolved,36.0,4.0,Michelle Davis DVM
+TKT-000908,Massive Dynamic,2017-01-17,,bug_report,high,open,,,Kelly Haynes
+TKT-000909,Massive Dynamic,2017-01-06,2017-01-10,onboarding,medium,resolved,106.0,2.0,William Miller
+TKT-000910,Massive Dynamic,2017-05-19,2017-05-20,technical,low,resolved,40.0,4.0,Casey Wilkins
+TKT-000911,Massive Dynamic,2017-09-01,2017-09-05,billing,medium,resolved,102.0,3.0,Keith Graham
+TKT-000912,Massive Dynamic,2017-02-19,2017-02-25,onboarding,low,resolved,149.0,,Cynthia Green
+TKT-000913,Massive Dynamic,2017-07-03,2017-07-06,bug_report,medium,resolved,87.0,3.0,Robert Haynes
+TKT-000914,Massive Dynamic,2017-01-30,2017-02-01,technical,medium,resolved,60.0,,Emily Nelson
+TKT-000915,Massive Dynamic,2017-09-25,2017-09-25,onboarding,high,resolved,10.0,5.0,Dale Chan
+TKT-000916,Massive Dynamic,2017-07-06,,technical,high,open,,,Brittney Martin
+TKT-000917,Massive Dynamic,2017-04-24,2017-05-01,billing,low,resolved,185.0,2.0,Jason Herrera
+TKT-000918,Massive Dynamic,2017-04-26,2017-04-29,technical,medium,resolved,90.0,2.0,Christine Parker
+TKT-000919,Massive Dynamic,2017-01-02,,bug_report,low,escalated,,,Bryan Moore
+TKT-000920,Massive Dynamic,2017-08-23,2017-08-28,onboarding,low,resolved,125.0,,Samantha Terry
+TKT-000921,Massive Dynamic,2017-05-24,2017-05-24,technical,critical,resolved,6.0,4.0,Russell Murphy
+TKT-000922,Massive Dynamic,2017-12-25,,technical,low,escalated,,,David Kelly
+TKT-000923,Mathtouch,2017-08-16,2017-08-19,onboarding,low,resolved,78.0,2.0,Megan Green
+TKT-000924,Mathtouch,2017-02-17,,billing,low,escalated,,,Amanda Sullivan MD
+TKT-000925,Mathtouch,2017-05-24,2017-05-25,technical,high,resolved,25.0,,Danielle Murray
+TKT-000926,Mathtouch,2017-01-18,2017-01-20,onboarding,medium,resolved,63.0,,Brenda Smith
+TKT-000927,Mathtouch,2017-08-01,2017-08-06,technical,low,resolved,124.0,,Vickie Anderson
+TKT-000928,Mathtouch,2017-05-03,2017-05-11,account_management,low,resolved,208.0,3.0,Jacqueline Mccoy
+TKT-000929,Mathtouch,2017-07-02,2017-07-08,billing,low,resolved,149.0,4.0,Lauren Green
+TKT-000930,Mathtouch,2017-05-06,2017-05-08,feature_request,medium,resolved,60.0,3.0,Alison Brown
+TKT-000931,Mathtouch,2017-03-05,2017-03-06,account_management,high,resolved,45.0,3.0,Jill Anderson
+TKT-000932,Mathtouch,2017-06-29,2017-06-29,technical,critical,resolved,1.0,,Sandra Rivera
+TKT-000933,Mathtouch,2017-10-14,2017-10-16,feature_request,medium,resolved,67.0,,Joel Jackson
+TKT-000934,Mathtouch,2017-07-04,2017-07-04,billing,high,resolved,8.0,5.0,Samantha Foster
+TKT-000935,Mathtouch,2017-09-07,,onboarding,critical,waiting_on_customer,,,Michael Thompson
+TKT-000936,Mathtouch,2017-05-07,2017-05-11,technical,medium,resolved,105.0,3.0,Cody Ramirez
+TKT-000937,Nam-zim,2017-05-02,,technical,medium,open,,,Amanda Harvey
+TKT-000938,Nam-zim,2017-06-05,2017-06-05,feature_request,critical,resolved,1.0,,Edward Jenkins
+TKT-000939,Nam-zim,2017-11-06,,account_management,low,open,,,Amy Ramirez
+TKT-000940,Nam-zim,2017-10-10,2017-10-12,bug_report,low,resolved,62.0,,Curtis Wilkerson
+TKT-000941,Nam-zim,2017-12-10,2017-12-10,bug_report,medium,resolved,12.0,,Lydia Pham
+TKT-000942,Nam-zim,2017-08-02,2017-08-03,onboarding,high,resolved,41.0,5.0,Virginia Casey
+TKT-000943,Nam-zim,2017-09-24,2017-09-28,bug_report,low,resolved,113.0,2.0,Joshua Washington
+TKT-000944,Nam-zim,2017-01-08,2017-01-14,feature_request,low,resolved,148.0,2.0,Kathryn Price
+TKT-000945,Nam-zim,2017-01-06,2017-01-10,billing,medium,resolved,108.0,,Francis Robinson
+TKT-000946,Nam-zim,2017-08-06,2017-08-07,account_management,medium,resolved,36.0,,Paula Brown
+TKT-000947,Nam-zim,2017-06-22,2017-06-25,feature_request,medium,resolved,86.0,1.0,Kendra Wang DVM
+TKT-000948,Newex,2017-03-24,2017-03-26,technical,medium,resolved,59.0,3.0,Ariel Sandoval
+TKT-000949,Newex,2017-04-15,,billing,high,open,,,Robert Stark
+TKT-000950,Newex,2017-09-09,2017-09-13,bug_report,low,resolved,96.0,,Zachary Robinson
+TKT-000951,Newex,2017-09-06,,feature_request,low,waiting_on_customer,,,Rebecca Kelly
+TKT-000952,Newex,2017-02-26,2017-03-07,technical,low,resolved,224.0,3.0,Sarah Thompson
+TKT-000953,Newex,2017-09-04,2017-09-04,technical,critical,resolved,3.0,5.0,Renee Wolfe
+TKT-000954,Newex,2017-11-16,2017-11-17,feature_request,high,resolved,28.0,5.0,Alyssa Haynes
+TKT-000955,Newex,2017-03-17,,onboarding,high,open,,,Kristy Hart
+TKT-000956,Newex,2017-12-13,,billing,low,open,,,William Keith
+TKT-000957,Newex,2017-04-28,2017-04-29,technical,high,resolved,43.0,5.0,Eric Henry Jr.
+TKT-000958,Newex,2017-05-09,2017-05-09,billing,critical,resolved,6.0,,Daniel Fox
+TKT-000959,Newex,2017-01-25,2017-01-28,feature_request,medium,resolved,72.0,,Thomas Harris
+TKT-000960,Newex,2017-01-03,2017-01-08,feature_request,low,resolved,143.0,,Mitchell Sellers
+TKT-000961,Newex,2017-04-12,2017-04-14,feature_request,medium,resolved,60.0,,Erica Johnson
+TKT-000962,Newex,2017-01-01,2017-01-05,onboarding,medium,resolved,99.0,,Sylvia Schroeder
+TKT-000963,Newex,2017-08-18,2017-08-22,billing,medium,resolved,108.0,,Shannon Yu
+TKT-000964,Newex,2017-05-01,2017-05-02,billing,low,resolved,36.0,,Tom Foster
+TKT-000965,Newex,2017-05-04,2017-05-05,feature_request,low,resolved,28.0,,Eric Taylor
+TKT-000966,Newex,2017-11-03,2017-11-03,billing,high,resolved,9.0,,Travis Conner
+TKT-000967,Newex,2017-08-13,2017-08-21,billing,low,resolved,198.0,,Marie Thompson
+TKT-000968,Newex,2017-01-15,2017-01-24,bug_report,low,resolved,239.0,,Melissa Mcfarland
+TKT-000969,Newex,2017-07-22,2017-07-22,account_management,high,resolved,19.0,5.0,Courtney Chapman
+TKT-000970,Newex,2017-01-15,2017-01-15,billing,medium,resolved,23.0,5.0,Eric Barker
+TKT-000971,Newex,2017-12-26,2017-12-27,feature_request,high,resolved,30.0,4.0,Nicholas Rush
+TKT-000972,Newex,2017-11-20,2017-11-21,account_management,low,resolved,34.0,,Jenna Gamble
+TKT-000973,Newex,2017-10-26,2017-10-28,technical,medium,resolved,51.0,,Amanda Guzman
+TKT-000974,Newex,2017-04-06,2017-04-09,billing,medium,resolved,85.0,4.0,Tracy Walker
+TKT-000975,Newex,2017-04-09,,bug_report,medium,open,,,Taylor Taylor
+TKT-000976,Ontomedia,2017-04-10,2017-04-12,billing,medium,resolved,61.0,4.0,Cynthia Haas
+TKT-000977,Ontomedia,2017-04-18,2017-04-19,onboarding,low,resolved,27.0,,Stephen Davis
+TKT-000978,Ontomedia,2017-12-07,2017-12-11,technical,medium,resolved,117.0,,Margaret Tanner
+TKT-000979,Ontomedia,2017-08-11,,account_management,low,waiting_on_customer,,,Derek Wright
+TKT-000980,Ontomedia,2017-04-28,2017-05-02,billing,low,resolved,96.0,,David Rodriguez
+TKT-000981,Ontomedia,2017-01-31,2017-02-07,feature_request,low,resolved,169.0,,James Oconnor
+TKT-000982,Ontomedia,2017-01-02,2017-01-06,bug_report,medium,resolved,109.0,,Stacey Snyder
+TKT-000983,Ontomedia,2017-08-25,,billing,low,open,,,Joshua Garcia
+TKT-000984,Ontomedia,2017-04-12,2017-04-14,technical,medium,resolved,53.0,5.0,Sean Curtis
+TKT-000985,Ontomedia,2017-11-11,,technical,medium,open,,,Carla Jones
+TKT-000986,Ontomedia,2017-08-11,2017-08-13,feature_request,medium,resolved,62.0,,Elizabeth Flores
+TKT-000987,Ontomedia,2017-03-09,2017-03-10,bug_report,high,resolved,39.0,,Angela Jackson
+TKT-000988,Ontomedia,2017-03-16,2017-03-19,technical,medium,resolved,86.0,3.0,Nicholas Payne
+TKT-000989,Ontomedia,2017-08-06,2017-08-06,feature_request,high,resolved,4.0,,Anna Wheeler
+TKT-000990,Ontomedia,2017-09-09,2017-09-10,technical,high,resolved,44.0,4.0,Karen Johnson
+TKT-000991,Ontomedia,2017-05-07,,billing,medium,open,,,Carmen Preston
+TKT-000992,Ontomedia,2017-09-06,2017-09-13,technical,low,resolved,187.0,3.0,Brian Harris
+TKT-000993,Ontomedia,2017-01-24,2017-01-25,feature_request,high,resolved,25.0,5.0,Michael Bowen
+TKT-000994,Opentech,2017-07-01,2017-07-05,bug_report,medium,resolved,115.0,1.0,Deborah Campbell
+TKT-000995,Opentech,2017-09-30,2017-10-05,bug_report,low,resolved,140.0,1.0,Anthony Armstrong
+TKT-000996,Opentech,2017-09-16,2017-09-25,technical,low,resolved,236.0,3.0,Brittany Ward
+TKT-000997,Opentech,2017-04-25,2017-04-30,billing,low,resolved,129.0,3.0,Edward Stanley
+TKT-000998,Opentech,2017-04-08,2017-04-08,onboarding,critical,resolved,2.0,5.0,Christina Johnson
+TKT-000999,Opentech,2017-10-02,2017-10-09,onboarding,low,resolved,188.0,2.0,Edgar Miller
+TKT-001000,Opentech,2017-01-08,2017-01-11,technical,medium,resolved,92.0,,Elizabeth Sanders
+TKT-001001,Opentech,2017-09-11,2017-09-12,onboarding,high,resolved,36.0,3.0,Matthew Davis MD
+TKT-001002,Opentech,2017-01-16,2017-01-18,billing,medium,resolved,56.0,3.0,Stephen Wood
+TKT-001003,Opentech,2017-12-05,2017-12-11,technical,low,resolved,156.0,3.0,Dennis Marshall
+TKT-001004,Opentech,2017-10-07,2017-10-11,billing,medium,resolved,105.0,2.0,Derrick Brown
+TKT-001005,Opentech,2017-05-11,2017-05-12,technical,high,resolved,27.0,,Mary Miller
+TKT-001006,Opentech,2017-01-27,2017-01-28,billing,medium,resolved,28.0,5.0,Joshua Arellano
+TKT-001007,Opentech,2017-12-12,2017-12-19,technical,low,resolved,170.0,2.0,Kristen Randall
+TKT-001008,Opentech,2017-08-05,2017-08-12,technical,low,resolved,171.0,3.0,Jennifer Nichols
+TKT-001009,Plexzap,2017-07-08,2017-07-12,billing,medium,resolved,103.0,1.0,Karen Keith
+TKT-001010,Plexzap,2017-07-17,2017-07-19,feature_request,medium,resolved,70.0,3.0,Blake Orr
+TKT-001011,Plexzap,2017-06-03,2017-06-05,technical,medium,resolved,54.0,,Kathryn Lester
+TKT-001012,Plexzap,2017-12-20,2017-12-26,billing,low,resolved,162.0,4.0,Megan Oliver
+TKT-001013,Plexzap,2017-10-26,,technical,high,open,,,Peter Thompson
+TKT-001014,Plexzap,2017-09-30,2017-09-30,technical,high,resolved,23.0,5.0,Dr. Rhonda Martinez
+TKT-001015,Plexzap,2017-05-02,2017-05-02,technical,medium,resolved,16.0,,William Graham
+TKT-001016,Plexzap,2017-08-22,2017-08-26,technical,medium,resolved,113.0,4.0,Lori Flowers MD
+TKT-001017,Plexzap,2017-09-19,,onboarding,high,waiting_on_customer,,,Suzanne Jones
+TKT-001018,Plexzap,2017-08-02,2017-08-05,billing,medium,resolved,87.0,,James Nguyen
+TKT-001019,Plexzap,2017-07-17,2017-07-17,onboarding,high,resolved,14.0,5.0,Jimmy Marks
+TKT-001020,Plexzap,2017-11-12,2017-11-16,feature_request,low,resolved,116.0,2.0,Lisa Mills
+TKT-001021,Plexzap,2017-07-15,,account_management,low,open,,,Jason Hernandez
+TKT-001022,Plexzap,2017-11-01,2017-11-02,technical,low,resolved,28.0,5.0,Olivia Ayers
+TKT-001023,Plusstrip,2017-03-20,,onboarding,low,waiting_on_customer,,,Kristine Garcia
+TKT-001024,Plusstrip,2017-08-20,2017-08-20,onboarding,critical,resolved,2.0,5.0,Joseph Cooper
+TKT-001025,Plusstrip,2017-11-30,2017-12-01,billing,high,resolved,29.0,4.0,James Washington
+TKT-001026,Plusstrip,2017-05-11,2017-05-11,billing,high,resolved,12.0,,Amanda Hill
+TKT-001027,Plusstrip,2017-05-18,2017-05-27,account_management,low,resolved,219.0,,Lee Steele
+TKT-001028,Plusstrip,2017-03-08,2017-03-12,technical,medium,resolved,98.0,3.0,Steve Rivera
+TKT-001029,Plusstrip,2017-03-21,2017-03-22,billing,medium,resolved,40.0,,Patrick Mccall
+TKT-001030,Plusstrip,2017-06-27,2017-06-27,billing,high,resolved,15.0,,Alicia Roth
+TKT-001031,Plusstrip,2017-10-13,2017-10-13,feature_request,high,resolved,23.0,5.0,Douglas Vasquez
+TKT-001032,Plusstrip,2017-03-21,,technical,low,open,,,Annette Melton
+TKT-001033,Plusstrip,2017-07-07,2017-07-11,bug_report,medium,resolved,101.0,,William Ramos
+TKT-001034,Plussunin,2017-09-21,,billing,low,open,,,Debra Butler
+TKT-001035,Plussunin,2017-03-11,2017-03-12,feature_request,low,resolved,37.0,,Chelsea Lewis
+TKT-001036,Plussunin,2017-01-03,2017-01-03,billing,medium,resolved,14.0,5.0,Natalie Malone
+TKT-001037,Plussunin,2017-08-13,2017-08-19,account_management,low,resolved,167.0,,Samantha Robertson
+TKT-001038,Plussunin,2017-04-08,,bug_report,low,open,,,Eric Hunter
+TKT-001039,Plussunin,2017-05-01,2017-05-02,billing,high,resolved,45.0,4.0,Samuel Suarez
+TKT-001040,Plussunin,2017-09-13,2017-09-15,onboarding,medium,resolved,69.0,4.0,Corey Whitaker
+TKT-001041,Plussunin,2017-01-11,,technical,medium,waiting_on_customer,,,Danielle Bryant
+TKT-001042,Plussunin,2017-07-02,2017-07-02,technical,medium,resolved,12.0,5.0,Michele Hill
+TKT-001043,Plussunin,2017-03-13,2017-03-13,billing,critical,resolved,6.0,,Kathy Reid
+TKT-001044,Plussunin,2017-10-30,2017-11-06,bug_report,low,resolved,187.0,4.0,Andre Watson
+TKT-001045,Plussunin,2017-07-17,,feature_request,low,open,,,Cassandra Harrell
+TKT-001046,Plussunin,2017-12-19,,bug_report,medium,open,,,Hannah Martin
+TKT-001047,Plussunin,2017-06-08,2017-06-10,technical,low,resolved,50.0,,Nicole Barker
+TKT-001048,Rangreen,2017-02-18,2017-02-21,technical,medium,resolved,80.0,3.0,James Martin
+TKT-001049,Rangreen,2017-04-30,2017-05-03,billing,medium,resolved,74.0,,Traci Vincent
+TKT-001050,Rangreen,2017-08-25,2017-08-26,technical,high,resolved,38.0,4.0,Megan Adams
+TKT-001051,Rangreen,2017-12-02,2017-12-03,billing,high,resolved,41.0,,Alejandro Deleon
+TKT-001052,Rangreen,2017-10-26,,onboarding,medium,escalated,,,Alexa Buck
+TKT-001053,Rangreen,2017-10-19,2017-10-20,billing,high,resolved,39.0,,Lindsay Smith
+TKT-001054,Rangreen,2017-03-03,2017-03-05,technical,medium,resolved,64.0,4.0,Robert Torres
+TKT-001055,Rangreen,2017-05-19,2017-05-22,feature_request,medium,resolved,77.0,3.0,Maria Coleman
+TKT-001056,Rangreen,2017-01-01,2017-01-01,billing,high,resolved,15.0,,Gregory King
+TKT-001057,Rangreen,2017-01-10,2017-01-10,onboarding,medium,resolved,12.0,,Michael Holloway
+TKT-001058,Rangreen,2017-12-26,2017-12-27,billing,high,resolved,37.0,,Brian Hunt
+TKT-001059,Rangreen,2017-11-19,2017-11-22,technical,medium,resolved,86.0,1.0,Sarah Brooks
+TKT-001060,Rangreen,2017-08-31,2017-08-31,account_management,high,resolved,12.0,5.0,Lisa Evans
+TKT-001061,Rangreen,2017-09-03,2017-09-06,billing,medium,resolved,75.0,3.0,Arthur Mcneil
+TKT-001062,Rangreen,2017-03-22,2017-03-23,feature_request,medium,resolved,32.0,,Shannon Green
+TKT-001063,Rangreen,2017-01-13,2017-01-16,billing,medium,resolved,75.0,,Stephanie Evans
+TKT-001064,Rangreen,2017-12-20,2017-12-21,technical,high,resolved,40.0,,Ralph Yoder
+TKT-001065,Rangreen,2017-02-14,2017-02-18,feature_request,medium,resolved,108.0,,Rebekah Greene
+TKT-001066,Rangreen,2017-02-09,,billing,critical,waiting_on_customer,,,Melanie Griffith
+TKT-001067,Rangreen,2017-08-09,2017-08-09,technical,critical,resolved,3.0,5.0,Yolanda Green
+TKT-001068,Rangreen,2017-06-23,2017-06-26,technical,medium,resolved,74.0,2.0,James Johnson
+TKT-001069,Rangreen,2017-01-03,2017-01-07,onboarding,low,resolved,103.0,,Laura Lee
+TKT-001070,Rangreen,2017-03-01,2017-03-02,bug_report,high,resolved,33.0,,Courtney Nichols
+TKT-001071,Rantouch,2017-03-14,2017-03-16,billing,medium,resolved,57.0,4.0,Susan Powers
+TKT-001072,Rantouch,2017-08-17,2017-08-19,technical,medium,resolved,58.0,4.0,Sarah Pittman
+TKT-001073,Rantouch,2017-10-07,2017-10-08,onboarding,medium,resolved,36.0,4.0,Catherine Davis
+TKT-001074,Rantouch,2017-04-24,2017-04-25,technical,high,resolved,28.0,,David Stokes
+TKT-001075,Rantouch,2017-06-03,2017-06-08,account_management,low,resolved,136.0,3.0,Catherine Frazier
+TKT-001076,Rantouch,2017-06-14,2017-06-17,billing,medium,resolved,74.0,,Brandon Kelly
+TKT-001077,Rantouch,2017-12-28,2017-12-28,account_management,critical,resolved,3.0,4.0,Elizabeth French
+TKT-001078,Rantouch,2017-12-13,2017-12-17,technical,low,resolved,96.0,4.0,David Carter
+TKT-001079,Rantouch,2017-11-04,2017-11-04,billing,critical,resolved,4.0,5.0,Julie Delacruz
+TKT-001080,Rantouch,2017-01-16,2017-01-18,billing,medium,resolved,66.0,5.0,Terry Jones
+TKT-001081,Rantouch,2017-10-21,2017-10-29,onboarding,low,resolved,215.0,3.0,Kathryn Dillon
+TKT-001082,Rantouch,2017-03-25,2017-04-01,bug_report,low,resolved,169.0,3.0,Edwin Brown
+TKT-001083,Rantouch,2017-05-18,2017-05-19,onboarding,medium,resolved,37.0,4.0,Brenda Gonzalez
+TKT-001084,Rantouch,2017-09-19,2017-09-20,onboarding,high,resolved,42.0,5.0,Keith Knox
+TKT-001085,Rantouch,2017-09-07,,account_management,low,open,,,Eugene Baldwin
+TKT-001086,Rantouch,2017-05-11,2017-05-16,account_management,low,resolved,120.0,,Katherine Welch
+TKT-001087,Ron-tech,2017-06-02,2017-06-03,billing,high,resolved,34.0,,Mark Smith
+TKT-001088,Ron-tech,2017-09-03,2017-09-10,onboarding,low,resolved,182.0,,Philip Jackson
+TKT-001089,Ron-tech,2017-10-01,2017-10-01,account_management,high,resolved,8.0,,Katherine Gallagher
+TKT-001090,Ron-tech,2017-11-29,2017-12-03,billing,medium,resolved,106.0,3.0,Lucas Schultz
+TKT-001091,Ron-tech,2017-12-04,2017-12-04,technical,medium,resolved,12.0,5.0,Vincent Reyes
+TKT-001092,Ron-tech,2017-06-26,2017-07-05,onboarding,low,resolved,236.0,4.0,Curtis Watson
+TKT-001093,Ron-tech,2017-06-10,,billing,critical,waiting_on_customer,,,Frank Whitaker
+TKT-001094,Ron-tech,2017-08-11,2017-08-12,billing,low,resolved,36.0,4.0,Michael Sims
+TKT-001095,Ron-tech,2017-04-22,2017-04-22,onboarding,critical,resolved,5.0,,Michael Cooper
+TKT-001096,Ron-tech,2017-09-20,2017-09-21,technical,low,resolved,41.0,,James Chapman
+TKT-001097,Ron-tech,2017-03-25,2017-03-27,feature_request,medium,resolved,59.0,5.0,Rodney Evans
+TKT-001098,Ron-tech,2017-07-08,,onboarding,low,open,,,Nicholas Carlson
+TKT-001099,Rundofase,2017-10-04,2017-10-07,feature_request,medium,resolved,90.0,,Stephen Cowan
+TKT-001100,Rundofase,2017-04-03,,account_management,low,open,,,Steven Howard
+TKT-001101,Rundofase,2017-10-09,2017-10-15,technical,low,resolved,149.0,3.0,Travis Hull
+TKT-001102,Rundofase,2017-01-06,2017-01-07,onboarding,medium,resolved,26.0,3.0,Darryl Acosta
+TKT-001103,Rundofase,2017-11-02,2017-11-04,technical,medium,resolved,55.0,5.0,Nicholas Lawrence
+TKT-001104,Rundofase,2017-10-04,2017-10-06,account_management,medium,resolved,50.0,,Jacob Santos
+TKT-001105,Rundofase,2017-04-19,2017-04-19,technical,high,resolved,12.0,5.0,Shawn Scott
+TKT-001106,Rundofase,2017-09-26,,account_management,critical,open,,,Amber Vang
+TKT-001107,Rundofase,2017-11-29,2017-11-30,bug_report,high,resolved,27.0,5.0,Martha Smith
+TKT-001108,Rundofase,2017-01-06,2017-01-09,billing,medium,resolved,79.0,2.0,Jennifer James
+TKT-001109,Rundofase,2017-11-29,2017-11-29,billing,high,resolved,10.0,,Kara Hernandez
+TKT-001110,Rundofase,2017-11-27,2017-11-27,feature_request,critical,resolved,7.0,,Lorraine Turner
+TKT-001111,Rundofase,2017-12-17,2017-12-18,billing,high,resolved,30.0,3.0,Mary Nelson
+TKT-001112,Rundofase,2017-05-24,2017-05-25,bug_report,low,resolved,34.0,4.0,Breanna Rivas
+TKT-001113,Rundofase,2017-11-14,2017-11-14,technical,critical,resolved,6.0,,Nathan Wilson
+TKT-001114,Rundofase,2017-02-13,2017-02-15,billing,medium,resolved,55.0,3.0,Brian Gonzalez
+TKT-001115,Rundofase,2017-11-30,2017-12-03,technical,medium,resolved,76.0,,Dennis Mills
+TKT-001116,Rundofase,2017-08-03,2017-08-09,technical,low,resolved,155.0,3.0,Michael Phillips
+TKT-001117,Rundofase,2017-03-22,2017-03-28,account_management,low,resolved,153.0,,Jon Clark
+TKT-001118,Rundofase,2017-02-12,2017-02-13,bug_report,medium,resolved,47.0,,Erin Smith
+TKT-001119,Rundofase,2017-04-10,2017-04-15,account_management,low,resolved,125.0,,Susan Conley
+TKT-001120,Rundofase,2017-12-03,2017-12-06,technical,medium,resolved,73.0,2.0,Brittany Davis
+TKT-001121,Rundofase,2017-01-18,2017-01-20,account_management,low,resolved,67.0,4.0,Misty Garcia
+TKT-001122,Rundofase,2017-10-25,,onboarding,medium,open,,,David Hinton
+TKT-001123,Rundofase,2017-09-02,2017-09-06,billing,medium,resolved,112.0,3.0,John Garcia
+TKT-001124,Rundofase,2017-04-15,2017-04-15,billing,critical,resolved,1.0,4.0,Andrew Roberts
+TKT-001125,Rundofase,2017-12-10,,feature_request,high,escalated,,,Emily Rodgers
+TKT-001126,Rundofase,2017-06-02,2017-06-02,onboarding,medium,resolved,23.0,5.0,Peter Williams
+TKT-001127,Scotfind,2017-05-02,2017-05-04,technical,medium,resolved,60.0,4.0,Mary Jackson
+TKT-001128,Scotfind,2017-06-21,2017-06-22,bug_report,high,resolved,24.0,3.0,Jeffrey Howell
+TKT-001129,Scotfind,2017-08-02,2017-08-06,account_management,medium,resolved,107.0,,Anna Briggs
+TKT-001130,Scotfind,2017-07-12,2017-07-12,technical,critical,resolved,4.0,,James Rivers
+TKT-001131,Scotfind,2017-03-04,2017-03-04,technical,critical,resolved,3.0,5.0,James Jefferson
+TKT-001132,Scotfind,2017-02-17,,onboarding,low,escalated,,,Mariah Robles
+TKT-001133,Scotfind,2017-01-18,2017-01-22,billing,medium,resolved,100.0,,Michael Brown
+TKT-001134,Scotfind,2017-01-03,2017-01-03,onboarding,high,resolved,17.0,5.0,Caitlin Perry
+TKT-001135,Scotfind,2017-03-21,2017-03-25,technical,low,resolved,103.0,,Rebekah Gregory
+TKT-001136,Scotfind,2017-04-30,2017-04-30,feature_request,critical,resolved,3.0,4.0,James Howard
+TKT-001137,Scotfind,2017-04-01,2017-04-04,technical,medium,resolved,82.0,,Michael Roberson
+TKT-001138,Scotfind,2017-12-24,2017-12-27,billing,low,resolved,92.0,,Bianca Knapp
+TKT-001139,Scotfind,2017-01-12,2017-01-16,technical,low,resolved,115.0,,Jason Williams
+TKT-001140,Scotfind,2017-04-20,2017-04-21,technical,medium,resolved,31.0,5.0,Ernest Bush
+TKT-001141,Scotfind,2017-08-24,2017-08-27,technical,medium,resolved,84.0,,Patricia Ray
+TKT-001142,Scotfind,2017-01-07,2017-01-07,account_management,high,resolved,15.0,,Vanessa Santiago
+TKT-001143,Scotfind,2017-07-03,2017-07-03,technical,critical,resolved,3.0,4.0,Joseph Haynes
+TKT-001144,Scotfind,2017-10-23,2017-10-25,feature_request,medium,resolved,48.0,,Matthew Wright
+TKT-001145,Scottech,2017-09-02,,account_management,low,waiting_on_customer,,,Michael Cruz
+TKT-001146,Scottech,2017-01-10,2017-01-12,technical,low,resolved,51.0,5.0,Kristin Huerta
+TKT-001147,Scottech,2017-03-21,,onboarding,high,waiting_on_customer,,,Mason Moore
+TKT-001148,Scottech,2017-06-04,2017-06-05,technical,high,resolved,38.0,5.0,Sarah Booth
+TKT-001149,Scottech,2017-11-25,2017-11-26,billing,medium,resolved,30.0,,John Allen
+TKT-001150,Scottech,2017-04-19,2017-04-23,billing,medium,resolved,112.0,,Amber Walker
+TKT-001151,Scottech,2017-08-11,2017-08-20,onboarding,low,resolved,226.0,2.0,Jennifer Young
+TKT-001152,Scottech,2017-04-30,2017-05-02,bug_report,medium,resolved,67.0,5.0,Robert West
+TKT-001153,Scottech,2017-09-13,2017-09-22,billing,low,resolved,231.0,4.0,Jillian Wilson
+TKT-001154,Scottech,2017-07-23,2017-07-29,technical,low,resolved,161.0,4.0,Matthew Garcia MD
+TKT-001155,Scottech,2017-09-06,,feature_request,medium,waiting_on_customer,,,April Davis
+TKT-001156,Scottech,2017-12-07,2017-12-10,feature_request,medium,resolved,73.0,1.0,Lisa Torres
+TKT-001157,Scottech,2017-09-16,2017-09-17,onboarding,low,resolved,33.0,4.0,Christine Powers
+TKT-001158,Scottech,2017-07-18,2017-07-19,technical,high,resolved,24.0,5.0,Heidi Brown
+TKT-001159,Scottech,2017-09-08,,bug_report,medium,escalated,,,Jesse Castro
+TKT-001160,Scottech,2017-07-31,2017-08-04,billing,medium,resolved,116.0,1.0,Kara Sandoval
+TKT-001161,Scottech,2017-02-01,2017-02-09,onboarding,low,resolved,211.0,3.0,Ashley Malone
+TKT-001162,Scottech,2017-04-18,2017-04-18,technical,high,resolved,17.0,5.0,Glenn Gallegos
+TKT-001163,Scottech,2017-03-27,2017-03-28,technical,medium,resolved,27.0,4.0,Dorothy Boyd
+TKT-001164,Scottech,2017-01-19,2017-01-22,feature_request,medium,resolved,87.0,,Amber Martin
+TKT-001165,Silis,2017-05-01,2017-05-08,technical,low,resolved,170.0,3.0,Mitchell Griffith
+TKT-001166,Silis,2017-02-04,2017-02-06,technical,medium,resolved,71.0,,Levi Lopez
+TKT-001167,Silis,2017-06-09,2017-06-10,billing,medium,resolved,45.0,,Jenna Bryant
+TKT-001168,Silis,2017-03-08,,billing,medium,escalated,,,Michelle Rodriguez
+TKT-001169,Silis,2017-08-09,2017-08-10,account_management,medium,resolved,35.0,5.0,Timothy Monroe
+TKT-001170,Silis,2017-07-18,2017-07-22,technical,low,resolved,115.0,3.0,Patricia Hayes
+TKT-001171,Silis,2017-08-21,,account_management,medium,waiting_on_customer,,,Tina Taylor
+TKT-001172,Silis,2017-02-11,2017-02-12,account_management,high,resolved,45.0,4.0,Mr. Anthony Mcconnell PhD
+TKT-001173,Singletechno,2017-06-07,2017-06-12,feature_request,low,resolved,142.0,,Mr. Thomas Thompson
+TKT-001174,Singletechno,2017-06-24,2017-06-26,billing,low,resolved,62.0,4.0,Monica Anderson
+TKT-001175,Singletechno,2017-03-13,2017-03-13,technical,critical,resolved,1.0,5.0,Kyle Andrade
+TKT-001176,Singletechno,2017-01-13,,billing,low,escalated,,,Janice Petty
+TKT-001177,Singletechno,2017-12-19,2017-12-27,account_management,low,resolved,197.0,,Pamela Hill
+TKT-001178,Singletechno,2017-05-04,,bug_report,critical,waiting_on_customer,,,Tracy Chavez
+TKT-001179,Singletechno,2017-11-12,2017-11-12,billing,medium,resolved,13.0,,Jason Graves
+TKT-001180,Singletechno,2017-09-25,2017-10-02,technical,low,resolved,182.0,,Elizabeth Miles
+TKT-001181,Singletechno,2017-10-14,2017-10-19,technical,low,resolved,125.0,1.0,Michelle Walls
+TKT-001182,Singletechno,2017-06-24,2017-06-28,bug_report,medium,resolved,114.0,1.0,Christina Weber
+TKT-001183,Singletechno,2017-04-08,2017-04-09,technical,high,resolved,26.0,,Gregory Chambers
+TKT-001184,Singletechno,2017-07-31,2017-08-02,onboarding,medium,resolved,71.0,,Miss Tina Gordon
+TKT-001185,Singletechno,2017-04-10,,account_management,critical,open,,,Erica Wilson
+TKT-001186,Singletechno,2017-12-29,,account_management,medium,escalated,,,John Duncan
+TKT-001187,Singletechno,2017-06-11,2017-06-12,technical,medium,resolved,29.0,,Jennifer Adkins
+TKT-001188,Singletechno,2017-12-15,2017-12-15,technical,medium,resolved,17.0,4.0,Donna Boone
+TKT-001189,Singletechno,2017-10-11,2017-10-13,bug_report,medium,resolved,65.0,,Kelly Johnson
+TKT-001190,Singletechno,2017-09-06,,billing,medium,waiting_on_customer,,,Michael Gonzalez
+TKT-001191,Singletechno,2017-04-07,2017-04-07,technical,high,resolved,8.0,5.0,Candace Mitchell
+TKT-001192,Sonron,2017-12-17,,technical,low,open,,,Ryan Vaughn
+TKT-001193,Sonron,2017-09-01,,billing,medium,waiting_on_customer,,,Paul Johnson
+TKT-001194,Sonron,2017-03-13,2017-03-13,account_management,critical,resolved,6.0,4.0,Ashley Parrish
+TKT-001195,Sonron,2017-12-31,2017-12-31,technical,critical,resolved,1.0,5.0,Sharon Newton
+TKT-001196,Sonron,2017-03-09,2017-03-10,technical,high,resolved,33.0,4.0,Cynthia Mueller
+TKT-001197,Sonron,2017-12-11,2017-12-15,technical,medium,resolved,105.0,2.0,Donna Beck
+TKT-001198,Sonron,2017-05-15,2017-05-20,technical,low,resolved,140.0,4.0,Jasmine Frye
+TKT-001199,Sonron,2017-01-16,2017-01-17,technical,low,resolved,28.0,4.0,Emily Arnold
+TKT-001200,Sonron,2017-09-30,2017-10-01,billing,low,resolved,24.0,,David Oliver
+TKT-001201,Sonron,2017-11-24,2017-12-01,bug_report,low,resolved,189.0,,Sheila Greer
+TKT-001202,Sonron,2017-04-21,,billing,high,escalated,,,Michele Holland
+TKT-001203,Sonron,2017-09-07,2017-09-08,technical,medium,resolved,39.0,,Kimberly Morrison
+TKT-001204,Sonron,2017-04-25,2017-04-25,billing,critical,resolved,1.0,4.0,Tracey Phillips
+TKT-001205,Sonron,2017-07-06,,feature_request,medium,open,,,Michael Lopez
+TKT-001206,Sonron,2017-10-08,,billing,medium,waiting_on_customer,,,Jose Bennett
+TKT-001207,Sonron,2017-02-12,2017-02-15,technical,medium,resolved,90.0,,Justin Anderson
+TKT-001208,Sonron,2017-03-04,,bug_report,low,open,,,Dawn Rivera
+TKT-001209,Sonron,2017-02-17,2017-02-19,bug_report,medium,resolved,58.0,4.0,Brittney Hernandez
+TKT-001210,Sonron,2017-04-24,2017-04-24,onboarding,medium,resolved,12.0,4.0,Anthony Randolph
+TKT-001211,Sonron,2017-10-25,2017-11-03,billing,low,resolved,217.0,,Mary Henry
+TKT-001212,Sonron,2017-04-03,2017-04-03,technical,critical,resolved,1.0,,Heather Bowers
+TKT-001213,Sonron,2017-10-07,2017-10-07,bug_report,high,resolved,15.0,,Daniel White
+TKT-001214,Sonron,2017-02-14,2017-02-18,technical,medium,resolved,113.0,,Jonathan Perry
+TKT-001215,Sonron,2017-07-22,2017-07-22,technical,critical,resolved,3.0,4.0,Anna Walker
+TKT-001216,Sonron,2017-03-02,2017-03-09,onboarding,low,resolved,185.0,3.0,Gary Ward
+TKT-001217,Sonron,2017-12-22,2017-12-26,feature_request,low,resolved,118.0,1.0,Paul Moreno
+TKT-001218,Stanredtax,2017-01-20,2017-01-21,account_management,high,resolved,32.0,5.0,Samantha Zavala MD
+TKT-001219,Stanredtax,2017-06-11,2017-06-12,billing,high,resolved,46.0,4.0,Jill Conway
+TKT-001220,Stanredtax,2017-11-24,2017-11-24,technical,critical,resolved,4.0,4.0,Lisa Haley
+TKT-001221,Stanredtax,2017-09-25,2017-09-27,feature_request,low,resolved,48.0,3.0,Erica Moon
+TKT-001222,Stanredtax,2017-04-01,2017-04-02,account_management,high,resolved,28.0,,Janice Fernandez
+TKT-001223,Stanredtax,2017-11-20,2017-11-26,technical,low,resolved,167.0,,Thomas Short
+TKT-001224,Stanredtax,2017-06-04,2017-06-04,account_management,medium,resolved,16.0,4.0,Robert Griffin
+TKT-001225,Stanredtax,2017-01-20,2017-01-21,onboarding,high,resolved,27.0,,Steven Lee
+TKT-001226,Stanredtax,2017-03-06,2017-03-06,technical,critical,resolved,4.0,,Tiffany Jackson
+TKT-001227,Stanredtax,2017-12-03,,technical,low,waiting_on_customer,,,Kimberly Smith
+TKT-001228,Stanredtax,2017-09-28,2017-09-30,billing,medium,resolved,61.0,,Michael Ayala
+TKT-001229,Stanredtax,2017-08-02,,billing,low,open,,,Jessica Garcia
+TKT-001230,Stanredtax,2017-10-11,2017-10-12,technical,medium,resolved,28.0,3.0,Michele Cherry
+TKT-001231,Stanredtax,2017-11-26,2017-11-29,account_management,medium,resolved,82.0,2.0,Maria Case
+TKT-001232,Stanredtax,2017-06-11,2017-06-11,feature_request,medium,resolved,22.0,5.0,Brittany Stevens
+TKT-001233,Stanredtax,2017-02-16,2017-02-18,billing,low,resolved,69.0,3.0,Brandon Brown
+TKT-001234,Stanredtax,2017-02-08,2017-02-09,account_management,medium,resolved,29.0,3.0,Kristin Andrews
+TKT-001235,Stanredtax,2017-06-08,2017-06-09,onboarding,low,resolved,37.0,5.0,David Hughes
+TKT-001236,Stanredtax,2017-01-29,2017-02-07,account_management,low,resolved,239.0,2.0,Jessica Smith
+TKT-001237,Stanredtax,2017-03-24,2017-03-25,technical,medium,resolved,44.0,,Kimberly May
+TKT-001238,Stanredtax,2017-01-14,2017-01-14,feature_request,high,resolved,20.0,,Nicole Richards
+TKT-001239,Statholdings,2017-10-20,2017-10-20,technical,critical,resolved,2.0,5.0,Angel Reilly
+TKT-001240,Statholdings,2017-06-02,2017-06-08,technical,low,resolved,152.0,,Richard Turner
+TKT-001241,Statholdings,2017-08-25,2017-08-25,onboarding,critical,resolved,2.0,4.0,Preston Kim
+TKT-001242,Statholdings,2017-06-11,2017-06-14,onboarding,medium,resolved,87.0,3.0,Matthew Wells
+TKT-001243,Statholdings,2017-07-28,2017-07-30,technical,medium,resolved,56.0,,Brandy Myers
+TKT-001244,Statholdings,2017-03-02,2017-03-02,onboarding,high,resolved,20.0,5.0,Kimberly Choi
+TKT-001245,Statholdings,2017-02-05,2017-02-05,billing,critical,resolved,4.0,5.0,Michael Sloan
+TKT-001246,Statholdings,2017-04-10,,onboarding,high,waiting_on_customer,,,Monica Brooks
+TKT-001247,Statholdings,2017-10-22,2017-10-23,account_management,medium,resolved,34.0,,Kristen Peters
+TKT-001248,Statholdings,2017-06-11,2017-06-12,billing,high,resolved,39.0,5.0,Aaron Carlson
+TKT-001249,Statholdings,2017-01-14,2017-01-16,technical,medium,resolved,61.0,4.0,Theresa Torres
+TKT-001250,Statholdings,2017-08-05,2017-08-05,bug_report,high,resolved,14.0,,Stephanie Cooper
+TKT-001251,Statholdings,2017-03-17,2017-03-17,feature_request,critical,resolved,7.0,5.0,Matthew Hunt
+TKT-001252,Statholdings,2017-08-15,2017-08-15,technical,medium,resolved,19.0,,Daniel Davenport
+TKT-001253,Statholdings,2017-05-05,,technical,critical,waiting_on_customer,,,Christopher Marsh
+TKT-001254,Statholdings,2017-06-12,2017-06-15,billing,medium,resolved,78.0,4.0,Sarah Randolph
+TKT-001255,Statholdings,2017-06-17,2017-06-18,billing,medium,resolved,31.0,,Julia Dunn MD
+TKT-001256,Statholdings,2017-01-29,2017-02-05,onboarding,low,resolved,169.0,1.0,Brett Swanson
+TKT-001257,Statholdings,2017-12-30,2018-01-01,feature_request,medium,resolved,64.0,4.0,Mr. Carl Rios
+TKT-001258,Statholdings,2017-05-06,2017-05-06,technical,critical,resolved,3.0,,Manuel Mccullough
+TKT-001259,Statholdings,2017-05-04,2017-05-08,billing,medium,resolved,96.0,,Jerry Jensen
+TKT-001260,Statholdings,2017-03-07,2017-03-07,onboarding,critical,resolved,2.0,,Kevin Cunningham
+TKT-001261,Statholdings,2017-05-07,2017-05-10,onboarding,low,resolved,89.0,,Eugene Patterson
+TKT-001262,Statholdings,2017-02-16,,billing,medium,open,,,David Walker
+TKT-001263,Statholdings,2017-10-26,2017-10-29,technical,medium,resolved,77.0,3.0,Jessica Larsen
+TKT-001264,Statholdings,2017-08-03,2017-08-03,feature_request,critical,resolved,7.0,5.0,Nicholas Humphrey
+TKT-001265,Statholdings,2017-02-13,,billing,medium,escalated,,,Ian Torres
+TKT-001266,Streethex,2017-09-24,2017-09-24,billing,medium,resolved,17.0,,Casey Obrien
+TKT-001267,Streethex,2017-08-11,,technical,medium,waiting_on_customer,,,Shannon Taylor
+TKT-001268,Streethex,2017-09-05,,feature_request,high,waiting_on_customer,,,Deborah Mercado
+TKT-001269,Streethex,2017-04-27,2017-04-28,billing,high,resolved,35.0,4.0,Bernard Smith
+TKT-001270,Streethex,2017-12-08,,feature_request,low,open,,,Amanda Perkins
+TKT-001271,Streethex,2017-06-14,2017-06-18,billing,medium,resolved,112.0,3.0,Kevin Escobar
+TKT-001272,Streethex,2017-06-05,2017-06-10,technical,low,resolved,131.0,3.0,Kimberly Lutz
+TKT-001273,Streethex,2017-07-20,2017-07-29,billing,low,resolved,235.0,,Reginald Diaz
+TKT-001274,Streethex,2017-05-19,2017-05-20,onboarding,low,resolved,29.0,5.0,Raymond Quinn
+TKT-001275,Streethex,2017-11-10,2017-11-11,billing,high,resolved,38.0,,John Dixon
+TKT-001276,Streethex,2017-06-21,2017-06-22,technical,medium,resolved,26.0,4.0,Jonathan Bates
+TKT-001277,Streethex,2017-04-14,,feature_request,medium,escalated,,,Renee Mendez
+TKT-001278,Streethex,2017-10-06,2017-10-07,onboarding,high,resolved,31.0,,Jose Griffin
+TKT-001279,Streethex,2017-05-04,2017-05-05,billing,high,resolved,25.0,,Travis Hopkins
+TKT-001280,Streethex,2017-12-25,2017-12-28,account_management,medium,resolved,95.0,3.0,Nancy Webb
+TKT-001281,Streethex,2017-02-06,2017-02-07,onboarding,low,resolved,39.0,5.0,Daniel Freeman
+TKT-001282,Streethex,2017-01-21,,technical,low,waiting_on_customer,,,Jacob Williams
+TKT-001283,Streethex,2017-10-27,,onboarding,medium,open,,,Terry Ward
+TKT-001284,Streethex,2017-03-04,2017-03-11,account_management,low,resolved,183.0,,Jesse Williams
+TKT-001285,Sumace,2017-04-05,2017-04-09,feature_request,medium,resolved,98.0,2.0,Mrs. Michele Boyd
+TKT-001286,Sumace,2017-11-10,2017-11-10,billing,critical,resolved,7.0,5.0,Sandy Baker
+TKT-001287,Sumace,2017-04-30,2017-04-30,technical,critical,resolved,4.0,5.0,Carrie Valdez
+TKT-001288,Sumace,2017-03-24,2017-03-25,technical,high,resolved,44.0,4.0,Matthew Houston
+TKT-001289,Sumace,2017-11-11,2017-11-12,bug_report,high,resolved,31.0,3.0,Jamie Solomon
+TKT-001290,Sumace,2017-01-14,,billing,high,waiting_on_customer,,,Heather Parrish
+TKT-001291,Sumace,2017-08-23,2017-08-24,account_management,low,resolved,24.0,4.0,Mr. Larry Shaw
+TKT-001292,Sumace,2017-07-01,2017-07-01,bug_report,medium,resolved,21.0,4.0,Christopher Jones
+TKT-001293,Sumace,2017-06-16,2017-06-24,technical,low,resolved,196.0,,Christine Lopez
+TKT-001294,Sumace,2017-01-05,2017-01-10,billing,low,resolved,131.0,4.0,Mitchell Wilson
+TKT-001295,Sumace,2017-10-14,2017-10-15,billing,high,resolved,31.0,,Robert Cortez
+TKT-001296,Sumace,2017-07-09,2017-07-11,feature_request,medium,resolved,59.0,,Mr. Daniel Martin
+TKT-001297,Sumace,2017-04-09,2017-04-13,onboarding,medium,resolved,96.0,,Alison Williams
+TKT-001298,Sumace,2017-12-22,2017-12-30,account_management,low,resolved,194.0,3.0,Candace Soto
+TKT-001299,Sumace,2017-01-20,2017-01-20,technical,medium,resolved,12.0,,Kenneth Brown
+TKT-001300,Sumace,2017-09-06,2017-09-09,feature_request,medium,resolved,77.0,,Christopher Mullen
+TKT-001301,Sumace,2017-10-14,2017-10-15,technical,low,resolved,36.0,,Kristy Smith
+TKT-001302,Sumace,2017-05-08,2017-05-12,feature_request,medium,resolved,101.0,,Mary Campbell
+TKT-001303,Sumace,2017-05-23,,billing,high,escalated,,,Jerry Haney
+TKT-001304,Sunnamplex,2017-12-15,2017-12-16,onboarding,low,resolved,30.0,4.0,Carolyn Greer
+TKT-001305,Sunnamplex,2017-07-09,,bug_report,high,open,,,Rebecca Hoover
+TKT-001306,Sunnamplex,2017-06-17,2017-06-18,technical,high,resolved,35.0,5.0,Matthew Baker
+TKT-001307,Sunnamplex,2017-01-14,2017-01-21,billing,low,resolved,191.0,,Grace Chavez
+TKT-001308,Sunnamplex,2017-06-02,2017-06-08,billing,low,resolved,150.0,,Crystal Cruz
+TKT-001309,Sunnamplex,2017-01-04,2017-01-07,technical,medium,resolved,90.0,3.0,Dale Heath
+TKT-001310,Sunnamplex,2017-04-27,,billing,critical,open,,,Jennifer Hernandez
+TKT-001311,Sunnamplex,2017-05-13,,account_management,high,waiting_on_customer,,,John Mendez
+TKT-001312,Sunnamplex,2017-10-02,,technical,medium,escalated,,,Richard Gordon
+TKT-001313,Sunnamplex,2017-12-27,2017-12-28,billing,medium,resolved,32.0,5.0,John Anderson
+TKT-001314,Sunnamplex,2017-05-18,2017-05-26,feature_request,low,resolved,193.0,2.0,Samantha Prince
+TKT-001315,Sunnamplex,2017-01-19,2017-01-20,technical,high,resolved,35.0,3.0,Marie Boyd
+TKT-001316,Sunnamplex,2017-09-07,,billing,medium,open,,,Andrew Moreno
+TKT-001317,Sunnamplex,2017-12-09,2017-12-17,billing,low,resolved,193.0,2.0,Robert Clarke
+TKT-001318,The New York Inquirer,2017-11-03,2017-11-08,technical,low,resolved,137.0,1.0,Kevin Figueroa
+TKT-001319,The New York Inquirer,2017-12-03,2017-12-08,billing,low,resolved,140.0,2.0,Melissa Davis
+TKT-001320,The New York Inquirer,2017-12-11,2017-12-13,feature_request,medium,resolved,51.0,,John Hall
+TKT-001321,The New York Inquirer,2017-11-23,2017-11-30,billing,low,resolved,180.0,,Diane Mcdowell
+TKT-001322,The New York Inquirer,2017-12-22,2017-12-26,billing,low,resolved,101.0,,Colin Fletcher
+TKT-001323,The New York Inquirer,2017-06-22,2017-06-24,onboarding,medium,resolved,54.0,,Laura Wilson
+TKT-001324,The New York Inquirer,2017-12-15,2017-12-24,technical,low,resolved,235.0,,Matthew Watts
+TKT-001325,The New York Inquirer,2017-02-20,2017-02-23,billing,medium,resolved,85.0,,Jack Moore
+TKT-001326,The New York Inquirer,2017-01-07,2017-01-09,feature_request,medium,resolved,60.0,5.0,Dawn Wyatt
+TKT-001327,The New York Inquirer,2017-03-27,2017-03-27,account_management,critical,resolved,3.0,5.0,Jacob Hill
+TKT-001328,The New York Inquirer,2017-11-02,2017-11-02,technical,critical,resolved,1.0,5.0,Nicole Gutierrez
+TKT-001329,Toughzap,2017-04-20,,onboarding,critical,waiting_on_customer,,,Karen Wood
+TKT-001330,Toughzap,2017-01-01,2017-01-03,account_management,low,resolved,65.0,4.0,Dawn Parker
+TKT-001331,Toughzap,2017-03-27,2017-03-28,billing,medium,resolved,27.0,5.0,Michael Fitzgerald
+TKT-001332,Toughzap,2017-04-14,2017-04-21,billing,low,resolved,186.0,3.0,Mary Adkins
+TKT-001333,Toughzap,2017-05-01,2017-05-02,billing,medium,resolved,46.0,,Michael Martin
+TKT-001334,Toughzap,2017-12-10,,account_management,high,escalated,,,James Morgan
+TKT-001335,Toughzap,2017-10-16,2017-10-20,technical,medium,resolved,114.0,3.0,Melissa Mann
+TKT-001336,Toughzap,2017-02-11,2017-02-11,onboarding,medium,resolved,23.0,4.0,Vincent Smith
+TKT-001337,Toughzap,2017-08-07,,billing,high,open,,,Charles Frost
+TKT-001338,Treequote,2017-03-05,2017-03-05,technical,critical,resolved,3.0,5.0,Austin Walker
+TKT-001339,Treequote,2017-03-29,2017-03-31,technical,low,resolved,51.0,,Andrew Cruz
+TKT-001340,Treequote,2017-10-11,,feature_request,medium,escalated,,,Miss Kelly Dawson
+TKT-001341,Treequote,2017-11-25,2017-11-26,onboarding,high,resolved,47.0,3.0,Theresa Wilkins
+TKT-001342,Treequote,2017-05-24,2017-05-30,bug_report,low,resolved,165.0,2.0,Jessica Harris
+TKT-001343,Treequote,2017-11-27,2017-11-28,onboarding,high,resolved,39.0,,Regina Mitchell
+TKT-001344,Treequote,2017-08-30,2017-09-04,bug_report,low,resolved,129.0,,Kyle Black
+TKT-001345,Treequote,2017-12-16,2017-12-16,feature_request,high,resolved,8.0,5.0,Christopher Johnson
+TKT-001346,Treequote,2017-10-07,2017-10-11,technical,medium,resolved,112.0,3.0,Aaron Moore
+TKT-001347,Treequote,2017-07-19,2017-07-22,technical,low,resolved,77.0,3.0,Penny Gomez MD
+TKT-001348,Treequote,2017-03-30,2017-04-04,technical,low,resolved,125.0,2.0,Kelly Mclaughlin
+TKT-001349,Umbrella Corporation,2017-12-15,,technical,low,open,,,Brandon Mitchell
+TKT-001350,Umbrella Corporation,2017-03-30,2017-03-30,technical,high,resolved,14.0,,Suzanne Bailey
+TKT-001351,Umbrella Corporation,2017-07-19,2017-07-20,billing,medium,resolved,37.0,,Destiny Obrien
+TKT-001352,Umbrella Corporation,2017-02-09,2017-02-10,onboarding,high,resolved,35.0,4.0,Timothy Andrews
+TKT-001353,Umbrella Corporation,2017-09-08,2017-09-12,account_management,medium,resolved,113.0,,Jason Rodriguez
+TKT-001354,Umbrella Corporation,2017-04-16,2017-04-17,technical,high,resolved,47.0,5.0,Edward Arroyo
+TKT-001355,Umbrella Corporation,2017-12-21,2017-12-22,billing,high,resolved,44.0,,Tina Walter
+TKT-001356,Umbrella Corporation,2017-10-11,2017-10-11,technical,critical,resolved,2.0,5.0,Laura Benson
+TKT-001357,Umbrella Corporation,2017-11-14,2017-11-14,billing,critical,resolved,1.0,,Kristine Carrillo
+TKT-001358,Umbrella Corporation,2017-03-31,2017-03-31,billing,critical,resolved,3.0,4.0,Tonya Ellis
+TKT-001359,Umbrella Corporation,2017-08-31,,technical,medium,open,,,Kevin Johnson
+TKT-001360,Umbrella Corporation,2017-11-20,2017-11-25,feature_request,low,resolved,133.0,,Austin Schultz
+TKT-001361,Umbrella Corporation,2017-10-04,,feature_request,critical,waiting_on_customer,,,Megan Hall MD
+TKT-001362,Umbrella Corporation,2017-09-04,2017-09-05,account_management,high,resolved,43.0,5.0,Kelli Smith
+TKT-001363,Umbrella Corporation,2017-03-29,2017-03-29,billing,high,resolved,4.0,5.0,Danielle Davis
+TKT-001364,Umbrella Corporation,2017-06-13,2017-06-22,technical,low,resolved,226.0,3.0,Samantha Jones
+TKT-001365,Umbrella Corporation,2017-08-02,2017-08-04,bug_report,medium,resolved,53.0,,Karen Gomez
+TKT-001366,Umbrella Corporation,2017-10-12,2017-10-13,billing,medium,resolved,28.0,4.0,Debra Valentine
+TKT-001367,Umbrella Corporation,2017-03-30,2017-03-30,billing,critical,resolved,2.0,5.0,Susan Porter
+TKT-001368,Umbrella Corporation,2017-09-04,,onboarding,low,waiting_on_customer,,,Nicolas Salas
+TKT-001369,Umbrella Corporation,2017-04-09,,billing,low,open,,,Dale Wright
+TKT-001370,Umbrella Corporation,2017-11-23,,account_management,low,waiting_on_customer,,,Brittney Rodriguez
+TKT-001371,Umbrella Corporation,2017-06-29,2017-07-03,technical,medium,resolved,105.0,3.0,Megan Alvarado
+TKT-001372,Umbrella Corporation,2017-02-18,2017-02-18,technical,critical,resolved,3.0,4.0,Pamela Weaver
+TKT-001373,Umbrella Corporation,2017-07-24,2017-07-24,billing,critical,resolved,4.0,,John Oliver
+TKT-001374,Umbrella Corporation,2017-11-25,2017-11-25,technical,critical,resolved,4.0,,William Prince PhD
+TKT-001375,Umbrella Corporation,2017-08-26,2017-08-30,billing,medium,resolved,116.0,3.0,William Moon IV
+TKT-001376,Umbrella Corporation,2017-04-30,2017-05-03,technical,medium,resolved,91.0,2.0,Kenneth Brown
+TKT-001377,Vehement Capital Partners,2017-07-22,,technical,medium,waiting_on_customer,,,Karen Fernandez
+TKT-001378,Vehement Capital Partners,2017-02-06,2017-02-07,billing,low,resolved,38.0,5.0,Jennifer Parks
+TKT-001379,Vehement Capital Partners,2017-10-19,2017-10-21,technical,medium,resolved,65.0,,William Wolfe
+TKT-001380,Vehement Capital Partners,2017-03-18,2017-03-19,billing,low,resolved,34.0,4.0,Michael Smith
+TKT-001381,Vehement Capital Partners,2017-06-03,2017-06-06,onboarding,medium,resolved,86.0,4.0,Kevin Nguyen
+TKT-001382,Vehement Capital Partners,2017-11-05,2017-11-05,billing,medium,resolved,17.0,,Debbie Dunn
+TKT-001383,Vehement Capital Partners,2017-10-10,2017-10-13,account_management,medium,resolved,75.0,2.0,John Austin
+TKT-001384,Vehement Capital Partners,2017-11-07,2017-11-10,billing,medium,resolved,94.0,3.0,Jonathan Clark
+TKT-001385,Vehement Capital Partners,2017-03-04,2017-03-10,technical,low,resolved,163.0,,Jacqueline Dickerson
+TKT-001386,Vehement Capital Partners,2017-10-22,2017-10-23,bug_report,low,resolved,39.0,4.0,Christopher Anderson
+TKT-001387,Vehement Capital Partners,2017-04-26,2017-04-30,technical,medium,resolved,96.0,4.0,Crystal Garcia
+TKT-001388,Vehement Capital Partners,2017-03-12,2017-03-16,onboarding,medium,resolved,119.0,2.0,David Reynolds
+TKT-001389,Vehement Capital Partners,2017-02-26,2017-03-03,onboarding,low,resolved,127.0,4.0,Charles Haley
+TKT-001390,Vehement Capital Partners,2017-10-25,2017-10-30,technical,low,resolved,141.0,2.0,Robert Thompson
+TKT-001391,Vehement Capital Partners,2017-05-26,,feature_request,medium,waiting_on_customer,,,Dr. Samuel Holmes DDS
+TKT-001392,Vehement Capital Partners,2017-09-12,2017-09-13,onboarding,medium,resolved,47.0,3.0,Elizabeth Hart
+TKT-001393,Vehement Capital Partners,2017-03-07,2017-03-15,account_management,low,resolved,200.0,2.0,Jennifer Vaughn
+TKT-001394,Vehement Capital Partners,2017-04-15,,billing,medium,escalated,,,Robert Woods
+TKT-001395,Vehement Capital Partners,2017-12-12,2017-12-13,billing,high,resolved,30.0,4.0,Joanna Cook
+TKT-001396,Vehement Capital Partners,2017-06-18,2017-06-19,account_management,medium,resolved,32.0,,Justin Frederick
+TKT-001397,Vehement Capital Partners,2017-03-30,2017-03-31,feature_request,high,resolved,42.0,5.0,Alejandro Martinez
+TKT-001398,Vehement Capital Partners,2017-05-01,2017-05-02,billing,high,resolved,25.0,5.0,Tracey Gonzalez
+TKT-001399,Vehement Capital Partners,2017-08-09,2017-08-13,account_management,medium,resolved,106.0,1.0,Mariah Thompson
+TKT-001400,Vehement Capital Partners,2017-03-23,2017-03-27,billing,medium,resolved,98.0,3.0,Heather Nunez
+TKT-001401,Vehement Capital Partners,2017-01-22,2017-01-24,feature_request,low,resolved,63.0,4.0,Dr. Steve James
+TKT-001402,Warephase,2017-12-20,2017-12-22,technical,low,resolved,54.0,4.0,Mark Thomas
+TKT-001403,Warephase,2017-12-26,2017-12-28,onboarding,low,resolved,70.0,,Robert Rogers
+TKT-001404,Warephase,2017-12-07,2017-12-09,technical,medium,resolved,56.0,3.0,Laura Sweeney
+TKT-001405,Warephase,2017-06-28,2017-06-30,onboarding,low,resolved,71.0,5.0,Christopher Perez
+TKT-001406,Warephase,2017-04-24,2017-04-24,onboarding,critical,resolved,7.0,5.0,Eddie Adams
+TKT-001407,Warephase,2017-12-30,2017-12-31,onboarding,high,resolved,40.0,4.0,Denise Wallace
+TKT-001408,Warephase,2017-06-02,2017-06-03,bug_report,medium,resolved,39.0,4.0,Heidi Matthews
+TKT-001409,Warephase,2017-05-29,2017-06-07,billing,low,resolved,220.0,,Jennifer White
+TKT-001410,Warephase,2017-04-03,2017-04-04,billing,medium,resolved,25.0,4.0,Nicholas Stanley
+TKT-001411,Warephase,2017-06-01,2017-06-05,feature_request,medium,resolved,108.0,3.0,Mercedes Miller
+TKT-001412,Warephase,2017-03-23,2017-03-24,technical,medium,resolved,27.0,4.0,Brian Brown
+TKT-001413,Warephase,2017-01-25,2017-01-26,bug_report,low,resolved,43.0,,Kimberly Johnson
+TKT-001414,Warephase,2017-11-26,2017-11-27,bug_report,medium,resolved,47.0,,Phillip Miller
+TKT-001415,Warephase,2017-05-25,2017-05-26,technical,low,resolved,42.0,,Christopher Pena
+TKT-001416,Warephase,2017-10-10,2017-10-11,billing,high,resolved,44.0,,Ellen Wright
+TKT-001417,Xx-holding,2017-07-17,2017-07-20,technical,medium,resolved,76.0,,Mark Anderson
+TKT-001418,Xx-holding,2017-07-19,,billing,high,escalated,,,Alyssa Alvarado
+TKT-001419,Xx-holding,2017-11-15,2017-11-18,billing,medium,resolved,80.0,3.0,Erika Alvarez
+TKT-001420,Xx-holding,2017-06-17,2017-06-19,technical,medium,resolved,71.0,,Kimberly Nelson
+TKT-001421,Xx-holding,2017-03-31,2017-04-07,bug_report,low,resolved,183.0,4.0,Wayne Wolfe
+TKT-001422,Xx-holding,2017-12-23,2017-12-23,technical,medium,resolved,19.0,5.0,Kyle Welch
+TKT-001423,Xx-holding,2017-11-27,2017-12-02,feature_request,low,resolved,126.0,,Kristy Mills
+TKT-001424,Xx-holding,2017-08-23,2017-08-27,technical,medium,resolved,118.0,3.0,Emily Reed
+TKT-001425,Xx-holding,2017-10-09,2017-10-13,billing,medium,resolved,96.0,2.0,Regina Ramos
+TKT-001426,Xx-holding,2017-02-21,2017-02-21,technical,medium,resolved,18.0,5.0,David Torres
+TKT-001427,Xx-holding,2017-09-18,2017-09-19,billing,medium,resolved,31.0,3.0,Robert Charles
+TKT-001428,Xx-holding,2017-07-02,2017-07-02,feature_request,high,resolved,13.0,4.0,John Smith
+TKT-001429,Xx-holding,2017-01-06,,onboarding,low,waiting_on_customer,,,Theresa Woods
+TKT-001430,Xx-holding,2017-01-06,2017-01-06,technical,critical,resolved,2.0,5.0,Jeffrey Carter
+TKT-001431,Xx-holding,2017-08-20,2017-08-21,account_management,medium,resolved,45.0,5.0,Adam Brooks
+TKT-001432,Xx-holding,2017-02-07,2017-02-11,billing,low,resolved,112.0,,Justin Foster
+TKT-001433,Xx-holding,2017-08-15,2017-08-19,onboarding,medium,resolved,99.0,3.0,Omar Price
+TKT-001434,Xx-holding,2017-10-22,2017-10-24,bug_report,low,resolved,63.0,,Dennis Henderson
+TKT-001435,Xx-holding,2017-01-31,2017-02-02,technical,medium,resolved,51.0,5.0,Phillip Kent
+TKT-001436,Xx-holding,2017-12-21,2017-12-22,feature_request,high,resolved,47.0,5.0,Melinda Mitchell
+TKT-001437,Xx-holding,2017-12-18,2017-12-26,bug_report,low,resolved,196.0,2.0,Rhonda Gutierrez
+TKT-001438,Xx-holding,2017-11-26,2017-11-28,billing,medium,resolved,53.0,4.0,Catherine Roberts
+TKT-001439,Xx-holding,2017-09-06,2017-09-06,onboarding,critical,resolved,5.0,5.0,Lisa Nelson
+TKT-001440,Xx-holding,2017-06-19,2017-06-20,technical,low,resolved,28.0,,Chelsea Smith
+TKT-001441,Xx-holding,2017-06-25,2017-06-26,onboarding,medium,resolved,24.0,,Joseph Lopez
+TKT-001442,Xx-holding,2017-10-25,2017-10-29,billing,low,resolved,101.0,,Derrick Espinoza
+TKT-001443,Xx-zobam,2017-02-08,,billing,critical,escalated,,,Crystal Hernandez
+TKT-001444,Xx-zobam,2017-04-14,2017-04-15,feature_request,medium,resolved,35.0,,Glenn Collins DDS
+TKT-001445,Xx-zobam,2017-09-17,,onboarding,medium,open,,,Mrs. Raven Rivera DVM
+TKT-001446,Xx-zobam,2017-10-04,,technical,low,open,,,Amy Rowe
+TKT-001447,Xx-zobam,2017-01-11,2017-01-11,billing,high,resolved,21.0,5.0,John Lee
+TKT-001448,Xx-zobam,2017-09-18,,onboarding,medium,waiting_on_customer,,,Ruth Clayton
+TKT-001449,Xx-zobam,2017-01-08,2017-01-11,feature_request,medium,resolved,87.0,4.0,Randy Wright
+TKT-001450,Xx-zobam,2017-09-28,2017-09-28,onboarding,high,resolved,20.0,5.0,Jessica Rojas
+TKT-001451,Xx-zobam,2017-09-30,2017-10-01,onboarding,high,resolved,40.0,3.0,Joel Wise
+TKT-001452,Xx-zobam,2017-12-07,2017-12-07,technical,high,resolved,7.0,5.0,Vickie Kennedy
+TKT-001453,Xx-zobam,2017-12-02,2017-12-02,feature_request,critical,resolved,6.0,5.0,Emily Morris
+TKT-001454,Xx-zobam,2017-12-25,2017-12-27,technical,medium,resolved,66.0,4.0,Amanda Pineda
+TKT-001455,Xx-zobam,2017-01-27,2017-01-27,feature_request,medium,resolved,14.0,4.0,Dawn Little
+TKT-001456,Xx-zobam,2017-08-31,2017-09-01,account_management,high,resolved,27.0,,Stephen Boyer
+TKT-001457,Y-corporation,2017-08-25,2017-08-28,onboarding,medium,resolved,88.0,,Brian Chen
+TKT-001458,Y-corporation,2017-08-18,2017-08-27,feature_request,low,resolved,239.0,,Christopher Hill
+TKT-001459,Y-corporation,2017-07-12,2017-07-13,billing,medium,resolved,31.0,,Richard Smith
+TKT-001460,Y-corporation,2017-08-17,,technical,high,escalated,,,Richard Alvarez
+TKT-001461,Y-corporation,2017-08-26,2017-08-29,technical,medium,resolved,94.0,1.0,Jacqueline Davis
+TKT-001462,Y-corporation,2017-05-09,2017-05-12,feature_request,medium,resolved,76.0,2.0,Brandon Montgomery
+TKT-001463,Y-corporation,2017-11-17,,technical,medium,open,,,Yolanda Garrett
+TKT-001464,Y-corporation,2017-12-06,,onboarding,low,escalated,,,Matthew Miles
+TKT-001465,Y-corporation,2017-12-24,,billing,high,escalated,,,Beth Hall
+TKT-001466,Y-corporation,2017-03-14,2017-03-15,billing,medium,resolved,24.0,4.0,Dr. Nicole Trujillo
+TKT-001467,Y-corporation,2017-02-08,2017-02-09,bug_report,medium,resolved,24.0,5.0,Corey Norris
+TKT-001468,Y-corporation,2017-06-07,2017-06-16,billing,low,resolved,222.0,,Chad Roach
+TKT-001469,Y-corporation,2017-07-18,,onboarding,low,open,,,Mr. Edward Terry
+TKT-001470,Y-corporation,2017-04-15,,onboarding,medium,open,,,Cody Bailey
+TKT-001471,Y-corporation,2017-06-24,2017-07-02,billing,low,resolved,206.0,3.0,Denise Guerra
+TKT-001472,Y-corporation,2017-04-26,2017-05-03,feature_request,low,resolved,176.0,,Kristen Jones
+TKT-001473,Y-corporation,2017-10-15,2017-10-18,bug_report,medium,resolved,78.0,,Edward Baker
+TKT-001474,Y-corporation,2017-09-10,2017-09-11,onboarding,medium,resolved,26.0,,Aaron Little
+TKT-001475,Y-corporation,2017-07-23,2017-07-23,bug_report,critical,resolved,7.0,,Cody Smith
+TKT-001476,Y-corporation,2017-05-26,2017-05-31,feature_request,low,resolved,131.0,,Patty Allen
+TKT-001477,Y-corporation,2017-03-19,,onboarding,high,escalated,,,Mary Ryan
+TKT-001478,Y-corporation,2017-08-02,2017-08-07,onboarding,low,resolved,140.0,3.0,Joseph Jimenez
+TKT-001479,Y-corporation,2017-03-19,2017-03-25,technical,low,resolved,145.0,,Lisa Morris
+TKT-001480,Yearin,2017-05-16,2017-05-16,billing,critical,resolved,7.0,5.0,Ashley Mills
+TKT-001481,Yearin,2017-06-02,,onboarding,medium,escalated,,,Russell Anderson
+TKT-001482,Yearin,2017-12-25,2017-12-26,feature_request,medium,resolved,25.0,5.0,Christina Washington
+TKT-001483,Yearin,2017-08-28,2017-08-31,technical,low,resolved,73.0,3.0,Kenneth Huff
+TKT-001484,Yearin,2017-04-27,2017-04-30,bug_report,medium,resolved,77.0,4.0,Kelly Miles
+TKT-001485,Yearin,2017-06-07,2017-06-15,feature_request,low,resolved,210.0,2.0,Jacob Obrien
+TKT-001486,Yearin,2017-06-10,2017-06-12,billing,medium,resolved,50.0,,Timothy Clark
+TKT-001487,Yearin,2017-01-13,2017-01-14,bug_report,high,resolved,32.0,4.0,Steve Miller PhD
+TKT-001488,Yearin,2017-02-11,,billing,medium,escalated,,,Justin Hurley
+TKT-001489,Yearin,2017-07-20,2017-07-22,technical,medium,resolved,62.0,,Jacob Erickson
+TKT-001490,Yearin,2017-05-02,2017-05-05,feature_request,medium,resolved,82.0,3.0,Deborah Williams
+TKT-001491,Yearin,2017-01-25,,technical,medium,escalated,,,Eric Blackburn
+TKT-001492,Yearin,2017-01-04,2017-01-12,technical,low,resolved,207.0,2.0,Anne Hardy
+TKT-001493,Yearin,2017-03-25,2017-03-26,bug_report,high,resolved,27.0,3.0,Chelsey Fox
+TKT-001494,Yearin,2017-03-07,,technical,low,waiting_on_customer,,,Mario White
+TKT-001495,Yearin,2017-05-27,2017-06-02,onboarding,low,resolved,163.0,3.0,Jennifer Garcia
+TKT-001496,Yearin,2017-07-22,2017-07-22,billing,critical,resolved,5.0,5.0,Heather Ellis
+TKT-001497,Yearin,2017-01-26,2017-01-27,technical,medium,resolved,45.0,5.0,Sonya Jackson
+TKT-001498,Yearin,2017-03-06,2017-03-07,feature_request,medium,resolved,35.0,,James Morgan
+TKT-001499,Zathunicon,2017-07-15,2017-07-16,account_management,high,resolved,35.0,,Zachary Ramos
+TKT-001500,Zathunicon,2017-07-06,2017-07-09,onboarding,low,resolved,84.0,3.0,Ethan Frey
+TKT-001501,Zathunicon,2017-06-28,2017-06-28,billing,critical,resolved,2.0,,Jacob Duran
+TKT-001502,Zathunicon,2017-04-17,2017-04-21,bug_report,medium,resolved,101.0,4.0,Nicholas Franklin
+TKT-001503,Zathunicon,2017-05-04,,technical,medium,open,,,Cindy Cannon
+TKT-001504,Zathunicon,2017-03-16,2017-03-17,technical,low,resolved,26.0,,Dawn Nixon
+TKT-001505,Zathunicon,2017-04-20,,onboarding,medium,waiting_on_customer,,,James Barber
+TKT-001506,Zathunicon,2017-09-05,2017-09-07,billing,low,resolved,60.0,4.0,Ms. Kelly Holder
+TKT-001507,Zathunicon,2017-11-13,2017-11-14,onboarding,medium,resolved,47.0,5.0,Eric Walker
+TKT-001508,Zathunicon,2017-12-27,2017-12-28,billing,medium,resolved,38.0,4.0,Alison Short
+TKT-001509,Zathunicon,2017-06-27,2017-06-28,technical,medium,resolved,24.0,4.0,Desiree Spencer
+TKT-001510,Zathunicon,2017-12-14,2017-12-15,billing,medium,resolved,25.0,5.0,Tammy Moore
+TKT-001511,Zathunicon,2017-08-31,2017-09-01,technical,high,resolved,32.0,5.0,Henry Taylor
+TKT-001512,Zathunicon,2017-11-10,2017-11-12,account_management,medium,resolved,70.0,4.0,Kevin Hall
+TKT-001513,Zathunicon,2017-05-15,2017-05-22,technical,low,resolved,182.0,,Anna Ross
+TKT-001514,Zathunicon,2017-07-13,2017-07-13,onboarding,medium,resolved,17.0,5.0,Morgan Cummings
+TKT-001515,Zathunicon,2017-06-16,,feature_request,medium,open,,,Carrie Petersen
+TKT-001516,Zencorporation,2017-10-24,2017-10-24,technical,critical,resolved,1.0,,Laura Velez
+TKT-001517,Zencorporation,2017-09-10,2017-09-10,onboarding,high,resolved,17.0,4.0,Elizabeth Cross
+TKT-001518,Zencorporation,2017-02-16,2017-02-18,onboarding,low,resolved,51.0,5.0,Angela Brown
+TKT-001519,Zencorporation,2017-03-12,2017-03-15,technical,medium,resolved,73.0,,Hannah Montoya
+TKT-001520,Zencorporation,2017-08-07,,account_management,low,open,,,Sean Kane
+TKT-001521,Zencorporation,2017-04-03,2017-04-11,bug_report,low,resolved,213.0,,Matthew Guzman
+TKT-001522,Zencorporation,2017-11-23,2017-11-25,account_management,low,resolved,61.0,5.0,Richard Reyes
+TKT-001523,Zencorporation,2017-04-30,,technical,high,open,,,Andrew Fernandez
+TKT-001524,Zencorporation,2017-12-15,,technical,critical,escalated,,,Jonathan Walker
+TKT-001525,Zencorporation,2017-02-10,2017-02-15,billing,low,resolved,130.0,,Nicholas Long
+TKT-001526,Zencorporation,2017-07-03,2017-07-12,bug_report,low,resolved,220.0,3.0,Kurt Wagner
+TKT-001527,Zencorporation,2017-07-25,2017-07-25,onboarding,critical,resolved,5.0,4.0,Dylan Foster
+TKT-001528,Zencorporation,2017-03-19,2017-03-22,billing,low,resolved,92.0,,Bradley Duncan
+TKT-001529,Zencorporation,2017-06-11,2017-06-12,billing,high,resolved,40.0,4.0,James Miller
+TKT-001530,Zencorporation,2017-02-13,2017-02-14,billing,low,resolved,35.0,,Patricia Anderson
+TKT-001531,Zencorporation,2017-12-29,2017-12-29,billing,high,resolved,10.0,5.0,Justin Freeman
+TKT-001532,Zencorporation,2017-11-19,2017-11-23,feature_request,medium,resolved,98.0,4.0,Christina Gilbert
+TKT-001533,Zencorporation,2017-11-12,2017-11-15,feature_request,medium,resolved,84.0,3.0,Danielle Jones
+TKT-001534,Zencorporation,2017-05-09,2017-05-09,technical,high,resolved,22.0,,Erica Glass
+TKT-001535,Zoomit,2017-05-14,2017-05-23,technical,low,resolved,233.0,,Michael Henderson
+TKT-001536,Zoomit,2017-11-22,2017-11-24,feature_request,medium,resolved,64.0,4.0,Frank Wheeler
+TKT-001537,Zoomit,2017-12-28,2018-01-04,feature_request,low,resolved,184.0,4.0,Eric Huerta
+TKT-001538,Zoomit,2017-10-07,2017-10-09,feature_request,medium,resolved,64.0,,Wanda Ramos
+TKT-001539,Zoomit,2017-11-21,2017-11-22,technical,medium,resolved,42.0,,Andrew Meyers
+TKT-001540,Zoomit,2017-03-16,2017-03-17,billing,medium,resolved,24.0,,James Todd
+TKT-001541,Zoomit,2017-12-22,2017-12-22,billing,medium,resolved,17.0,4.0,Ashley Brown
+TKT-001542,Zoomit,2017-05-28,2017-05-28,technical,critical,resolved,7.0,5.0,Tammy Melton
+TKT-001543,Zoomit,2017-04-19,2017-04-19,account_management,high,resolved,4.0,5.0,Alexis Benson
+TKT-001544,Zoomit,2017-02-24,2017-02-25,technical,medium,resolved,38.0,3.0,Jerry Johnson
+TKT-001545,Zoomit,2017-09-27,2017-09-29,technical,medium,resolved,49.0,4.0,Joshua Harris
+TKT-001546,Zoomit,2017-07-22,2017-07-24,account_management,medium,resolved,59.0,4.0,Deanna Webb
+TKT-001547,Zotware,2017-10-28,2017-10-29,technical,high,resolved,46.0,,Brenda Hale
+TKT-001548,Zotware,2017-08-20,2017-08-29,feature_request,low,resolved,233.0,1.0,Kevin Alvarado
+TKT-001549,Zotware,2017-12-24,2018-01-02,feature_request,low,resolved,239.0,3.0,Christopher Campbell
+TKT-001550,Zotware,2017-07-27,,technical,medium,waiting_on_customer,,,Lisa Brown
+TKT-001551,Zotware,2017-03-09,2017-03-13,billing,medium,resolved,97.0,2.0,Alejandra Price
+TKT-001552,Zotware,2017-03-10,2017-03-11,billing,high,resolved,36.0,,Samuel Keller
+TKT-001553,Zotware,2017-07-15,2017-07-16,technical,medium,resolved,39.0,,Alicia Dillon
+TKT-001554,Zotware,2017-11-13,2017-11-18,bug_report,low,resolved,133.0,2.0,Crystal James
+TKT-001555,Zotware,2017-11-10,2017-11-17,technical,low,resolved,188.0,3.0,Ariana Stewart
+TKT-001556,Zotware,2017-01-17,,billing,low,escalated,,,Kim Lopez
+TKT-001557,Zotware,2017-07-29,2017-07-30,bug_report,medium,resolved,38.0,3.0,Judith House
+TKT-001558,Zotware,2017-04-10,,billing,medium,escalated,,,David Moreno
+TKT-001559,Zotware,2017-01-10,2017-01-10,onboarding,high,resolved,10.0,,James Moore
+TKT-001560,Zotware,2017-03-26,2017-03-27,technical,high,resolved,39.0,4.0,Harold Garrett
+TKT-001561,Zotware,2017-08-11,2017-08-15,onboarding,medium,resolved,113.0,2.0,William Mason
+TKT-001562,Zotware,2017-04-11,,feature_request,medium,open,,,Lori Johns
+TKT-001563,Zotware,2017-02-14,2017-02-15,billing,medium,resolved,33.0,3.0,Robin Johnson
+TKT-001564,Zotware,2017-10-29,,technical,medium,open,,,Diana Hernandez
+TKT-001565,Zotware,2017-11-12,2017-11-20,billing,low,resolved,203.0,3.0,Mary Miller
+TKT-001566,Zotware,2017-02-17,,billing,high,escalated,,,Tyler Salazar
+TKT-001567,Zotware,2017-11-04,2017-11-08,billing,medium,resolved,103.0,2.0,Crystal Allen
+TKT-001568,Zotware,2017-03-16,2017-03-17,feature_request,medium,resolved,47.0,,Wesley Browning
+TKT-001569,Zotware,2017-07-29,2017-08-04,technical,low,resolved,145.0,,Joshua Clark
+TKT-001570,Zotware,2017-06-02,2017-06-03,billing,medium,resolved,47.0,4.0,Joshua Mcbride
+TKT-001571,Zotware,2017-01-22,2017-01-30,billing,low,resolved,202.0,,Ellen Thornton
+TKT-001572,Zumgoity,2017-02-08,2017-02-11,billing,low,resolved,95.0,,Brandy Forbes
+TKT-001573,Zumgoity,2017-03-24,2017-03-25,technical,medium,resolved,42.0,,Brianna Fitzpatrick
+TKT-001574,Zumgoity,2017-08-05,2017-08-05,onboarding,high,resolved,23.0,,Emily Grant
+TKT-001575,Zumgoity,2017-03-16,,onboarding,high,waiting_on_customer,,,Bailey Stewart
+TKT-001576,Zumgoity,2017-01-30,2017-01-31,billing,medium,resolved,31.0,3.0,Monica Cannon
+TKT-001577,Zumgoity,2017-04-22,2017-04-22,billing,medium,resolved,19.0,5.0,Jennifer Jenkins
+TKT-001578,Zumgoity,2017-09-26,2017-09-27,onboarding,high,resolved,34.0,3.0,Timothy Shannon
+TKT-001579,Zumgoity,2017-06-14,2017-06-14,technical,critical,resolved,2.0,5.0,Denise Maxwell
+TKT-001580,Zumgoity,2017-07-12,2017-07-14,bug_report,low,resolved,61.0,4.0,Cody Farmer
+TKT-001581,Zumgoity,2017-10-29,2017-10-30,billing,high,resolved,47.0,4.0,Debra Bradley
+TKT-001582,Zumgoity,2017-05-16,2017-05-25,onboarding,low,resolved,225.0,4.0,David Mcdaniel
