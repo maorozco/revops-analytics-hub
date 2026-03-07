@@ -1,0 +1,76 @@
+version: 2
+
+models:
+  - name: dim_accounts
+    description: >
+      Account dimension with customer health metrics, churn risk,
+      and account tier classification. One row per account.
+    columns:
+      - name: account_name
+        description: "Company name (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: account_tier
+        description: "Enterprise (500M+), Mid-Market (100M+), SMB"
+      - name: health_score
+        description: "Composite health score (0-100)"
+      - name: churn_risk
+        description: "High, Medium, Low"
+      - name: lifetime_revenue_usd
+        description: "Total revenue from all won deals"
+
+  - name: dim_products
+    description: >
+      Product dimension with cost structure and margin classification.
+      One row per product.
+    columns:
+      - name: product_name
+        description: "Product name (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: margin_tier
+        description: "High Margin (40%+), Medium Margin (25%+), Low Margin"
+      - name: gross_margin_pct
+        description: "Gross margin percentage"
+
+  - name: dim_sales_teams
+    description: "Sales team dimension: agent, manager, regional office."
+    columns:
+      - name: agent_name
+        description: "Sales agent full name (primary key)"
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_sales_pipeline
+    description: >
+      Fact table with one row per sales opportunity. Includes deal economics
+      (revenue, cost, profit) and pipeline metrics.
+    columns:
+      - name: opportunity_id
+        description: "Unique deal identifier (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: close_value_usd
+        description: "Deal revenue at close"
+      - name: net_profit_usd
+        description: "Revenue minus all costs"
+      - name: days_in_pipeline
+        description: "Sales cycle length in days"
+
+  - name: fct_sales_performance
+    description: >
+      Fact table with monthly agent performance metrics.
+      One row per agent per month.
+    columns:
+      - name: agent_name
+        description: "Sales agent"
+      - name: period_month
+        description: "Month (YYYY-MM)"
+      - name: performance_tier
+        description: "Star Performer (120%+), On Target (100%+), Needs Improvement (80%+), Underperforming"
+      - name: quota_attainment_pct
+        description: "Quota attainment percentage"
