@@ -1,0 +1,143 @@
+version: 2
+
+models:
+  - name: stg_accounts
+    description: "Cleaned account data from CRM. One row per customer account."
+    columns:
+      - name: account_name
+        description: "Company name (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: sector
+        description: "Industry sector"
+      - name: annual_revenue_usd
+        description: "Annual revenue in USD"
+      - name: employee_count
+        description: "Number of employees"
+
+  - name: stg_products
+    description: "Product catalog with list prices."
+    columns:
+      - name: product_name
+        description: "Product name (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: product_series
+        description: "Product line/series"
+      - name: list_price_usd
+        description: "List price in USD"
+
+  - name: stg_sales_teams
+    description: "Sales team hierarchy: agent → manager → office."
+    columns:
+      - name: agent_name
+        description: "Sales agent full name (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: manager_name
+        description: "Direct manager name"
+      - name: regional_office
+        description: "Regional office location"
+
+  - name: stg_sales_pipeline
+    description: "CRM sales opportunities with deal stages and values."
+    columns:
+      - name: opportunity_id
+        description: "Unique deal identifier (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: agent_name
+        description: "Sales agent who owns the deal"
+      - name: product_name
+        description: "Product being sold"
+      - name: account_name
+        description: "Customer account"
+      - name: deal_stage
+        description: "Current stage: Prospecting, Qualification, Proposal, Negotiation, Won, Lost"
+      - name: engage_date
+        description: "Date deal entered pipeline"
+      - name: close_date
+        description: "Date deal was closed (won or lost)"
+      - name: close_value_usd
+        description: "Deal value at close in USD"
+
+  - name: stg_quotas
+    description: "Monthly sales quotas assigned to each agent."
+    columns:
+      - name: quota_id
+        description: "Unique quota identifier (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: agent_name
+        description: "Sales agent"
+      - name: quota_month
+        description: "Month in YYYY-MM format"
+      - name: quota_amount_usd
+        description: "Quota target in USD"
+
+  - name: stg_activities
+    description: "Sales activities (calls, emails, meetings) linked to opportunities."
+    columns:
+      - name: activity_id
+        description: "Unique activity identifier (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: opportunity_id
+        description: "Related opportunity"
+      - name: activity_type
+        description: "Type: call, email, meeting, demo, follow_up"
+      - name: duration_minutes
+        description: "Activity duration in minutes"
+      - name: outcome
+        description: "Result: positive, neutral, negative"
+
+  - name: stg_costs
+    description: "Product cost structure from ERP system."
+    columns:
+      - name: product_name
+        description: "Product name (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: cogs_usd
+        description: "Cost of goods sold per unit"
+      - name: gross_margin_pct
+        description: "Gross margin percentage"
+
+  - name: stg_nps_surveys
+    description: "Net Promoter Score surveys sent to customer accounts."
+    columns:
+      - name: survey_id
+        description: "Unique survey identifier (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: account_name
+        description: "Customer account surveyed"
+      - name: nps_score
+        description: "NPS score (0-10)"
+      - name: nps_category
+        description: "Promoter (9-10), Passive (7-8), Detractor (0-6)"
+
+  - name: stg_support_tickets
+    description: "Customer support tickets from support platform."
+    columns:
+      - name: ticket_id
+        description: "Unique ticket identifier (primary key)"
+        tests:
+          - unique
+          - not_null
+      - name: account_name
+        description: "Customer account"
+      - name: ticket_priority
+        description: "Priority: Low, Medium, High"
+      - name: resolution_hours
+        description: "Hours to resolve the ticket"
+      - name: satisfaction_rating
+        description: "Post-resolution satisfaction (1-5)"
