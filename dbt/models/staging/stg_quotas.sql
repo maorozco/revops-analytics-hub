@@ -10,8 +10,10 @@ renamed as (
         regional_office,
         quota_month,
         quota_amount_usd,
-        quota_type
+        quota_type,
+        row_number() over (partition by quota_id order by quota_amount_usd desc) as rn
     from source
 )
 
-select * from renamed
+-- Deduplicate: keep highest quota when quota_id is duplicated
+select * except(rn) from renamed where rn = 1
