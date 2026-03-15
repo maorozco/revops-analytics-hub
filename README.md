@@ -210,10 +210,9 @@ gcloud auth application-default login
 # - Granular IAM roles (bigquery.dataEditor, bigquery.jobUser)
 ```
 
-<!-- Screenshots from GCP Console -->
-<!-- ![Raw Dataset](docs/screenshots/bigquery_raw_dataset.png) -->
-<!-- ![Analytics Dataset](docs/screenshots/bigquery_analytics_dataset.png) -->
-<!-- ![dim_accounts Preview](docs/screenshots/bigquery_dim_accounts_preview.png) -->
+### Screenshots 
+  ![Raw Dataset](docs/screenshots/bigquery_raw_dataset.jpeg)                                   ![Analytics Dataset](docs/screenshots/bigquery_analytics_dataset.jpeg)
+  ![dbt run](docs/screenshots/dbt_run_result.jpeg)                                             ![dbt test](docs/screenshots/dbt_test_result.jpeg)
 
 ---
 
