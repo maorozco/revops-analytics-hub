@@ -6,7 +6,11 @@ renamed as (
     select
         opportunity_id,
         sales_agent                         as agent_name,
-        product                             as product_name,
+        -- Standardize product name to match products/costs tables
+        case
+            when product = 'GTXPro' then 'GTX Pro'
+            else product
+        end                                 as product_name,
         account                             as account_name,
         deal_stage,
         engage_date,
