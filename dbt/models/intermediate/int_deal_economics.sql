@@ -26,7 +26,7 @@ joined as (
         -- Unit economics per deal
         round(p.close_value_usd - c.cogs_usd - c.shipping_cost_usd
               - c.support_cost_per_unit_usd
-              - (p.close_value_usd * c.sales_commission_pct / 100), 2)
+              - (p.close_value_usd * c.sales_commission_pct), 2)
             as net_profit_usd,
 
         -- Days in pipeline
