@@ -23,11 +23,14 @@ joined as (
         c.sales_commission_pct,
         c.gross_margin_pct,
 
-        -- Unit economics per deal
-        round(p.close_value_usd - c.cogs_usd - c.shipping_cost_usd
-              - c.support_cost_per_unit_usd
-              - (p.close_value_usd * c.sales_commission_pct), 2)
-            as net_profit_usd,
+        -- Unit economics per deal (only for won deals; no costs apply to lost/open deals)
+        case
+            when p.deal_stage = 'Won' then
+                round(p.close_value_usd - c.cogs_usd - c.shipping_cost_usd
+                      - c.support_cost_per_unit_usd
+                      - (p.close_value_usd * c.sales_commission_pct), 2)
+            else null
+        end as net_profit_usd,
 
         -- Days in pipeline
         date_diff(p.close_date, p.engage_date, day) as days_in_pipeline,
