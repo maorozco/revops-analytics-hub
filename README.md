@@ -2,6 +2,9 @@
 
 **End-to-end ELT pipeline for Revenue Operations analytics** — from raw data ingestion through Google BigQuery, dbt transformations with dimensional modeling, to executive dashboards in Looker Studio.
 
+**[Live Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/0f8355e4-0b4e-4cf0-8fd9-
+cbdaf9dc5dcb)** — interactive, click to explore filters, drill-downs, and cross-filtering across all 3 pages.
+
 This project replicates the same architecture a modern data team would build in production to answer critical business questions:
 
 - Which sales reps are hitting quota? Who needs coaching?
